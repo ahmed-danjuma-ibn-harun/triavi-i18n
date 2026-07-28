@@ -1,0 +1,2696 @@
+{
+  "sections": [
+    "Welcome screen",
+    "Identity step",
+    "Interview step",
+    "Review step",
+    "Urgency step",
+    "Find-hospital step",
+    "Status step",
+    "Escalation sheet",
+    "Push notification",
+    "Screen counter",
+    "Follow-up check-in",
+    "Auth: Claim (save-your-visit)",
+    "Auth: Claim request-code",
+    "Auth: OTP code",
+    "Auth: Sign-in",
+    "Auth: Validation errors",
+    "Session expired",
+    "Dashboard",
+    "Dashboard: active visit card",
+    "Dashboard: follow-up card",
+    "Dashboard: voice care calls (design DASHBOARD section)",
+    "Voice setup (design VOICE SETUP section)",
+    "Settings (design SETTINGS section)",
+    "Signed out (design SIGNED OUT section)",
+    "Welcome: session-aware row",
+    "Voice Care Call flow (ring -> active -> summary)",
+    "Past visits list + visit detail (Prompt 93)",
+    "Edit profile (design EDIT PROFILE section)",
+    "Data & privacy (design DATA & PRIVACY section)",
+    "Delete-account sheet (bottom sheet)",
+    "Download-records sheet (bottom sheet)",
+    "i18n coverage gap keys (Prompt 76 extension)"
+  ],
+  "entries": [
+    {
+      "key": "welcomeTitle",
+      "value": "Let's get you ready for your visit.",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "welcomeTitleLine1",
+      "value": "Let's get you ready",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "welcomeTitleLine2",
+      "value": "for your visit.",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "welcomeSubtitle",
+      "value": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "trustTime",
+      "value": "~2 minutes",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "trustReviewed",
+      "value": "Doctor-reviewed",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "btnStart",
+      "value": "Start pre-visit check-in",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "btnInviteCode",
+      "value": "I have an invite code",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "btnSignIn",
+      "value": "Sign in",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "hipaaFooter",
+      "value": "HIPAA-compliant · NeuronbytesAI",
+      "section": "Welcome screen",
+      "placeholders": []
+    },
+    {
+      "key": "identityTitle",
+      "value": "Let's start with you",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "identitySubtitle",
+      "value": "This connects your visit to your record.",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "labelFullName",
+      "value": "Full name",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "placeholderFullName",
+      "value": "Your full name",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "labelDob",
+      "value": "Date of birth",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "labelSex",
+      "value": "Sex",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "labelComplaint",
+      "value": "What brings you in today?",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "placeholderComplaint",
+      "value": "Describe your main symptom…",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "chipHeadache",
+      "value": "Headache",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "chipFever",
+      "value": "Fever",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "chipChestPain",
+      "value": "Chest pain",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "chipCough",
+      "value": "Cough",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "btnContinue",
+      "value": "Continue",
+      "section": "Identity step",
+      "placeholders": []
+    },
+    {
+      "key": "interviewAssistant",
+      "value": "Triavi Assistant",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "interviewAsking",
+      "value": "Asking about your symptoms",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "interviewOffline",
+      "value": "Offline",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "interviewLoading",
+      "value": "Loading your interview…",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "interviewLoadError",
+      "value": "We couldn't load your interview.",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "interviewRetry",
+      "value": "Try again",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "interviewComplete",
+      "value": "Thanks, {name}. I have what I need. Let's review your answers before sending them to the doctor.",
+      "section": "Interview step",
+      "placeholders": [
+        "name"
+      ]
+    },
+    {
+      "key": "interviewOpener",
+      "value": "Thanks — I'll ask a few quick questions about your {complaint}. When did it start?",
+      "section": "Interview step",
+      "placeholders": [
+        "complaint"
+      ]
+    },
+    {
+      "key": "interviewOpenerFallback",
+      "value": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "composerHintChips",
+      "value": "Type a reply, or tap a suggestion above",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "composerHintFree",
+      "value": "Type your reply",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "composerPlaceholder",
+      "value": "Type your reply…",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "composerAriaLabel",
+      "value": "Type your reply",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "sendAriaLabel",
+      "value": "Send reply",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "btnReviewAnswers",
+      "value": "Review my answers",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "severityDrag",
+      "value": "Tap & drag",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "severityConfirm",
+      "value": "Confirm",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "severityMild",
+      "value": "Mild",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "severityModerate",
+      "value": "Moderate",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "severityWorst",
+      "value": "Worst ever",
+      "section": "Interview step",
+      "placeholders": []
+    },
+    {
+      "key": "severityTemplate",
+      "value": "Around {n} out of 10",
+      "section": "Interview step",
+      "placeholders": [
+        "n"
+      ]
+    },
+    {
+      "key": "reviewTitle",
+      "value": "Here's what I noted",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "reviewSubtitle",
+      "value": "Tap any item to fix it before sending.",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "labelChiefComplaint",
+      "value": "Chief complaint",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "labelOnset",
+      "value": "Onset",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "labelSeverity",
+      "value": "Severity",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "labelCharacter",
+      "value": "Character",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "labelRadiation",
+      "value": "Radiation",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "labelAssociated",
+      "value": "Associated",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "reviewDone",
+      "value": "Done",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "reviewMock",
+      "value": "mock",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "reviewEdit",
+      "value": "Edit {label}",
+      "section": "Review step",
+      "placeholders": [
+        "label"
+      ]
+    },
+    {
+      "key": "btnSendToDoctor",
+      "value": "Looks right — send to doctor",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "emergencyNotice",
+      "value": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+      "section": "Review step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyBadge",
+      "value": "{level} · {label}",
+      "section": "Urgency step",
+      "placeholders": [
+        "label",
+        "level"
+      ]
+    },
+    {
+      "key": "urgencySeekCare",
+      "value": "Please seek care within 1–2 hours",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencySeekCareLine2",
+      "value": "",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyBody",
+      "value": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyNextSteps",
+      "value": "What happens next",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyStep1Title",
+      "value": "Your brief is sent now",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyStep1Desc",
+      "value": "The clinical team receives your structured history immediately.",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyStep2Title",
+      "value": "Seen within 1–2 hours",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyStep2Desc",
+      "value": "Based on {level} urgency. You will be notified when a clinician opens it.",
+      "section": "Urgency step",
+      "placeholders": [
+        "level"
+      ]
+    },
+    {
+      "key": "urgencyStep3Title",
+      "value": "If it worsens, act fast",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "urgencyStep3Desc",
+      "value": "Severe or sudden worsening — call emergency services right away.",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "notADiagnosis",
+      "value": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "notADiagnosisBold",
+      "value": "not a diagnosis",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "btnContinueNav",
+      "value": "Continue",
+      "section": "Urgency step",
+      "placeholders": []
+    },
+    {
+      "key": "findHeroWelcome",
+      "value": "Welcome back",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findHeroSubtitle",
+      "value": "You've been seen at this hospital before. Send your brief straight there?",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findHeroLastVisit",
+      "value": "Last visit · {date}",
+      "section": "Find-hospital step",
+      "placeholders": [
+        "date"
+      ]
+    },
+    {
+      "key": "findHeroDistance",
+      "value": "Away",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findHeroEta",
+      "value": "Est. wait",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findHeroDoctors",
+      "value": "Doctors on",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findHeroRecordsNote",
+      "value": "They already hold your records, so your care team sees your full history right away.",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findBtnRouteTo",
+      "value": "Route me to {hospital}",
+      "section": "Find-hospital step",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "findBtnChooseDifferent",
+      "value": "Choose a different hospital",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findSearchTitle",
+      "value": "Where would you like to be seen?",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findSearchSubtitle",
+      "value": "Pick a Triavi hospital near you — your {level} brief is sent the moment you choose.",
+      "section": "Find-hospital step",
+      "placeholders": [
+        "level"
+      ]
+    },
+    {
+      "key": "findScanning",
+      "value": "Scanning Triavi hospitals near you…",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findHospitalsNear",
+      "value": "{count} hospitals near you",
+      "section": "Find-hospital step",
+      "placeholders": [
+        "count"
+      ]
+    },
+    {
+      "key": "findSortedByDistance",
+      "value": "· sorted by distance",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findBtnRescan",
+      "value": "Rescan",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findNearestBadge",
+      "value": "NEAREST",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findDoctorsOnline",
+      "value": "{count} online",
+      "section": "Find-hospital step",
+      "placeholders": [
+        "count"
+      ]
+    },
+    {
+      "key": "findLevelReady",
+      "value": "Level {level} ready",
+      "section": "Find-hospital step",
+      "placeholders": [
+        "level"
+      ]
+    },
+    {
+      "key": "findLevelOnly",
+      "value": "Level {min}+ only",
+      "section": "Find-hospital step",
+      "placeholders": [
+        "min"
+      ]
+    },
+    {
+      "key": "findBtnSelect",
+      "value": "Select a hospital",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "findErrLocation",
+      "value": "We couldn't get your location. Tap rescan to try again.",
+      "section": "Find-hospital step",
+      "placeholders": []
+    },
+    {
+      "key": "statusInQueue",
+      "value": "You're in the queue",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "statusBody",
+      "value": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "statusSubmitted",
+      "value": "Submitted {time} ago",
+      "section": "Status step",
+      "placeholders": [
+        "time"
+      ]
+    },
+    {
+      "key": "statInLine",
+      "value": "In line",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "statEstWait",
+      "value": "Est. wait",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "timelineSubmitted",
+      "value": "Answers submitted",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "timelineJustNow",
+      "value": "Just now",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "timelineReviewing",
+      "value": "Doctor reviewing your brief",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "timelineInProg",
+      "value": "In progress",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "timelineOpened",
+      "value": "A clinician opened your brief",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "timelineConsult",
+      "value": "Consultation",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "timelineUpcoming",
+      "value": "Upcoming",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "btnSaveVisit",
+      "value": "Save your visit",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "btnSymptomsWorse",
+      "value": "Symptoms worse",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "btnRestartDemo",
+      "value": "Restart demo",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "btnBackToDashboard",
+      "value": "Back to dashboard",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "ariaBack",
+      "value": "Back",
+      "section": "Status step",
+      "placeholders": []
+    },
+    {
+      "key": "escalateTitle",
+      "value": "If it's getting worse, act now",
+      "section": "Escalation sheet",
+      "placeholders": []
+    },
+    {
+      "key": "escalateBody",
+      "value": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+      "section": "Escalation sheet",
+      "placeholders": []
+    },
+    {
+      "key": "escalateCallEmergency",
+      "value": "Call emergency services",
+      "section": "Escalation sheet",
+      "placeholders": []
+    },
+    {
+      "key": "escalateClose",
+      "value": "I'm okay — close",
+      "section": "Escalation sheet",
+      "placeholders": []
+    },
+    {
+      "key": "escalateNotDiagnosis",
+      "value": "not a diagnosis",
+      "section": "Escalation sheet",
+      "placeholders": []
+    },
+    {
+      "key": "escalateFlagged",
+      "value": "We've flagged your case as higher priority so the care team is aware.",
+      "section": "Escalation sheet",
+      "placeholders": []
+    },
+    {
+      "key": "notifyTitle",
+      "value": "Triavi · Your brief is open",
+      "section": "Push notification",
+      "placeholders": []
+    },
+    {
+      "key": "notifyBody",
+      "value": "A clinician is reviewing your brief. We'll update you as it progresses.",
+      "section": "Push notification",
+      "placeholders": []
+    },
+    {
+      "key": "screenCounter",
+      "value": "Screen {n} / {total} · {title}",
+      "section": "Screen counter",
+      "placeholders": [
+        "n",
+        "title",
+        "total"
+      ]
+    },
+    {
+      "key": "stepWelcome",
+      "value": "Welcome",
+      "section": "Screen counter",
+      "placeholders": []
+    },
+    {
+      "key": "stepAboutYou",
+      "value": "About you",
+      "section": "Screen counter",
+      "placeholders": []
+    },
+    {
+      "key": "stepInterview",
+      "value": "Interview",
+      "section": "Screen counter",
+      "placeholders": []
+    },
+    {
+      "key": "stepReview",
+      "value": "Review",
+      "section": "Screen counter",
+      "placeholders": []
+    },
+    {
+      "key": "stepUrgency",
+      "value": "Urgency",
+      "section": "Screen counter",
+      "placeholders": []
+    },
+    {
+      "key": "stepFindHospital",
+      "value": "Find hospital",
+      "section": "Screen counter",
+      "placeholders": []
+    },
+    {
+      "key": "stepStatus",
+      "value": "Status",
+      "section": "Screen counter",
+      "placeholders": []
+    },
+    {
+      "key": "checkinWelcome",
+      "value": "How are you feeling?",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinWelcomeSubtitle",
+      "value": "Answer a few questions about how you've been since your visit.",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinComplaintContext",
+      "value": "Your visit: {complaint}",
+      "section": "Follow-up check-in",
+      "placeholders": [
+        "complaint"
+      ]
+    },
+    {
+      "key": "checkinTrendBetter",
+      "value": "Better",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinTrendSame",
+      "value": "About the same",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinTrendWorse",
+      "value": "Worse",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinTrendAriaLabel",
+      "value": "How is your condition compared to before?",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinAnythingElse",
+      "value": "Anything else you'd like to tell us?",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinAnythingElsePlaceholder",
+      "value": "Type here…",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinSubmit",
+      "value": "Submit my answers",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinResultResolved",
+      "value": "We're glad you're feeling better",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinResultResolvedBody",
+      "value": "We'll check in again {next} to make sure you're still improving.",
+      "section": "Follow-up check-in",
+      "placeholders": [
+        "next"
+      ]
+    },
+    {
+      "key": "checkinResultReview",
+      "value": "A clinician will look at this today",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinResultReviewBody",
+      "value": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinResultEscalate",
+      "value": "Please seek care now",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinResultEscalateBody",
+      "value": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinResultEscalateCall",
+      "value": "Call emergency services",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinExpired",
+      "value": "This check-in link has expired",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinExpiredBody",
+      "value": "This follow-up is no longer available. Sign in to see your current check-ins.",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinExpiredSignIn",
+      "value": "Sign in to continue",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinStepWelcome",
+      "value": "Welcome",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinStepQuestions",
+      "value": "Questions",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "checkinStepResult",
+      "value": "Result",
+      "section": "Follow-up check-in",
+      "placeholders": []
+    },
+    {
+      "key": "claimTitle",
+      "value": "Save your visit",
+      "section": "Auth: Claim (save-your-visit)",
+      "placeholders": []
+    },
+    {
+      "key": "claimBody",
+      "value": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+      "section": "Auth: Claim (save-your-visit)",
+      "placeholders": []
+    },
+    {
+      "key": "claimYourVisit",
+      "value": "Your visit",
+      "section": "Auth: Claim (save-your-visit)",
+      "placeholders": []
+    },
+    {
+      "key": "claimCreateAccount",
+      "value": "Create my account",
+      "section": "Auth: Claim (save-your-visit)",
+      "placeholders": []
+    },
+    {
+      "key": "claimSkip",
+      "value": "Skip for now",
+      "section": "Auth: Claim (save-your-visit)",
+      "placeholders": []
+    },
+    {
+      "key": "authVerifyTitle",
+      "value": "Let's verify it's you",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authVerifyBody",
+      "value": "We'll send a one-time code — no password to remember.",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authSendCode",
+      "value": "Send code",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authSending",
+      "value": "Sending…",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authSecuredBy",
+      "value": "Secured by Triavi · HIPAA-compliant",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authChannelPhone",
+      "value": "Phone",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authChannelEmail",
+      "value": "Email",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authSendVia",
+      "value": "Send code via",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authPhoneLabel",
+      "value": "Phone number",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authEmailLabel",
+      "value": "Email address",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "authUseInstead",
+      "value": "Use {channel} instead",
+      "section": "Auth: Claim request-code",
+      "placeholders": [
+        "channel"
+      ]
+    },
+    {
+      "key": "authBack",
+      "value": "Back",
+      "section": "Auth: Claim request-code",
+      "placeholders": []
+    },
+    {
+      "key": "otpTitle",
+      "value": "Enter the code",
+      "section": "Auth: OTP code",
+      "placeholders": []
+    },
+    {
+      "key": "otpSentTo",
+      "value": "Sent to {dest}. It expires in 10 minutes.",
+      "section": "Auth: OTP code",
+      "placeholders": [
+        "dest"
+      ]
+    },
+    {
+      "key": "otpResend",
+      "value": "Resend",
+      "section": "Auth: OTP code",
+      "placeholders": []
+    },
+    {
+      "key": "otpResendIn",
+      "value": "Resend in 0:{sec}",
+      "section": "Auth: OTP code",
+      "placeholders": [
+        "sec"
+      ]
+    },
+    {
+      "key": "otpVerify",
+      "value": "Verify",
+      "section": "Auth: OTP code",
+      "placeholders": []
+    },
+    {
+      "key": "otpVerifying",
+      "value": "Verifying…",
+      "section": "Auth: OTP code",
+      "placeholders": []
+    },
+    {
+      "key": "otpSaved",
+      "value": "Saved!",
+      "section": "Auth: OTP code",
+      "placeholders": []
+    },
+    {
+      "key": "signinWelcomeBack",
+      "value": "Welcome back",
+      "section": "Auth: Sign-in",
+      "placeholders": []
+    },
+    {
+      "key": "signinBody",
+      "value": "Enter your phone or email and we'll send a sign-in code.",
+      "section": "Auth: Sign-in",
+      "placeholders": []
+    },
+    {
+      "key": "signinSendCode",
+      "value": "Send sign-in code",
+      "section": "Auth: Sign-in",
+      "placeholders": []
+    },
+    {
+      "key": "signinAccountTied",
+      "value": "Your account is tied to your hospital's records",
+      "section": "Auth: Sign-in",
+      "placeholders": []
+    },
+    {
+      "key": "errInvalidPhone",
+      "value": "Enter a valid phone number (7–14 digits)",
+      "section": "Auth: Validation errors",
+      "placeholders": []
+    },
+    {
+      "key": "errSendFailed",
+      "value": "Couldn't send the code. Try again.",
+      "section": "Auth: Validation errors",
+      "placeholders": []
+    },
+    {
+      "key": "errNetwork",
+      "value": "Network error. Check your connection and try again.",
+      "section": "Auth: Validation errors",
+      "placeholders": []
+    },
+    {
+      "key": "errResendFailed",
+      "value": "Couldn't resend. Try again.",
+      "section": "Auth: Validation errors",
+      "placeholders": []
+    },
+    {
+      "key": "errCodeMismatch",
+      "value": "That code didn't match. Try again.",
+      "section": "Auth: Validation errors",
+      "placeholders": []
+    },
+    {
+      "key": "sessionExpiredTitle",
+      "value": "Session expired",
+      "section": "Session expired",
+      "placeholders": []
+    },
+    {
+      "key": "sessionExpiredBody",
+      "value": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+      "section": "Session expired",
+      "placeholders": []
+    },
+    {
+      "key": "sessionExpiredSignIn",
+      "value": "Sign in again",
+      "section": "Session expired",
+      "placeholders": []
+    },
+    {
+      "key": "dashGreeting",
+      "value": "Welcome back",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashSectionActive",
+      "value": "Active visit",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashPastVisits",
+      "value": "Past visits",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashNewCheckin",
+      "value": "Start a new check-in",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashNoActive",
+      "value": "No active visit",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashNoActiveHint",
+      "value": "Start a check-in to begin a new visit.",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashNoPastVisits",
+      "value": "No past visits yet.",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashSignOut",
+      "value": "Sign out",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashMenu",
+      "value": "Menu",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashLanguage",
+      "value": "Language",
+      "section": "Dashboard",
+      "placeholders": []
+    },
+    {
+      "key": "dashInQueue",
+      "value": "In the queue",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashInLine",
+      "value": "In line",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashEstWait",
+      "value": "Est. wait",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashAnswersSubmitted",
+      "value": "Answers submitted",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashJustNow",
+      "value": "Just now",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashDoctorReviewing",
+      "value": "Doctor reviewing",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashInProgress",
+      "value": "In progress",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashConsultation",
+      "value": "Consultation",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashUpcoming",
+      "value": "Upcoming",
+      "section": "Dashboard: active visit card",
+      "placeholders": []
+    },
+    {
+      "key": "dashFollowUp",
+      "value": "Follow-up check-in",
+      "section": "Dashboard: follow-up card",
+      "placeholders": []
+    },
+    {
+      "key": "dashDueLabel",
+      "value": "Due {label}",
+      "section": "Dashboard: follow-up card",
+      "placeholders": [
+        "label"
+      ]
+    },
+    {
+      "key": "dashStartCheckin",
+      "value": "Start check-in",
+      "section": "Dashboard: follow-up card",
+      "placeholders": []
+    },
+    {
+      "key": "dashCareLine",
+      "value": "YOUR CARE LINE",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashCareLineReady",
+      "value": "Ready for calls",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashCareLinePrivacy",
+      "value": "Care calls ring in this app · your phone number is never shared.",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashStartNewCheckin",
+      "value": "Start a new check-in",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashNextCareCall",
+      "value": "Next care call",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashChangeVoice",
+      "value": "Change voice",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashMedsTitle",
+      "value": "Your medications",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashMedsFrom",
+      "value": "from {hospital}",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "dashMedCallChip",
+      "value": "Call · {time}",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": [
+        "time"
+      ]
+    },
+    {
+      "key": "dashMedPushChip",
+      "value": "Push only",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashRecentCalls",
+      "value": "Recent care calls",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashViewAll",
+      "value": "View all",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "dashSimulateCall",
+      "value": "Simulate incoming care call · demo",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "tabHome",
+      "value": "Home",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "tabVoice",
+      "value": "Voice",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "tabSettings",
+      "value": "Settings",
+      "section": "Dashboard: voice care calls (design DASHBOARD section)",
+      "placeholders": []
+    },
+    {
+      "key": "voiceTitle",
+      "value": "Care voice & calls",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "voiceSubtitle",
+      "value": "Choose who calls you, and how they sound.",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "voiceSection",
+      "value": "VOICE",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "voiceFemale",
+      "value": "Ava",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "voiceFemaleSub",
+      "value": "Female voice",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "voiceMale",
+      "value": "Sam",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "voiceMaleSub",
+      "value": "Male voice",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "toneSection",
+      "value": "TONE",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "toneWarm",
+      "value": "Warm & gentle",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "toneWarmDesc",
+      "value": "Reassuring and unhurried",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "toneProfessional",
+      "value": "Clear & professional",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "toneProfessionalDesc",
+      "value": "Direct, precise, no small talk",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "toneUpbeat",
+      "value": "Bright & upbeat",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "toneUpbeatDesc",
+      "value": "Friendly, encouraging energy",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "hearAgent",
+      "value": "Hear {agent}",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": [
+        "agent"
+      ]
+    },
+    {
+      "key": "voiceSampleQuote",
+      "value": "Hi Jordan, it's time for your evening dose…",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "sampleUnavailable",
+      "value": "Sample unavailable",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "callPrefsSection",
+      "value": "CALL PREFERENCES",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "medReminderCalls",
+      "value": "Medication reminder calls",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "medReminderCallsDesc",
+      "value": "Ring at each scheduled dose",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "postVisitCalls",
+      "value": "Post-visit check-in calls",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "postVisitCallsDesc",
+      "value": "\"How are you feeling?\" after discharge",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "quietHours",
+      "value": "Quiet hours",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "quietHoursDesc",
+      "value": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "yourCareAgent",
+      "value": "Your care agent",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "saveVoiceSettings",
+      "value": "Save voice settings",
+      "section": "Voice setup (design VOICE SETUP section)",
+      "placeholders": []
+    },
+    {
+      "key": "settingsTitle",
+      "value": "Settings",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "settingsSubtitle",
+      "value": "Preferences, language and account",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "prefsSection",
+      "value": "PREFERENCES",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "settingsLanguage",
+      "value": "Language",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "darkTheme",
+      "value": "Dark theme",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "themeDark",
+      "value": "Dark",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "themeLight",
+      "value": "Light",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "pushNotifs",
+      "value": "Push notifications",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "careCallsSection",
+      "value": "CARE CALLS",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "careCallsRow",
+      "value": "Voice & call preferences",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "careCallsRowDesc",
+      "value": "{agent} · {tone}",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": [
+        "agent",
+        "tone"
+      ]
+    },
+    {
+      "key": "privacySection",
+      "value": "PRIVACY",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "dataPrivacy",
+      "value": "Your data & privacy",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadRecords",
+      "value": "Download my records",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "comingSoon",
+      "value": "Coming soon",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "edit",
+      "value": "Edit",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "careLineLabel",
+      "value": "Care line",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "appVersionFooter",
+      "value": "Triavi Patient · v1.0.0",
+      "section": "Settings (design SETTINGS section)",
+      "placeholders": []
+    },
+    {
+      "key": "signedOutTitle",
+      "value": "You're signed out",
+      "section": "Signed out (design SIGNED OUT section)",
+      "placeholders": []
+    },
+    {
+      "key": "signedOutBody",
+      "value": "Your care line stays active — sign back in to manage calls and reminders.",
+      "section": "Signed out (design SIGNED OUT section)",
+      "placeholders": []
+    },
+    {
+      "key": "signBackIn",
+      "value": "Sign back in",
+      "section": "Signed out (design SIGNED OUT section)",
+      "placeholders": []
+    },
+    {
+      "key": "welcomeSignedInAs",
+      "value": "Signed in as {name}",
+      "section": "Welcome: session-aware row",
+      "placeholders": [
+        "name"
+      ]
+    },
+    {
+      "key": "welcomeMyDashboard",
+      "value": "My dashboard",
+      "section": "Welcome: session-aware row",
+      "placeholders": []
+    },
+    {
+      "key": "welcomeDemo",
+      "value": "Demo build",
+      "section": "Welcome: session-aware row",
+      "placeholders": []
+    },
+    {
+      "key": "callDemoChip",
+      "value": "Demo",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callRingIncoming",
+      "value": "Incoming care call",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callRingFor",
+      "value": "for {hospital}",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "callRingAgentRole",
+      "value": "Care agent",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callRingReminder",
+      "value": "{subject} · {med}",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": [
+        "med",
+        "subject"
+      ]
+    },
+    {
+      "key": "callRingVerified",
+      "value": "Verified · via your care line {code}",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": [
+        "code"
+      ]
+    },
+    {
+      "key": "callRingDecline",
+      "value": "Decline",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callRingAccept",
+      "value": "Accept",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callRingWebRtcFootnote",
+      "value": "Encrypted voice call · WebRTC · your number is never shared",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveLive",
+      "value": "LIVE CAPTIONS",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveAgentRole",
+      "value": "Care agent",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveMute",
+      "value": "Mute",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveUnmute",
+      "value": "Unmute",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveEnd",
+      "value": "End call",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveEndConfirm",
+      "value": "End this call?",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveEndYes",
+      "value": "End call",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callActiveEndNo",
+      "value": "Stay on call",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummaryReported",
+      "value": "REPORTED TO YOUR CARE TEAM",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummarySnoozed",
+      "value": "REMINDER SNOOZED 1 HOUR",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummaryNoContact",
+      "value": "NO ANSWER LOGGED",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummaryNextCareCall",
+      "value": "Next care call",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummaryBack",
+      "value": "Back to dashboard",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callDevTrigger",
+      "value": "Trigger care call ring (dev)",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callAriaMute",
+      "value": "Toggle mute",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "callAriaEnd",
+      "value": "End call",
+      "section": "Voice Care Call flow (ring -> active -> summary)",
+      "placeholders": []
+    },
+    {
+      "key": "visitsTitle",
+      "value": "Past visits",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitsSubtitle",
+      "value": "Your history with {hospital}",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "visitsPrivacyNote",
+      "value": "Only you and {hospital} can see these. Tap a visit to read the summary shared with you.",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "visitsRowCompleted",
+      "value": "Completed",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailTitle",
+      "value": "Visit detail",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailCompleted",
+      "value": "Completed",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailOutcome",
+      "value": "OUTCOME",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailFollowUp",
+      "value": "Follow-up",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailMeds",
+      "value": "MEDICATIONS PRESCRIBED",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailCalls",
+      "value": "CARE CALLS FOR THIS VISIT",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailNoCalls",
+      "value": "No care calls for this visit yet.",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailNotDiagnosis",
+      "value": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailNotFound",
+      "value": "We couldn't find that visit",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailNotFoundBody",
+      "value": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailBackToVisits",
+      "value": "Back to past visits",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailLoading",
+      "value": "Loading your visit…",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailDischargeBadge",
+      "value": "Released by your care team",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailSafetyNet",
+      "value": "SAFETY-NET ADVICE",
+      "section": "Past visits list + visit detail (Prompt 93)",
+      "placeholders": []
+    },
+    {
+      "key": "editProfileTitle",
+      "value": "Edit profile",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "editProfileSubtitle",
+      "value": "Update your details. Your doctor sees the latest.",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profilePersonalSection",
+      "value": "PERSONAL",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "labelPhone",
+      "value": "Phone number",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "placeholderPhone",
+      "value": "Your phone number",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "labelEmail",
+      "value": "Email address",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "placeholderEmail",
+      "value": "Your email address",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "labelEmergencyContact",
+      "value": "Emergency contact",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "labelEmergencyName",
+      "value": "Contact name",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "placeholderEmergencyName",
+      "value": "Name of your emergency contact",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "labelEmergencyRelation",
+      "value": "Relationship",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "placeholderEmergencyRelation",
+      "value": "e.g. Spouse, Parent",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "labelEmergencyPhone",
+      "value": "Phone",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "placeholderEmergencyPhone",
+      "value": "Contact's phone number",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profilePreferredLanguage",
+      "value": "Preferred language",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profilePreferredLanguageDesc",
+      "value": "Changes the language of every screen instantly.",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profileCareLineSection",
+      "value": "YOUR CARE LINE",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profileCareLineCopy",
+      "value": "Copy",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profileCareLineCopied",
+      "value": "Copied",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profileCareLineCopyFailed",
+      "value": "Couldn't copy - select and copy manually",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "saveProfile",
+      "value": "Save changes",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "profileSaved",
+      "value": "Profile saved",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "sexMale",
+      "value": "Male",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "sexFemale",
+      "value": "Female",
+      "section": "Edit profile (design EDIT PROFILE section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyTitle",
+      "value": "Your data & privacy",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacySubtitle",
+      "value": "What we protect, and what you control.",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeidSection",
+      "value": "DE-IDENTIFICATION",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeidTitle",
+      "value": "Always on",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeidBody",
+      "value": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeidLockLabel",
+      "value": "Locked on",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyAccessLogSection",
+      "value": "ACCESS LOG",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyConsentsSection",
+      "value": "YOUR CONSENTS",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyResearchConsent",
+      "value": "Research use",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyResearchConsentDesc",
+      "value": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyCommsConsent",
+      "value": "Care messages",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyCommsConsentDesc",
+      "value": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeleteSection",
+      "value": "DELETE ACCOUNT",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeleteTitle",
+      "value": "Delete your account",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeleteDesc",
+      "value": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDeleteCta",
+      "value": "Delete my account",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDownloadSection",
+      "value": "DOWNLOAD YOUR RECORDS",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDownloadTitle",
+      "value": "Download my records",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDownloadDesc",
+      "value": "Request a copy of your visit summaries, medications, and care-call history.",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "privacyDownloadCta",
+      "value": "Request my records",
+      "section": "Data & privacy (design DATA & PRIVACY section)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteSheetTitle",
+      "value": "Delete your account?",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteSheetBody",
+      "value": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteSheetConfirm",
+      "value": "Delete account",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteSheetCancel",
+      "value": "Keep my account",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteSheetConfirmStepLabel",
+      "value": "Type DELETE to confirm",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteSheetConfirmPlaceholder",
+      "value": "Type DELETE",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteRequestSubmitted",
+      "value": "Deletion request submitted",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "deleteRequestNextStep",
+      "value": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+      "section": "Delete-account sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadSheetTitle",
+      "value": "Download your records",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadSheetBody",
+      "value": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadSheetFormatLabel",
+      "value": "Format",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadSheetFormatJson",
+      "value": "JSON summary",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadSheetFormatPdf",
+      "value": "PDF (coming soon)",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadSheetConfirm",
+      "value": "Request export",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadSheetCancel",
+      "value": "Cancel",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadRequestSubmitted",
+      "value": "Export request submitted",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadRequestNextStep",
+      "value": "We'll email a secure link to your registered address within 24 hours.",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "downloadFileStubNote",
+      "value": "No file is downloaded here - your records are sent securely to your registered email.",
+      "section": "Download-records sheet (bottom sheet)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaLanguage",
+      "value": "Language",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaCheckinProgress",
+      "value": "Check-in progress",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaCheckinSteps",
+      "value": "Check-in steps",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaGoToStep",
+      "value": "Go to step {n}",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "n"
+      ]
+    },
+    {
+      "key": "ariaPatientNav",
+      "value": "Patient navigation",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaToggleSpeaker",
+      "value": "Toggle speaker",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaPauseSample",
+      "value": "Pause sample",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaSeverityScale",
+      "value": "Severity from 1 to 10",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaInviteLink",
+      "value": "Invite link or code",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "ariaBackToInviteLink",
+      "value": "Back to invite link",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "themeToggleLight",
+      "value": "Switch to light theme",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "themeToggleDark",
+      "value": "Switch to dark theme",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "themeTitleLight",
+      "value": "Light theme",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "themeTitleDark",
+      "value": "Dark theme",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "optionalLabel",
+      "value": "optional",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "scaleRangeAriaLabel",
+      "value": "{min} to {max}",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "max",
+        "min"
+      ]
+    },
+    {
+      "key": "callSummaryNoAnswerHospital",
+      "value": "No answer logged ? {hospital}",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "callSummaryNoAnswerPlain",
+      "value": "No answer logged",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummaryVoiceSuffix",
+      "value": "voice",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummaryDeclinedLogged",
+      "value": "Call declined ? logged as no contact",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callSummaryEndedLogged",
+      "value": "Call ended ? logged as no contact",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "visitDetailLevelLabel",
+      "value": "Level {n} ? {label}",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "label",
+        "n"
+      ]
+    },
+    {
+      "key": "statusSavedToAccount",
+      "value": "Saved to your account",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "statusRoutedTo",
+      "value": "Routed to {hospital}",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "inviteTitle",
+      "value": "Connect to your clinic",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteBody",
+      "value": "Paste the invite link your hospital sent, or scan their QR code.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteInputLabel",
+      "value": "Invite link or code",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteError",
+      "value": "That doesn't look like a Triavi invite link or code.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteContinue",
+      "value": "Continue",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteOr",
+      "value": "or",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteScanQr",
+      "value": "Scan QR code",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteScanTitle",
+      "value": "Scan clinic QR",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteScanSubtitle",
+      "value": "Point your camera at the code",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteCameraDenied",
+      "value": "Camera access denied",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteCameraNoDevice",
+      "value": "No camera found",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteCameraUnavailable",
+      "value": "Camera unavailable",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteCameraSearching",
+      "value": "Searching for a Triavi code?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteEnterManually",
+      "value": "Enter invite link manually",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteSimulate",
+      "value": "Simulate detected code",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteInfoStreaming",
+      "value": "A valid clinic code takes you straight to your details.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteInfoDev",
+      "value": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteInfoDenied",
+      "value": "Grant camera permission in your browser settings, or enter the invite link manually.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteInfoNoDevice",
+      "value": "No camera detected. Enter the invite link your hospital sent instead.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "inviteInfoUnavailable",
+      "value": "Camera isn't available right now. Enter the invite link manually.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "interviewOfflineTitle",
+      "value": "Offline ? showing the saved interview script",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "otpLegendLabel",
+      "value": "One-time code",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "otpGroupAriaLabel",
+      "value": "One-time code, 6 digits",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "otpDigitAriaLabel",
+      "value": "Digit {n} of 6",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "n"
+      ]
+    },
+    {
+      "key": "countrySearchPlaceholder",
+      "value": "Search country?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "countrySearchAriaLabel",
+      "value": "Search countries",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "countryListAriaLabel",
+      "value": "Country list",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "countryCodeAriaLabel",
+      "value": "Country code {dial} {name}. Change country.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "dial",
+        "name"
+      ]
+    }
+  ]
+}
