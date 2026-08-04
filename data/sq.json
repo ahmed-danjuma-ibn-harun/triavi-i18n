@@ -1,0 +1,3402 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "Le t'ju përgatisim për vizitën tuaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "Le t'ju përgatitemi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "për vizitën tënde.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "Përgjigjuni disa pyetjeve për simptomat tuaja.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ 2 minuta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "I shqyrtuar nga mjeku",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "Filloni regjistrimin para vizitës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "Kam një kod ftesë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "Të regjistroheni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "Të pajtueshme me HIPAA · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "Le të fillojmë me ty.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "Kjo lidh vizitën tuaj me regjistrimin tuaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "Emri i plotë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "Emri yt i plotë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "Data e lindjes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "Seksi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "Çfarë të sjell këtu sot?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "Përshkruani simptomat tuaja kryesore...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "Dhimbje e kokës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "Feberë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "Dhimbje në gjoks",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "Thithje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "Vazhdo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "Asistent Triavi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "Duke pyetur për simptomat tuaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "Offline",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "Duke ngarkuar intervistën tënde...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "Ne nuk mund të ngarkojmë intervistën tënde.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "Provoni përsëri.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "Faleminderit, do të bëj disa pyetje të shpejta për atë që ju solli.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "Shkruani një përgjigje, ose prekni një sugjerim më lart",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "Shkruani përgjigjen tuaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "Shkruani përgjigjen tuaj...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "Shkruani përgjigjen tuaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "Të dërgojë përgjigje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "Shqyrto përgjigjet e mia.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "Tap & tërheq",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "Konfirmo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "Të butë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "Të moderuara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "Më e keqja ndonjëherë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityTemplate": {
+    "en": "Around {n} out of 10",
+    "translation": "Rreth {n} nga 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "Ja çfarë kam vënë në dukje.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "Shtypni çdo artikull për ta rregulluar para se ta dërgoni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "Ankesa kryesore",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "Në fillim",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "Vështirësia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "Karakter",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "Rradiacioni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "I lidhur",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "E bërë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "shpifje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewEdit": {
+    "en": "Edit {label}",
+    "translation": "Edit {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "Duket mirë dërgohu te mjeku",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "Nëse simptomat tuaja ndihen të rënda ose po përkeqësohen tani, mos prisni thirr shërbimet e urgjencës.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBadge": {
+    "en": "{level} · {label}",
+    "translation": "{level} · {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "Ju lutemi kërkoni kujdes brenda 1-2 orëve",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "Shpërthimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "Simptomat tuaja sugjerojnë diçka që duhet të shihet së shpejti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "Çfarë ndodh më pas?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "Shkrimi juaj është dërguar tani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "Ekipi klinik merr menjëherë historinë tuaj të strukturuar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "Shihet brenda 12 orëve",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "Nëse përkeqësohet, vepro shpejt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "Përkeqësimi i rëndë ose i papritur thirr shërbimet e urgjencës menjëherë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "Kjo është një vlerësim i automatizuar i urgjencës, jo një diagnozë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "jo një diagnozë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "Vazhdo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "Mirë se vini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "Të kanë parë më parë në këtë spital.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "Vizita e fundit · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "Larg",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "Est. prisni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "Mjekët në",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "Ata tashmë mbajnë regjistrimin tuaj, kështu që ekipi juaj i kujdesit sheh historinë tuaj të plotë menjëherë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRouteTo": {
+    "en": "Route me to {hospital}",
+    "translation": "Më drejto në {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "Zgjidhni një spital tjetër",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "Ku do të donit t'ju shihnin?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchSubtitle": {
+    "en": "Pick a Triavi hospital near you — your {level} brief is sent the moment you choose.",
+    "translation": "Zgjidhni një spital të Triavi pranë jush raporti juaj i {level} dërgohet në momentin që zgjidhni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "Të skanosh spitalet e Triavit pranë teje...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHospitalsNear": {
+    "en": "{count} hospitals near you",
+    "translation": "{count} spitalet e afërta me ju",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "· të renditur sipas distancës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "Reskanimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "PËRËMËN",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count} në internet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "Niveli {level} gati",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "Niveli {min} + vetëm",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "Zgjidhni një spital",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "Nuk mund të gjejmë vendndodhjen tuaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "Jeni në radhë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "Shkrimi juaj është me ekipin e kujdesit, do t'ju njoftojmë sapo ta hapë një mjek.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "I paraqitur {time} më parë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "Në radhë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. prisni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Përgjigjet e paraqitura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "Vetëm tani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "Doktori po shqyrton raportimin tuaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "Në zhvillim",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "Një mjek ka hapur raportin tuaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "Konsultime",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "Të ardhshëm",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "Mbani vizitën tuaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "Simptomat janë më të rënda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "Restartimi demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "Kthehu në dashboard.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "Kthehu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "Nëse po bëhet më keq, vepro tani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "Nëse simptomat tuaja janë të rënda ose përkeqësohen papritur telefononi shërbimet e urgjencës tani ose shkoni në departamentin më të afërt të emergjencës.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "Thirrja e shërbimeve emergjente",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "Unë jam mirë afër",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "jo një diagnozë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "Kemi shënuar rastin tuaj si prioritet më i lartë, kështu që ekipi i kujdesit është i vetëdijshëm.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · Shkrimi juaj është i hapur",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "Një mjek po e shqyrton raportimin tuaj, do t'ju informojmë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "Ekran {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "Mirë se vini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "Për ty.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "Intervista",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "Përsëritje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "Urgjenca",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "Gjej spitalin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "Statusi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "Si po ndiheni?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "Përgjigje disa pyetjeve për mënyrën se si keni qenë që nga vizita juaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinComplaintContext": {
+    "en": "Your visit: {complaint}",
+    "translation": "Vizita juaj: {complaint}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "Më mirë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "Thuajse e njëjta gjë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "Më keq",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "Si e krahason gjendjen tënde me atë të mëparshme?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "Ka ndonjë gjë tjetër që do të donit të na thoni?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "Shkruani këtu...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "Vendosni përgjigjet e mia.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "Ne jemi të lumtur që po ndiheni më mirë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolvedBody": {
+    "en": "We'll check in again {next} to make sure you're still improving.",
+    "translation": "Ne do të kontrollojmë përsëri {next} për t'u siguruar që ju jeni ende duke përmirësuar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "Një mjek do ta shikojë këtë sot.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "Përgjigjet tuaja janë dërguar ekipit të kujdesit.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "Ju lutem kërkoni kujdes tani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "Simptomat tuaja tregojnë diçka që ka nevojë për kujdes të shpejtë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "Thirrja e shërbimeve emergjente",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "Ky link i regjistrimit ka skaduar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "Ky monitorim nuk është më i disponueshëm.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "Të regjistroheni për të vazhduar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "Mirë se vini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "Pyetje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "Rezultati",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "Mbani vizitën tuaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "Krijoni një llogari falas për të gjurmuar këtë vizitë dhe hiqni kodin herën tjetër.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "Vizita juaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "Krij llogarinë time",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "Shko për tani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "Le të verifikojmë që je ti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "Ne do të dërgojmë një kod një herë, pa fjalëkalim për të kujtuar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "Të dërgojë kod",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "Po dërgoj...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Të siguruar nga Triavi · të pajtueshëm me HIPAA",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "Telefoni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "E-mail",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "Të dërgojë kod përmes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "Numri i telefonit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "Adresa e postës elektronike",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "Përdorni {channel} në vend të kësaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "Kthehu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "Shkruani kodin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSentTo": {
+    "en": "Sent to {dest}. It expires in 10 minutes.",
+    "translation": "Të dërgohet në {dest}.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "Përsëritje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResendIn": {
+    "en": "Resend in 0:{sec}",
+    "translation": "Përsëritet në 0: {sec}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "Verifikoni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "Verifikimi...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "Shpëtuar!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "Mirë se vini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "Shkoni telefonin ose emailin tuaj dhe ne do të dërgojmë një kod regjistrimi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "Të dërgoni kodin e regjistrimit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "Konta juaj është e lidhur me dosjet e spitalit tuaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "Shkruani një numër telefonik të vlefshëm (714 shifra)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "Nuk mund ta dërgoja kodin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "gabim i rrjetit, kontrolloni lidhjen dhe provoni përsëri.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "Nuk mund ta dërgoj përsëri.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "Ky kod nuk bashkohet.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "Sesioni ka mbaruar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "Për sigurinë tuaj dhe për të mbrojtur të dhënat e pacientëve, ju jeni nënshkruar pas një periudhe inaktiviteti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "Të regjistrohesh sërish.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "Mirë se vini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "Vizita aktive",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "Vizitat e mëparshme",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Filloni një regjistrim të ri.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "Asnjë vizitë aktive",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "Filloni një check-in për të filluar një vizitë të re.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "Asnjë vizitë e mëparshme ende.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "Zgjidhni dorëheqjen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "Menu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "Gjuha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "Në radhë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "Në radhë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. prisni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Përgjigjet e paraqitura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "Vetëm tani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "Kontrolli i mjekut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "Në zhvillim",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "Konsultime",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "Të ardhshëm",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "Kontrolli i mëtejshëm",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "Të detyrueshme {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "Filloni regjistrimin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "Lidhja juaj e kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "Gati për thirrjet.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "Telefonat e kujdesit zënë në këtë aplikacion · Numri juaj i telefonit nuk ndahet kurrë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Filloni një regjistrim të ri.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "Telefonata tjetër e kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "Ndryshoni zërin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "Ilaçet tuaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsFrom": {
+    "en": "from {hospital}",
+    "translation": "nga {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "Fjalë · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "Vetëm shtypni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "Kërkesa e kohëve të fundit të kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "Shikoni të gjitha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "Simulioni thirrjen e kujdesit të ardhshëm · demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "Shtëpi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "Zëri",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "Rregullime",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "Kujdes zëri & thirrjet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "Zgjidh kush të telefonon dhe si tingëllon.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "Zëri",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "Ava",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "Zëri femër",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "Sam",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "Zëri mashkullor",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "TONE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "Të ngrohtë dhe të butë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "Qëndruese dhe pa nxitim",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "E qartë & profesionist",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "Të drejtpërdrejtë, të sakta, pa biseda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "E ndritshme dhe optimiste",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "Energjia miqësore dhe inkurajuese",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hearAgent": {
+    "en": "Hear {agent}",
+    "translation": "Dëgjo {agent}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "Hej Jordan, është koha për dozën tënde të mbrëmjes...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "Modeli nuk është i disponueshëm",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "Preferencat e thirrjeve",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "Kërkesa për kujtimin e ilaçeve",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "Ring në secilën dozë të planifikuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "Telefonat e regjistrimit pas vizitës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"Si po ndiheni?\" pas shkarkimit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "Ora të qetë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "Asnjë telefonatë 9:30 PM 7:30 AM · rikthehet në një njoftim",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "Agjentja juaj e kujdesit.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "ruajtja e rregullimeve të zërit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "Rregullime",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "Preferenca, gjuha dhe llogaria",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "PREFERENCE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "Gjuha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "Tema e errët",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "E errët",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "dritë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "Notifikimet push",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "CARE CALLS",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "Preferenca të zërit dhe thirrjes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRowDesc": {
+    "en": "{agent} · {tone}",
+    "translation": "{agent} · {tone}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "PRIVACI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "Të dhënat tuaja & privatësia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "Shkarko regjistrimet e mia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "Do të vijë së shpejti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "Edit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "Linja e kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Triavi Patient · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "Ju jeni nënshkruar jashtë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "Linja juaj e kujdesit mbetet aktive regjistrohu përsëri për të menaxhuar thirrjet dhe kujtimet.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "Kthehu përsëri.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "I nënshkruar si {name}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "Taja ime e kontrollit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "Përmbajtja demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "Demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "Fjalim i kujdesit të ardhshëm",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "për {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "Agjenti i kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingReminder": {
+    "en": "{subject} · {med}",
+    "translation": "{subject} · {med}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "Verifikuar · përmes linjës tuaj të kujdesit {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "Humbja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "Të pranosh",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "Thirrja e koduar me zë · WebRTC · numri juaj nuk ndahet kurrë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "KAPITJONAT E JETËRE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "Agjenti i kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "Mute",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "Pafshimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "Fjalë përfundimtare",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "Për t'i dhënë fund kësaj telefonate?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "Fjalë përfundimtare",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "Qëndro në detyrë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "I raportuar ekipit tuaj të kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "Një orë dëborë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "S'ka përgjigje të sigurtë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "Telefonata tjetër e kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "Kthehu në dashboard.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "Ringa e thirrjes së kujdesit për shkakun (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "Mblidhni të qetë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "Fjalë përfundimtare",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "Vizitat e mëparshme",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsSubtitle": {
+    "en": "Your history with {hospital}",
+    "translation": "Histori juaj me {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsPrivacyNote": {
+    "en": "Only you and {hospital} can see these. Tap a visit to read the summary shared with you.",
+    "translation": "Vetëm ju dhe {hospital} mund t'i shihni këto.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "I përfunduar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "Detaji i vizitës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "I përfunduar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE JE J",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "Përcjellje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "Medikamente të përshkruara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "Nxirrje të kujdesshme për këtë vizitë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "Nuk ka nevojë për kujdes për këtë vizitë ende.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "Ky është një përmbledhje e përbashkët me ju jo një diagnozë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "Nuk e gjetëm atë vizitë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "Kjo vizitë mund të jetë hequr ose lidhja nuk është më e vlefshme.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "Kthehu në vizitat e mëparshme",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "Duke ngarkuar vizitën tënde...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "I liruar nga ekipi juaj i kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "Këshilla e SAFETY-NET-it",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "Edit profile",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "Mjaftoni detajet tuaja, mjeku juaj do të shikojë më të fundit.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "PËR PËR PËRNËR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "Numri i telefonit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "Numri juaj i telefonit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "Adresa e postës elektronike",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "Adresa juaj e postës elektronike",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "Kontakt emergjent",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "Emri i kontaktit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "Emri i kontaktit tuaj të emergjencës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "Marrëdhëniet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "Për shembull, bashkëshort, prind",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "Telefoni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "Numri i telefonit të kontaktit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "Gjuha e preferuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "Ndryshon gjuhën e çdo ekrani menjëherë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "Lidhja juaj e kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "Kopje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "Kopjuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "Nuk mund të kopjojë - të zgjedhë dhe të kopjojë manualisht",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "ruajtja e ndryshimeve",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "Profili i ruajtur",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "Meshkujt",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "Femra",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "Të dhënat tuaja & privatësia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "Çfarë mbrojmë, dhe çfarë kontrolloni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "DE-IDENTIFIKIM",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "Gjithmonë në fuqi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "Emri juaj, detajet e kontaktit dhe përgjigjet me tekst të lirë janë hequr para se çdo gjë të largohet nga spitali juaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "I mbyllur.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "ACCESS LOG",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "DËMBAZHET tuaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "Përdorimi i hulumtimit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "Lejoni të dhëna të deidentifikuara për të përmirësuar kujdesin për të gjithë. Mund ta ndryshoni këtë në çdo kohë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "Mesazhet e kujdesit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "Përkujtimet e takimit dhe kontrollin e ndjekjes me telefonatë ose push. Mund ta ndryshoni këtë në çdo kohë.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "DELETE ACCOUNT",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "Fshije llogarinë tuaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "Shkarkoni përgjithmonë llogarinë tuaj dhe detajet e kontaktit. Historia juaj e linjës së kujdesit mbahet nga spitali juaj siç kërkohet nga ligji.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "Fshije llogarinë time",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "Shkarko rekordet tuaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "Shkarko regjistrimet e mia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "Kërkoni një kopje të përmbledhjeve të vizitës, ilaçeve dhe historisë së thirrjeve për kujdesin tuaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "Kërko dokumentet e mia.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "Të fshini llogarinë tënde?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "Kjo heq përgjithmonë llogarinë tuaj dhe detajet e kontaktit. Spitali juaj mban historinë tuaj të linjës së kujdesit siç kërkohet nga ligji. Kjo nuk mund të bëhet.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "Fjaloni llogarinë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "Mbani llogarinë time.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "Tregoni DELETE për të konfirmuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "Tipi DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "Kërkesa për fshirë është paraqitur",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "Ekipi juaj i kujdesit do ta konfirmojë me email brenda 72 orëve.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "Shkarkoni regjistrimet tuaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "Zgjidhni një format dhe kërkoni eksportin tuaj. Ne do ta përgatisim atë dhe do të dërgojmë një lidhje të sigurt në emailin tuaj të regjistruar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "Formatimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "Përshkrimi i JSON",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "PDF (do të vijë së shpejti)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "Kërkesa për eksport",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "Kanclojnë",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "Kërkesa e dorëzuar për eksport",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "Ne do të dërgojmë një lidhje të sigurt në adresën tuaj të regjistruar brenda 24 orëve.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "Asnjë dosje nuk shkarkohet këtu - të dhënat tuaja dërgohen në mënyrë të sigurt në emailin tuaj të regjistruar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "Gjuha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "Programi i regjistrimit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "Hapat e regjistrimit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaGoToStep": {
+    "en": "Go to step {n}",
+    "translation": "Shkoni në hapin {n}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "Navigimi i pacientit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "Përshkrimi i altoparlantit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "Provat e pauzës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "Vështirësia nga 1 deri në 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "Flisni lidhjen ose kodin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "Kthehu për të ftuar lidhjen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "Kthehu në temë të dritës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "Kthehu në temë të errët",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "Tema e dritës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "Tema e errët",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "optional",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "scaleRangeAriaLabel": {
+    "en": "{min} to {max}",
+    "translation": "{min} deri në {max}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "Asnjë përgjigje e regjistruar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "zëri",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "Thirrja është refuzuar, regjistruar si asnjë kontakt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "Thirrja përfundoi? regjistruar si asnjë kontakt",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLevelLabel": {
+    "en": "Level {n} ? {label}",
+    "translation": "Niveli {n}? {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "I ruajtur në llogarinë tuaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusRoutedTo": {
+    "en": "Routed to {hospital}",
+    "translation": "Rruga në {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "Lidhuni me klinikën tuaj",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "Mblidhni lidhjen e ftesës që ka dërguar spitali juaj, ose skanoni kodin e tyre QR.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "Flisni lidhjen ose kodin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "Kjo nuk duket si një lidhje trevitje Triavi ose kod.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "Vazhdo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "ose",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "Shkenoni kodin QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "Klinika e skanimit QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "Vendos kamerën tënde në kodin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "Lidhja e qasjes së kamerës është refuzuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "Asnjë kamera nuk është gjetur.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "Kamera nuk është e disponueshme",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "Duke kërkuar një kod Triavi?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "Shkruani lidhjen e ftesave manualisht",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "Simuloni kodin e zbuluar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "Një kod i vlefshëm i klinikës ju çon drejt në detajet tuaja.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "Një kod i vlefshëm i klinisë ju çon drejt në detajet tuaja.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "Të jepni leje të kamerës në konfigurimet e shfletuesit tuaj, ose të futni lidhjen ftesë manualisht.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "Në vend të kësaj, shkruani lidhjen e ftesës që ka dërguar spitali juaj.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "Kamera nuk është e disponueshme tani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "Offline? duke treguar skenarin e ruajtur të intervistës",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "Kod i njëkohshëm",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "Kode njëkohore, 6 shifra",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpDigitAriaLabel": {
+    "en": "Digit {n} of 6",
+    "translation": "Numri {n} i 6",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "Vendi i kërkimit?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "Vendet kërkimore",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "Lista e vendeve",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "Kod i vendit {dial} {name}. Ndryshimi i vendit.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T00:18:52.793238+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

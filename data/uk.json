@@ -1,0 +1,3394 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "Приготуємо вас до вашого візиту.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "Приготуємо вас.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "за ваш візит.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "Відповідайте на кілька запитань про ваші симптоми.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ 2 хвилини",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "Доктора переглянув",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "Почнете реєстрацію перед візитом",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "У мене є код запрошення.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "Підпишіться",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "Відповідний до HIPAA · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "Почнемо з тебе.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "Це пов'язує ваш візит з вашим записом.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "Повний ім'я",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "Ваше повне ім'я",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "Дата народження",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "Секс",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "Що вас сьогодні викликало?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "Опишіть свій головний симптом...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "Головний біль",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "Горючість",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "Біль у груди",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "Кашель",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "Продовжуйте",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "Асистент Тріаві",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "Питання про ваші симптоми",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "Оффлайн",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "Завантажуючи інтерв'ю...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "Ми не змогли завантажити ваш інтерв'ю.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "Спробуйте ще раз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpener": {
+    "en": "Thanks — I'll ask a few quick questions about your {complaint}. When did it start?",
+    "translation": "Дякую, я задам кілька коротких запитань про ваші {complaint}. Коли це почалося?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "Дякую, я хочу задати вам кілька коротких запитань про те, що привело вас сюди.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "Напишіть відповідь або натисніть пропозицію вище",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "Напишіть свою відповідь",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "Напишіть свою відповідь...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "Напишіть свою відповідь",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "Відправить відповідь",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "Проаналізуйте мої відповіді",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "Натисніть і перетягніть",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "Підтвердження",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "Микрі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "Помірний",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "Найгірше.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityTemplate": {
+    "en": "Around {n} out of 10",
+    "translation": "Приблизно {n} з 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "Ось що я зауважив.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "Натисніть будь-який елемент, щоб виправити його перед відправкою.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "Головна скарга",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "На початку",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "Стрижність",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "Характер",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "Радиація",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "Асоціація",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "Скінчено",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "виправдання",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewEdit": {
+    "en": "Edit {label}",
+    "translation": "Редагуйте {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "Виглядає правильно відправити до лікаря",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "Якщо ваші симптоми відчувають себе важкими або зараз погіршуються, не чекайте зверніться до служб швидкої допомоги.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBadge": {
+    "en": "{level} · {label}",
+    "translation": "{level} · {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "Будь ласка, зверніться за допомогою протягом 1-2 годин.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "Зрозуміло.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "Ваші симптоми свідчать про те, що слід побачити незабаром.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "Що станеться далі?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "Ваш бюлетень вже надісланий.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "Клінічна команда негайно отримує вашу структуровану історію.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "Виглядається протягом 12 годин",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "Якщо це погіршиться, діюйте швидко.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "Сильне або раптове погіршення",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "Це автоматична оцінка невідкладної ситуації, а не діагноз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "не діагноз",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "Продовжуйте",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "Добро пожаловати назад.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "Вас вже бачили в цій лікарні раніше.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "Останній візит · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "Відлетіть",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "Почакай.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "Лікарі на",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "Вони вже зберігають ваші записи, тому ваша команда медичних працівників побачить всю вашу історію відразу.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRouteTo": {
+    "en": "Route me to {hospital}",
+    "translation": "Переведіть мене до {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "Виберіть іншу лікарню",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "Де ви хотіли б, щоб вас бачили?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "Скануючи лікарні Тріаві поблизу...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHospitalsNear": {
+    "en": "{count} hospitals near you",
+    "translation": "{count} лікарні поблизу вас",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "· орієнтовані за відстані",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "Проверка",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "Близький",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count} онлайн",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "Рівень {level} готовий",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "Рівень {min} + тільки",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "Виберіть лікарню",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "Ми не змогли отримати ваше місцезнаходження.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "Ти в черзі.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "Ваш резюме є з командою догляду. Ми повідомимо вас, як тільки клініка відкриє його.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "Подано {time} тому",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "В черзі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "Почакай.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Представлені відповіді",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "Тільки зараз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "Доктор переглядає вашу резюме.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "В процесі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "Клінічний лікар відкрив ваш резюме.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "Консультація",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "Наступні",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "Зберігайте свій візит",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "Симптоми погіршуються",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "Повторно запустити демо",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "Поверніться до панелі.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "Повернутися",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "Якщо все погіршується, дійся зараз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "Не чекайте на позицію в черзі. Якщо симптоми стають важкими або раптово погіршуються зв'яжіться з надзвичайними службами зараз або зверніться до найближчого відділення надзвичайних випадків.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "Зверніться до служб швидкої допомоги",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "Я в порядку близько",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "не діагноз",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "Ми відзначили вашу справу як вищий пріоритет, щоб команда догляду знала про це.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · Ваш бюлетень відкритий",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "Клінічний лікар переглядає вашу резюме.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "Екран {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "Вітаємо вас.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "Про тебе",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "Інтэрв'ю",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "Перегляд",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "Невідкладна операція",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "Знайдіть лікарню.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "Статус",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "Як ти почуваєшся?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "Відповідьте на кілька запитань про те, як ви перебуваєте з моменту вашого візиту.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinComplaintContext": {
+    "en": "Your visit: {complaint}",
+    "translation": "Ваш візит: {complaint}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "Краще.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "Приблизно те ж саме.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "Ще гірше",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "Як ваше стан порівняно з попереднім?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "Чи є ще щось, що ви хотіли б нам сказати?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "Напишіть тут...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "Задайте мої відповіді",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "Ми раді, що ти почуваєшся краще.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolvedBody": {
+    "en": "We'll check in again {next} to make sure you're still improving.",
+    "translation": "Ми перевіряємо знову {next}, щоб переконатися, що ти все ще покращуєш.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "Клінічний лікар подивиться на це сьогодні.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "Ваші відповіді були надіслані до клінічної команди.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "Будь ласка, зверніться за допомогою.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "Не чекайте зв'яжіться зі своєю командою або зверніться до найближчого відділення швидкої допомоги.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "Зверніться до служб швидкої допомоги",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "Цей зв'язок з реєстрацією закінчився.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "Ця перевірка більше не доступна. Запишіться, щоб побачити свої поточні реєстрації.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "Прийміться для продовження",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "Вітаємо вас.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "Питання",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "Результат",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "Зберігайте свій візит",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "Зробіть безкоштовний обліковий запис, щоб відстежити цей візит і пропустити код наступного разу.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "Ваш візит",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "Створюйте мій обліковий запис",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "Напевно перейдіть.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "Давайте перевіримо, що це ти.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "Ми пошлямо разовий код без паролю для пам'яті.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "Відправити код",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "Відправляю...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Забезпечений компанією Triavi · відповідно до стандарту HIPAA",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "Телефон",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "Електронна пошта",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "Відправити код через",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "Номер телефону",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "Адреса електронної пошти",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "Замість цього використовуйте {channel}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "Повернутися",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "Введіть код",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSentTo": {
+    "en": "Sent to {dest}. It expires in 10 minutes.",
+    "translation": "Відправлено до {dest}. Він закінчується через 10 хвилин.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "Відправляйте",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "Перевірка",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "Перевірка...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "Збережений!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "Добро пожаловати назад.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "Введіть свій телефон або електронну пошту, і ми пошлямо код підпису.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "Відправити код підписання",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "Ваш рахунок пов'язаний з записами вашої лікарні.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "Введіть дійсний номер телефону (714 цифр)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "Не змогли надіслати код.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "Перевірте зв'язок і спробуйте ще раз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "Не змогла відправити, спробуй ще раз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "Цей код не відповідав, спробуй ще раз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "Сесія закінчилася",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "Для вашої безпеки і захисту даних пацієнтів, ви були виписані після періоду неактивності.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "Знову підпишіться.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "Добро пожаловати назад.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "Активний візит",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "Попередні відвідування",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Почніть нову реєстрацію",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "Без активних відвідувань",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "Почнете реєстрацію, щоб почати новий візит.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "Ніяких попередніх візитів ще немає.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "Підпишіться.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "Меню",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "Мова",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "У черзі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "В черзі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "Почакай.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Представлені відповіді",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "Тільки зараз.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "Доктора переглядає",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "В процесі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "Консультація",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "Наступні",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "Послідовний перевірка",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "Заплата {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "Почнете реєстрацію",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "ТАВА СВІХ СОБОГА",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "Готові для дзвінків",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "Званки до догляду зводять в цьому додатку · Ваш номер телефону ніколи не ділиться.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Почніть нову реєстрацію",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "Наступний звонок до медичної допомоги",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "Змінить голос",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "Ваші ліки",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsFrom": {
+    "en": "from {hospital}",
+    "translation": "з {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "Звінок · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "Просто натисніть",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "Недавні поклики до догляду",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "Погляньте всі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "Симулюйте прихідний дзвінок до медичної допомоги · демо",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "Додому",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "Голос",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "Настройки",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "Голос і дзвінки",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "Виберіть, хто вам подзвонить, і як вони звучать.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "Голос",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "Ава",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "Жінський голос",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "Сэм.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "Мужський голос",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "ТОН",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "Тепло і нежно",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "Упевнений і не поспішаючий",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "Ясна і професійна",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "Пряма, точна, без розмов",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "Яскравий і оптимістичний",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "Приятельська, заохочуюча енергія",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hearAgent": {
+    "en": "Hear {agent}",
+    "translation": "Слухайте {agent}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "Привіт Джордан, прийшов час на вечірну дозу...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "Проба недоступна",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "ПРЕФЕРЕНЦИ ЗВОЛУ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "Званки на нагадування про ліки",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "При кожній запланованій дозі",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "Званки після відвідування",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"Як ви себе відчуваєте?\" після виписання",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "Тихі часи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "Ніяких дзвінків 9:30 PM 7:30 AM · повертається до повідомлення",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "Ваш агент з догляду",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "Зберігайте голосові налаштування",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "Настройки",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "Переваги, мова та обліковий запис",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "ПРЕФЕРЕНЦИ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "Мова",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "Темна тема",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "Темно",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "Світло",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "Натисні повідомлення",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "ЗВОЛОЖЕННІ ЗВОЛОЖЕНИ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "Передумови голосу та дзвінків",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRowDesc": {
+    "en": "{agent} · {tone}",
+    "translation": "{agent} · {tone}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "Приватність",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "Ваші дані та конфіденційність",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "Завантажуйте мої записи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "Незабаром.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "Редагуйте",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "Охоронна лінія",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Пацієнт Triavi · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "Ви виписані.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "Ваша лінія обслуговування залишається активною підключайтеся, щоб керувати дзвінками та нагадуваннями.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "Підпишіться назад.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "Підписані як {name}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "Моя панель.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "Демонстрація",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "Демонстрація",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "Прихідний дзвінок до догляду",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "для {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "Охоронний агент",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingReminder": {
+    "en": "{subject} · {med}",
+    "translation": "{subject} · {med}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "Перевірка · через вашу лінію догляду {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "Зниження",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "Прийміть",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "Шифровані голосові дзвінки · WebRTC · ваш номер ніколи не ділиться",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "Живі розділи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "Охоронний агент",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "Мутність",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "Незамовлений",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "Останній звонок",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "Закінчити цей дзвінк?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "Останній звонок",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "Не відмовляйтеся.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "ОТВЕРЖЕННО СВІЙ КРЕЙМ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "Пам'ятаю, що заснег 1 годину.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "ЖОДНИЙ ПРЕДВІДНИЙ ПРЕДВІД",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "Наступний звонок до медичної допомоги",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "Поверніться до панелі.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "Триггер-охоронний звонок (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "Зберігайте мовчазну",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "Останній звонок",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "Попередні відвідування",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsSubtitle": {
+    "en": "Your history with {hospital}",
+    "translation": "Ваша історія з {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsPrivacyNote": {
+    "en": "Only you and {hospital} can see these. Tap a visit to read the summary shared with you.",
+    "translation": "Тільки ви і {hospital} можете побачити це. Націсніть на відвідування, щоб прочитати резюме, поділене з вами.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "Завершено",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "Деталі відвідування",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "Завершено",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "ВВІД",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "Послідовність",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "ПРЕЗРЕЗРЕКТОВАНі медикаменти",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "Звертайте увагу на цей візит",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "До цього візиту ще не потрібно піклуватися.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "Це резюме, поділене з вами не діагноз. Якщо симптоми повертаються або погіршуються, негайно зверніться до екстренної допомоги.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "Ми не змогли знайти цей візит.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "Цей візит може бути видалений, або посилання більше не діє.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "Повернімося до попередніх візитів",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "Завантажуючи ваш візит...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "Випустили вашу команду догляду",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "ADVICE SAFETY-NET",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "Редагувати профіль",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "Поінформуйте свої деталі, ваш лікар побачить останні дані.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "Персональний",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "Номер телефону",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "Ваш номер телефону",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "Адреса електронної пошти",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "Ваш адрес електронної пошти",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "Контакт з надзвичайними ситуаціями",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "Назва зв'язку",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "Ім'я вашого контактного співрозмовника з надзвичайними ситуаціями",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "Співвідношення",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "Наприклад, чоловік або жонка, батько",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "Телефон",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "Номер телефону зв'язку",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "Улюблена мова",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "Зміна мови кожного екрану мгновенно.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "ТАВА СВІХ СОБОГА",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "Копія",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "Копіювання",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "Не змогла скопіювати - виберіть і скопіруйте вручну",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "Зберігайте зміни",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "Профіль збережений",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "Чоловік",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "Жінка",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "Ваші дані та конфіденційність",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "Те, що ми захищаємо, і те, що ви контролюєте.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "ДЕІДЕНТІФІКАЦІЯ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "Завжди включено.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "Ваша ім'я, контактні дані та вільні відповіді видаляються перед тим, як що-небудь вийде з лікарні.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "Зачинена.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "Доступний логотип",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "ТАВІ СВІДНІ СВІДНІ СВІДНІ СВІДНИ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "Використання в науково-дослідних дослідженнях",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "Дозвольте деідентифікувати дані, щоб поліпшити догляд за усіма. Ви можете змінити це в будь-який час.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "Повідомлення про догляд",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "Нагадаємо про зустріч і перевірки за допомогою дзвінку або натискання.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "ЗБУДУЙСКИЙ КОНТ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "Збийте свій обліковий запис",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "Вашу історію догляду зберігає лікарня, як вимагає закон.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "Збийте мій обліковий запис",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "Завантажуйте свої записи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "Завантажуйте мої записи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "Запросіть копію резюме відвідування, медикаментів і історії прогляду.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "Запросіть мої записи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "Збивати свій обліковий запис?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "Це назавжди видаляє ваш обліковий запис і контактні дані. Ваша лікарня зберігає вашу історію лінії догляду, як вимагає закон. Це не може бути скасовано.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "Збийте обліковий запис",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "Зберігай мій рахунок.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "Виберіть видалення для підтвердження",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "Тип DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "Представлений запит на видалення",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "Ваша команда медичних працівників підтвердиться електронною поштою протягом 72 годин.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "Завантажуйте свої записи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "Виберіть формат і запитайте експорт. Ми підготуємо його і надіслаємо безпечний посилання на вашу зареєстровану електронну пошту.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "Формат",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "Короткий очерк JSON",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "PDF (виходить незабаром)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "Запрос на експорт",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "Відкласти",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "Представлений запит на експорт",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "Ми надіслаємо електронну пошту безпечний зв'язок до вашого зареєстрованого адреса протягом 24 годин.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "Ніякі файли тут не завантажуються - ваші записи надіслані безпечно на вашу зареєстровану електронну пошту.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "Мова",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "Прогрес реєстрації",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "Крок реєстрації",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaGoToStep": {
+    "en": "Go to step {n}",
+    "translation": "Ідіть на крок {n}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "Навігація пацієнта",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "Переміщення високоговорив",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "Вибірка паузи",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "Стрижність від 1 до 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "Запрошуйте посилання або код",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "Поверніться для запрошення посилання",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "Перейдіть на світло темою",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "Перейдіть на темну тему",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "Тема світла",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "Темна тема",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "факультативний",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "scaleRangeAriaLabel": {
+    "en": "{min} to {max}",
+    "translation": "{min} до {max}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "Жодної відповіді не зафіксовано",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "голос",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "Звінок відмовлений? Зафіксовано як відсутність зв'язку",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "Звінок закінчився?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLevelLabel": {
+    "en": "Level {n} ? {label}",
+    "translation": "Рівень {n}? {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "Зберігано на ваш рахунок",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusRoutedTo": {
+    "en": "Routed to {hospital}",
+    "translation": "Переведено до {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "З'єднання до вашої клініки",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "Залистіть посилання на запрошення, надіслане лікарні, або скануйте QR-код.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "Запрошуйте посилання або код",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "Це не виглядає як Triavi запрошення посилання або код.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "Продовжуйте",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "або",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "Скануйте QR-код",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "Клініка сканування QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "Поверніть камеру до коду",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "Доступ до камери відмовлений",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "Камери не знайдено.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "Камера недоступна",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "Шукаєте код Тріаві?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "Введіть посилання запрошення вручну",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "Симулювати виявлений код",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "Важливий код клініки веде вас прямо до ваших деталей.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "Подійний код клініки веде вас прямо до ваших деталей.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "Дозволіть камеру в налаштуваннях браузера або введіть посилання запрошення вручну.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "Замість цього введіть посилання з запрошенням, яке відправила лікарня.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "Камера зараз не доступна. Введіть посилання з запрошенням вручну.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "Оффлайн? показуючи збережений сценарій інтерв'ю",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "Одноразовий код",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "Одноразовий код, 6 цифр",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpDigitAriaLabel": {
+    "en": "Digit {n} of 6",
+    "translation": "Цифр {n} 6",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "Страна пошуку?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "Страни пошуку",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "Список країн",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "Код країни {dial} {name}. Змінить країну.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T20:33:06.052609+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

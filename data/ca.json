@@ -1,0 +1,3394 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "Et preparem per a la teva visita.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "Deixem-te preparar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "per la teva visita.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "Respondi a unes quantes preguntes sobre els teus símptomes.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ 2 minuts",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "Revisat pel metge",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "Iniciar el check-in abans de la visita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "Tinc un codi d'invitació.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "Inscriure-se",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "Conformes amb HIPAA · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "Comencem amb tu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "Això connecta la teva visita amb el teu expedient.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "Nom complet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "El teu nom complet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "Data de naixement",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "El sexe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "Què et porta aquí avui?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "Descriu el seu principal símptoma...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "Dolor de cap",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "Febre",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "Dolor en el pit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "Tossir",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "Continuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "Assistent de Triavi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "Preguntant sobre els seus símptomes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "Offline",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "Carregant la teva entrevista...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "No vam poder carregar la teva entrevista.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "Torneu a intentar-ho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "Gràcies, faré algunes preguntes breus sobre què t'ha portat aquí.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "Escriu una resposta, o toqueu una suggestió a la part superior",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "Escriure la seva resposta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "Escriu la vostra resposta...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "Escriure la seva resposta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "Enviar resposta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "Revisar les meves respostes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "Tap & arrastrar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "Confirmació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "Milet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "Moderat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "El pitjor de sempre.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityTemplate": {
+    "en": "Around {n} out of 10",
+    "translation": "Al voltant de {n} de 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "Això és el que vaig notar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "Tinc qualsevol article per reparar-lo abans d'enviar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "Reclamació principal",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "El començament",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "Gravetat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "Personalitat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "Radiació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "Associats",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "Feit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "simulació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewEdit": {
+    "en": "Edit {label}",
+    "translation": "Modificar {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "Sembla bé enviar al metge",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "Si els seus símptomes són greus o estan empeorant ara mateix, no esperis trucar als serveis d'emergència.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBadge": {
+    "en": "{level} · {label}",
+    "translation": "{level} · {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "Si us plau, busqueu atenció en un termini de 12 hores.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "En aquest cas,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "Els seus símptomes suggereixen alguna cosa que haurien de veure aviat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "Què passa després?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "El seu informe està enviat ara.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "L'equip clínic rep immediatament el seu historial estructurat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "Veut en 12 hores",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "Si es pitja, actueu ràpidament",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "Agravament greu o repentin trucar els serveis d'emergència immediatament.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "Aquesta és una estimació automàtica d'urgència, no un diagnòstic.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "No és un diagnòstic.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "Continuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "Benvinguts de tornada.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "T'han vist a l'hospital abans.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "Última visita · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "A l'allà",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "Est. Espera.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "Els metges en",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "Ja tenen els teus registres, així que el teu equip de cura veu la teva història completa de seguida.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRouteTo": {
+    "en": "Route me to {hospital}",
+    "translation": "Condueix-me a {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "Escollir un hospital diferent",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "On t'agradaria ser vist?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchSubtitle": {
+    "en": "Pick a Triavi hospital near you — your {level} brief is sent the moment you choose.",
+    "translation": "Seleccioneu un hospital de Triavi prop de vosaltres el vostre informe de {level} s'envia en el moment que vulgueu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "Escanir els hospitals de Triavi prop de tu...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHospitalsNear": {
+    "en": "{count} hospitals near you",
+    "translation": "{count} hospitals propers a tu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "· classificat per distància",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "Rescan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "PRÓXIMES",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count} en línia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "Nivel {level} preparats",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "Nivel {min} + únicament",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "Seleccionar un hospital",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "No vam aconseguir la seva ubicació.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "Estàs a la fila.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "El seu informe està amb l'equip de cura.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "Presentació {time} fa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "En línia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. Espera.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Les respostes presentades",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "Ara mateix.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "El metge està revisant el seu informe.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "En curs de desenvolupament",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "Un clínic va obrir el seu informe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "Consultació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "L'aparició",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "Reserva la teva visita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "Els símptomes pioren",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "Reiniciar la demostració",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "Torna al taula de control",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "Tornar a casa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "Si està empeorant, actua ara.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "Si els seus símptomes són greus o empitjorant de sobte trucar els serveis d'emergència ara o anar al departament d'emergència més proper.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "trucar als serveis d'emergència",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "Jo estic bé prop",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "No és un diagnòstic.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "Hem marcat el seu cas com a prioritat superior per tal que l'equip de cura sigui conscient.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · El seu informe està obert",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "Un metge està revisant el seu informe.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "Ecrans {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "Benvinguts",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "Sobre tu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "Entrevista",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "Revisió",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "Urgència",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "Trobar l'hospital",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "Estatut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "Com estàs sentint?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "Respondeu unes quantes preguntes sobre com heu estat des de la vostra visita.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinComplaintContext": {
+    "en": "Your visit: {complaint}",
+    "translation": "La seva visita: {complaint}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "Més bé.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "Aproximadament el mateix",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "Pels pitjors",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "Com és la teva condició comparada amb anteriorment?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "Hi ha alguna altra cosa que vulguis dir-nos?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "Escriu aquí...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "Enviar les meves respostes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "Ens alegra que t'estiguis millor.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolvedBody": {
+    "en": "We'll check in again {next} to make sure you're still improving.",
+    "translation": "Tornarem a consultar els {next} per assegurar-nos que encara estàs millorant.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "Un clínic ho veurà avui.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "Les seves respostes han estat enviades a l'equip de cura.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "Si us plau, busqueu atenció ara.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "Els seus símptomes suggereixen alguna cosa que necessita atenció immediata.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "trucar als serveis d'emergència",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "Aquest enllaç d'inscripció ha expirat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "Aquest seguiment ja no està disponible. Inscriu-vos per veure els seus check-ins actuals.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "Inscriure-se per continuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "Benvinguts",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "Preguntas",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "Resultats",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "Reserva la teva visita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "Crear un compte gratuït per seguir aquesta visita i saltar el codi la propera vegada.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "La teva visita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "Crear el meu compte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "Escapar per ara.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "Verifiquem si ets tu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "Enviarem un codi d'una sola vegada sense contrasenya per recordar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "Enviar codi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "Enviant...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Segurats per Triavi · Conformes amb HIPAA",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "Telèfon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "E-mail",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "Enviar codi a través",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "Número de telèfon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "Direcció de correu electrònic",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "Utilitzeu {channel} en comptes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "Tornar a casa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "Introducir el codi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "Reenviar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResendIn": {
+    "en": "Resend in 0:{sec}",
+    "translation": "Resender en 0: {sec}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "Verificar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "Verificant...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "Salvat!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "Benvinguts de tornada.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "Introdueix el teu telèfon o correu electrònic i enviarem un codi d'inscripció.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "Enviar el codi d'inscripció",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "El teu compte està vinculat als registres de l'hospital.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "Introdueix un número de telèfon válid (714 xifres)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "No vaig poder enviar el codi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "Errors de xarxa, comprova la connexió i torna a intentar-ho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "No vaig poder tornar a enviar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "El codi no coincideix.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "Es va expirar la sessió",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "Per la teva seguretat i per protegir les dades dels pacients, has signat fora després d'un període d'inactivitat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "Registreu-vos de nou.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "Benvinguts de tornada.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "Visita activa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "Visites passades",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Començar un nou check-in",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "No hi ha visita activa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "Començar un check-in per començar una nova visita.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "Encara no hi ha visites passades.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "Subscriu-vos.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "Menú",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "Llengua",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "En la fila",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "En línia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. Espera.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Les respostes presentades",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "Ara mateix.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "La revisió del metge",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "En curs de desenvolupament",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "Consultació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "L'aparició",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "Verificació de seguiment",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "Debte {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "Comença el check-in",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "La teva línia de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "Preparats per trucades.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "Les trucades de cura sonen en aquesta aplicació · el seu número de telèfon mai es comparteix.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Començar un nou check-in",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "La pròxima trucada de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "Canvia de veu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "Els seus medicaments",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsFrom": {
+    "en": "from {hospital}",
+    "translation": "dels {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "Apel · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "Només empujar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "Recents trucs d'atenció",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "Veure tots",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "Simula la trucada d'atenció entrant · demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "Casa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "Voces",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "Configuracions",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "Atenció de veu i trucades",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "Elegir qui t'ha trucat, i com sona.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "Voces",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "Ava",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "Voz femenina",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "Sam",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "Voz masculina",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "TONE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "Calent i suau",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "Reassurant i sense pressa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "Clar i professional",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "Diret, precís, sense molestes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "Brillant i optimista",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "Energia amistosa i encoratjadora",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hearAgent": {
+    "en": "Hear {agent}",
+    "translation": "Escolteu {agent}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "Hola Jordan, és hora de la teva dosi vespre...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "Es mostra no disponible",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "Preferències d'acompanyació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "Les trucades de recordatori de medicaments",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "Anell a cada dosi programada",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "Apels de check-in després de la visita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"Com et sents?\" després de la sortida",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "Horaris tranquil·les",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "No hi ha trucades a les 9:30 pm 7:30 am · torna a una notificació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "El teu agent de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "Escondeix la configuració de veu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "Configuracions",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "Preferències, llengua i compte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "Preferències",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "Llengua",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "Temàtica fosca",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "Escura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "Lluminació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "Notificacions d'impuls",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "CALLES de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "Preferències de veu i trucada",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRowDesc": {
+    "en": "{agent} · {tone}",
+    "translation": "{agent} · {tone}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "La privacitat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "Les seves dades i privacitat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "Descarrega els meus registres",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "Vine aviat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "Modificar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "Línea de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Triavi Patient · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "Has signat fora.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "La seva línia de atenció es manté activa tornar a iniciar sesión per gestionar trucades i recordadisses.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "S'inscriu de nou.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "Signat com a {name}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "La meva taula de control",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "Construcció de demostració",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "Demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "L'invitat d'atenció entrant",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "per a {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "Agents de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingReminder": {
+    "en": "{subject} · {med}",
+    "translation": "{subject} · {med}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "Verificada · a través de la seva línia de cura {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "Declinació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "Accepta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "Llamada de veu encriptada · WebRTC · el teu número mai es comparteix",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "Capítols Vius",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "Agents de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "Molts",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "Unmuted",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "La trucada final",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "Acabar amb aquesta trucada?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "La trucada final",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "Mantingueu-vos en ordre.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "Informat al seu equip de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "L'hora de la neu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "NO RESPONSE A LA LLOGED",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "La pròxima trucada de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "Torna al taula de control",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "Anell de crida de cura del desencadenant (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "Cancel·lar mudes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "La trucada final",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "Visites passades",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsSubtitle": {
+    "en": "Your history with {hospital}",
+    "translation": "La seva història amb {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsPrivacyNote": {
+    "en": "Only you and {hospital} can see these. Tap a visit to read the summary shared with you.",
+    "translation": "Només vostè i el {hospital} poden veure això.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "Completat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "Detalls de visita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "Completat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "A l'exterior",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "Seguiment",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "Medicaments prescrits",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "CALLES de cura per a aquesta visita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "Encara no hi ha cap necessitat d'aquesta visita.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "Aquest és un resum compartit amb vostè no un diagnòstic.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "No vam poder trobar aquesta visita.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "Aquesta visita pot ser que s'hagi eliminat, o el enllaç ja no és vàlid.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "Tornar a les visites passades",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "Carregant la teva visita...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "Liberada pel seu equip de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "Assessorament de SAFETY-NET",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "Modificar perfil",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "Actualitzeu els vostres detalls.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "PERSONAL",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "Número de telèfon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "El teu número de telèfon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "Direcció de correu electrònic",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "La seva adreça de correu electrònic",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "Contacte d'emergència",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "Nom de contacte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "Nom del teu contacte d'emergència",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "Relació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "Per exemple, esposat, pare o mare",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "Telèfon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "Número de telèfon del contacte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "Idioma preferit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "Canvia el llenguatge de cada pantalla instantàniament.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "La teva línia de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "Copia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "Copiació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "No podia copiar - seleccionar i copiar manualment",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "Emmagatzemar canvis",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "Perfil guardat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "Masculin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "Femenina",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "Les seves dades i privacitat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "El que protegim, i el que controla.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "Desidentificació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "Sempre actiu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "El seu nom, les seves dades de contacte i les respostes de text lliure s'eliminen abans que qualsevol cosa surti de l'hospital. Només el seu equip de cura veu les dades d'identificació; la investigació i l'anàlisi veu només les dades desidentificades.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "Tancat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "LOG d'accés",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "Els teus consents",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "Utilització de la investigació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "Permetre que les dades desidentificades millorin l'atenció per a tothom.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "Mensajos de cura",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "Recordadors de cita i controls de seguiment per trucar o empremtar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "DELETE CONTA",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "Eliminar el teu compte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "Elimineu permanentment el vostre compte i dades de contacte.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "Eliminar el meu compte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "Descarregueu els vostres registres",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "Descarrega els meus registres",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "Demana una còpia del resum de les seves visites, dels seus medicaments i el seu historial d'atenció.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "Demana els meus registres",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "Eliminar el teu compte?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "Això elimina permanentment el teu compte i dades de contacte. El teu hospital conserva el teu historial de línia de cura com exigeix la llei. Això no es pot anul·lar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "Eliminar compte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "Mantingui el meu compte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "Escriure DELETE per confirmar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "Tip DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "Presentació de sol·licitud d'eliminació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "L'equip de cura confirmarà per correu electrònic en 72 hores.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "Descarregueu els vostres registres",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "Seleccioneu un format i sol·liciteu la vostra exportació. La prepararem i enviarem un enllaç segur al vostre correu electrònic registrat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "Format",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "Resum JSON",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "PDF (arriba aviat)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "Solicitud d'exportació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "Cancel·lar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "Presentació de sol·licitud d'exportació",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "Enviarem per correu electrònic un enllaç segur a la seva adreça registrada en 24 hores.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "No es descarrega cap fitxer aquí - els seus registres s'envien de forma segura al seu correu electrònic registrat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "Llengua",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "Progress del check-in",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "Passos d'inscripció",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaGoToStep": {
+    "en": "Go to step {n}",
+    "translation": "Anem a l'escenari {n}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "Navegació del pacient",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "Parlant d' altavoces",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "Pròxim de pausa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "Gravetat de 1 a 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "Invitar enllaç o codi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "Tornar a convidar enllaç",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "Passar a tema de llum",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "Passar a tema fosc",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "Temàtica de llum",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "Temàtica fosca",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "opcional",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "scaleRangeAriaLabel": {
+    "en": "{min} to {max}",
+    "translation": "{min} a {max}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "Cap resposta registrada",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "veu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "L' trucada s' ha rebutjat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "L' trucada s' ha acabat?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLevelLabel": {
+    "en": "Level {n} ? {label}",
+    "translation": "Nivell {n}? {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "Enregistrat en el teu compte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusRoutedTo": {
+    "en": "Routed to {hospital}",
+    "translation": "Enviació a {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "Conectar-se a la seva clínica",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "Passa el enllaç de invitació que l'hospital li ha enviat, o escaneja el seu codi QR.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "Invitar enllaç o codi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "Això no sembla un enllaç d'invitació o codi de Triavi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "Continuar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "o",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "Escanir el codi QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "Clínica d'exploració QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "Apuntar la càmera al codi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "Accés a la càmera rebutjat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "No hi ha cap càmera.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "La càmera no està disponible",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "Busques un codi Triavi?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "Introducir el enllaç de invitació manualment",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "Simulació de codi detectat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "Un codi clínic vigent et porta directament als teus detalls.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "Un codi de clínica vàlid et porta directament als teus detalls.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "Donar permís a la càmera en la configuració del navegador, o introduir el enllaç d'invitar manualment.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "No hi ha cap càmera detectada, entreu el enllaç d'invitació enviat pel vostre hospital.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "La càmera no està disponible en aquest moment, entreu el enllaç d'invitació manualment.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "Offline? mostrant el guió de l'entrevista guardat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "Codi d'una sola vegada",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "Codi d'una sola vegada, 6 dígits",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpDigitAriaLabel": {
+    "en": "Digit {n} of 6",
+    "translation": "Digit {n} del 6",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "País de recerca?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "Països de recerca",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "Llista de països",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "Codi del país {dial} {name}. Canvia de país.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T23:55:31.863119+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

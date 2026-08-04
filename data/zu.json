@@ -1,0 +1,3362 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "Ake sikulungiselele ukuvakashelwa kwakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "Ake sikulungiselele",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "ngokuvakashelwa kwakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "Phendula imibuzo embalwa mayelana nezimpawu zakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ Imizuzu emibili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "Ukubuyekezwa Udokotela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "Qala ukubhalisa ngaphambi kokuvakashelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "Nginenombolo yesimemo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "Ngena ngemvume",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "Ukuhambisana ne-HIPAA · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "Ake siqale ngawe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "Lokhu kuhlanganisa ukuvakashelwa kwakho namarekhodi akho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "Igama eligcwele",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "Igama lakho eligcwele",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "Usuku lokuzalwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "Ubulili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "Yini ekwenza ufike namuhla?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "Chaza izimpawu zakho eziyinhloko...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "Ikhanda elibuhlungu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "Umkhuhlane",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "Ubuhlungu esifubeni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "Ukhwehlela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "Qhubeka",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "Umsizi kaTriavi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "Ukubuza ngezimpawu zakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "Akuxhunyiwe ku-inthanethi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "Ukulayisha ingxoxo yakho...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "Asikwazanga ukulayisha ingxoxo yakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "Zama futhi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "Ngiyabonga Ngizobuza imibuzo embalwa esheshayo mayelana nokuthi yini ekwenze wangena.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "Faka impendulo, noma uchofoze isiphakamiso ngenhla",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "Faka impendulo yakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "Bhala impendulo yakho...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "Faka impendulo yakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "Thumela impendulo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "Hlola izimpendulo zami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "Thinta & ukudonsa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "Qinisekisa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "Umswakama",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "Isilinganiso esilinganiselwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "Okubi kunakho konke",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "Nakhu engikubhalile",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "Chofoza kunoma iyiphi into ukuze uyilungise ngaphambi kokuthumela.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "Isikhalazo esiyinhloko",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "Ukuqala",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "Ubucayi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "Umlingiswa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "Imisebe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "Okuhambisanayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "Kwenziwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "ukuzenzisa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "Kubukeka kulungile thumela kudokotela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "Uma izimpawu zakho ziba zimbi kakhulu noma ziba zimbi kakhulu manje, ungalindi shayela izinsizakalo eziphuthumayo.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBadge": {
+    "en": "{level} · {label}",
+    "translation": "{level} · {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "Sicela ufune ukunakekelwa kungakapheli amahora angu-12",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "Isikhathi sokuphumula",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "Izimpawu zakho zisho okuthile okufanele kubonwe maduze.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "Kwenzekani ngokulandelayo?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "Isitatimende sakho sithunyelwe manje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "Ithimba lomtholampilo lithola umlando wakho ohlelekile ngokushesha.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "Kubonwe kungakapheli amahora angu-12",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "Uma isimo siba sibi kakhulu, yenza ngokushesha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "Ukuwohloka okukhulu noma okungazelelwe shayela izinsizakalo eziphuthumayo ngokushesha.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "Lesi yisilinganiso esizenzakalelayo esiphuthumayo, hhayi isifo. Udokotela wenza isinqumo sokugcina.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "hhayi ukuxilongwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "Qhubeka",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "Siyakwamukela emuva",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "Wake wabonwa kulesi sibhedlela ngaphambili.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "Ukuvakashelwa kokugcina · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "Ukuhamba",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "Est. linda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "Odokotela on",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "Zivele ziqukethe amarekhodi akho, ngakho iqembu lakho lokunakekela libona umlando wakho ophelele ngokushesha.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRouteTo": {
+    "en": "Route me to {hospital}",
+    "translation": "Ngiqondise ku-{hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "Khetha esinye isibhedlela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "Ungathanda ukubonwa kuphi?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "Ukuhlola izibhedlela zaseTriavi eduze kwakho...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHospitalsNear": {
+    "en": "{count} hospitals near you",
+    "translation": "{count} izibhedlela eziseduze nawe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "· ihlelwe ngokuya ngebanga",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "Ukuskena kabusha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "ISIKHATHI esiseduze",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count} ku-inthanethi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "Izinga {level} silungile",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "Izinga kuphela {min} +",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "Khetha isibhedlela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "Asikwazanga ukuthola indawo yakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "Usemgqeni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "Isitatimende sakho siphakathi kweqembu lokunakekelwa, sizokwazisa ngokushesha nje lapho udokotela esivula.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "Okufakiwe {time} ago",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "Emgqeni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. linda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Izimpendulo ezithunyelwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "Manje nje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "Udokotela ubukeza imininingwane yakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "Inqubo eqhubekayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "Udokotela wavula i-brief yakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "Ukubonisana",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "Okulandelayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "Gcina ukuvakashelwa kwakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "Izimpawu ziba zimbi nakakhulu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "Qalisa kabusha idemo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "Buyela kudeshibhodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "Ukubuyela emuva",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "Uma isimo siba sibi kakhulu, yenza okuthile manje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "Uma izimpawu zakho ziba zimbi noma ziba zimbi ngokungazelelwe shayela izinsizakalo eziphuthumayo manje noma uye emnyangweni wezimo eziphuthumayo oseduze.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "Shayela izinsizakalo eziphuthumayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "Ngiyaphila eduze",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "hhayi ukuxilongwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "Sikhombe icala lakho njengento ebaluleke kakhulu ukuze ithimba lokunakekelwa likwazi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · Imininingwane yakho ivulekile",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "Udokotela uyabuyekeza ubuciko bakho, sizokutshela njengoba buqhubeka.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "Isikrini {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "Siyakwamukela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "Mayelana nawe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "Ingxoxo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "Ukubuyekezwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "Ukuphuthuma",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "Thola isibhedlela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "Isimo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "Uzizwa kanjani?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "Phendula imibuzo embalwa mayelana nendlela oye waba ngayo kusukela ekuvakasheni kwakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinComplaintContext": {
+    "en": "Your visit: {complaint}",
+    "translation": "Ukuvakashelwa Kwakho: {complaint}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "Kungcono",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "Cishe okufanayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "Okubi nakakhulu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "Isimo sakho siqhathaniswa kanjani nesangaphambilini?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "Ikhona yini enye ongathanda ukusitshela yona?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "Bhala lapha...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "Thumela izimpendulo zami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "Siyajabula ukuthi uzizwa kangcono",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "Udokotela uzobuka lokhu namuhla",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "Izimpendulo zakho zithunyelwe eqenjini elinakekelayo.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "Sicela ufune ukunakekelwa manje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "Izimpawu zakho zisho okuthile okudinga ukunakwa ngokushesha. Ungalindi xhumana nethimba lakho lokunakekelwa noma uye emnyangweni wezimo eziphuthumayo oseduze.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "Shayela izinsizakalo eziphuthumayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "Lesi sixhumanisi sokungena sesiphelelwe yisikhathi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "Lokhu kulandelwa akusatholakali. Ngena ngemvume ukuze ubone ukubhalisa kwakho kwamanje.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "Ngena ngemvume ukuze uqhubeke",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "Siyakwamukela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "Imibuzo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "Umphumela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "Gcina ukuvakashelwa kwakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "Yenza i-akhawunti yamahhala ukuze ulandele ukuvakashelwa kwakho bese ugxuma ikhodi ngokuzayo.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "Ukuvakashelwa kwakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "Dala i-akhawunti yami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "Hamba manje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "Ake siqinisekise ukuthi nguwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "Sizothumela ikhodi yesikhathi esisodwa akukho iphasiwedi okufanele uyikhumbule.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "Thumela ikhodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "Ukuthumela...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Ivikelwe yiTriavi · ihambisana ne-HIPAA",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "Ucingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "I-imeyili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "Thumela ikhodi nge",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "Inombolo yocingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "Ikheli le-imeyili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "Sebenzisa i-{channel} esikhundleni salokho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "Ukubuyela emuva",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "Faka ikhodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSentTo": {
+    "en": "Sent to {dest}. It expires in 10 minutes.",
+    "translation": "Ithunyelwe ku-{dest}, iphelelwa yisikhathi ngemva kwemizuzu eyishumi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "Thumela kabusha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResendIn": {
+    "en": "Resend in 0:{sec}",
+    "translation": "Thumela kabusha ku-0: {sec}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "Qinisekisa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "Ukuqinisekisa...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "Wasindiswa!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "Siyakwamukela emuva",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "Faka ucingo lwakho noma i-imeyili bese sithumela ikhodi yokungena ngemvume.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "Thumela ikhodi yokungena ngemvume",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "I-akhawunti yakho ixhunywe kumarekhodi esibhedlela sakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "Faka inombolo yocingo evumelekile (izinombolo ezingu-714)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "Angikwazanga ukuthumela ikhodi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "Iphutha lenethiwekhi, hlola uxhumano lwakho bese uzama futhi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "Angikwazanga ukuyithumela kabusha, zama futhi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "Leyo khodi ayihambelani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "Iseshini iphelile",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "Ukuze uphephe futhi uvikele idatha yeziguli zakho, ubhalisiwe ngemuva kwesikhathi sokungasebenzi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "Ngena ngemvume futhi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "Siyakwamukela emuva",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "Ukuvakashelwa okusebenzayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "Ukuvakashelwa kwangaphambilini",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Qala ukubhalisa okusha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "Akukho ukuvakashelwa okusebenzayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "Qala ukubhalisa ukuze uqale ukuvakashelwa okusha.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "Azikho izivakashi zangaphambilini okwamanje.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "Bhalisa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "Imenyu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "Ulimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "Emgqeni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "Emgqeni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. linda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Izimpendulo ezithunyelwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "Manje nje",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "Ukubuyekezwa Udokotela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "Inqubo eqhubekayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "Ukubonisana",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "Okulandelayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "Ukuhlolwa okulandelayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "Isikweletu {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "Qala ukubhalisa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "UMTHETHO WAKHO Wokukhathalela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "Ilungele izingcingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "Izingcingo zokunakekelwa zihlale kulolu hlelo lokusebenza · inombolo yakho yocingo ayikaze yabelwe.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Qala ukubhalisa okusha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "Ucingo olulandelayo lokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "Shintsha izwi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "Imithi yakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsFrom": {
+    "en": "from {hospital}",
+    "translation": "kusukela ku-{hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "Ukubiza · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "Push kuphela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "Izingcingo zakamuva zokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "Bheka konke",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "Linganisa ucingo olungenayo lokunakekelwa · demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "Ekhaya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "Izwi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "Izilungiselelo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "Ukunakekela izwi & izingcingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "Khetha ukuthi ubani ozokubiza nokuthi kuzwakala kanjani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "I-VOICE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "I-Ava",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "Izwi labesifazane",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "USam",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "Izwi lendoda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "I-TONE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "Ukufudumala & ubumnene",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "Ukududuza nokungasheshi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "Okucacile & professional",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "Ngokuqondile, ngokunembile, ngaphandle kwenkulumo encane",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "Ukukhanya Nethemba",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "Amandla anomusa, akhuthazayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "Sawubona Jordan, sekuyisikhathi somthamo wakho wakusihlwa...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "Isampula ayitholakali",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "Izintandokazi Zokubiza",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "Izingcingo zesikhumbuzi semithi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "Ring ngesikhathi somthamo ngamunye ohleliwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "Izingcingo zokungena ngemuva kokuvakashelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"Uzizwa kanjani?\" ngemva kokukhishwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "Amahora athule",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "Ayikho izingcingo 9:30 PM 7:30 AM · ibuyela isaziso",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "Umxhumanisi wakho wokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "Gcina izilungiselelo zezwi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "Izilungiselelo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "Izintandokazi, ulimi kanye ne-akhawunti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "Izintandokazi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "Ulimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "Ingqikithi emnyama",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "Umnyama",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "Ukukhanya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "Izaziso ezicindezelayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "Izingcingo Zokukhathalela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "Izintandokazi zezwi nezingcingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRowDesc": {
+    "en": "{agent} · {tone}",
+    "translation": "{agent} · {tone}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "UKUPHILA PHAKATHI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "Idatha yakho & ubumfihlo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "Landa amarekhodi ami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "Ngiyeza maduze",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "Hlela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "Umzila wokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "I- Triavi Patient · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "Ubhaliselwe ngaphandle.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "Ulayini wakho wokunakekelwa uhlala usebenza phinda ungene ukuze uphathe izingcingo nezikhumbuzo.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "Bhalisa kabusha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "Isayinwe ngokuthi {name}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "Ideshibhodi yami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "Ukwakhiwa kwe-Demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "I-Demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "Ucingo oluzayo lokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "ukuze {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "Umxhumanisi wokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingReminder": {
+    "en": "{subject} · {med}",
+    "translation": "{subject} · {med}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "Ukuqinisekiswa · ngokusebenzisa umugqa wakho wokunakekelwa {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "Ukuncipha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "Yamukela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "Ucingo olufihliwe · I-WebRTC · inombolo yakho ayikaze yabelwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "ISIHLOKO ESIPHILAYO",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "Umxhumanisi wokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "Isimungulu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "Okungakhulumi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "Isikhalazo sokugcina",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "Ukuqeda lolu cingo?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "Isikhalazo sokugcina",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "Hlala lapho kudingeka khona",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "Kubikwa Eqenjini Lakho Lokunakekela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "ISIKHATHI SESIKHATHI 1",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "AKUNA mpendulo eqinisekisiwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "Ucingo olulandelayo lokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "Buyela kudeshibhodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "I-Trigger care call ring (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "Shintsha isikhala",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "Isikhalazo sokugcina",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "Ukuvakashelwa kwangaphambilini",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsSubtitle": {
+    "en": "Your history with {hospital}",
+    "translation": "Umlando wakho ne-{hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsPrivacyNote": {
+    "en": "Only you and {hospital} can see these. Tap a visit to read the summary shared with you.",
+    "translation": "Nguwe kuphela ongakubona lokhu kanye ne-{hospital}. Chofoza ukuvakashelwa ukuze ufunde isifinyezo esabelwe wena.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "Ukuqedwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "Imininingwane yokuvakasha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "Ukuqedwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "PHAKATHI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "Ukulandelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "Imithi ENqunyiwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "Izimemo Zokukhathalela Loku Vakashela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "Asikho isidingo sokunakekela lokhu kuvakashelwa okwamanje.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "Uma izimpawu zakho zibuyela emuva noma ziba zimbi, funa usizo oluphuthumayo ngokushesha.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "Asikwazanga ukuthola ukuthi ukuvakashelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "Lokhu kuvakashelwa kungase kususwe, noma isixhumanisi singasebenzi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "Ukubuyela ezivakashini zangaphambilini",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "Ukulayisha ukuvakashelwa kwakho...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "Ukukhululwa yiqembu lakho lokunakekelwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "Iseluleko se-SAFETY-NET",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "Hlela iphrofayela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "Yazisa imininingwane yakho, udokotela wakho uzobona okusha.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "I-PERSONAL",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "Inombolo yocingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "Inombolo yakho yocingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "Ikheli le-imeyili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "Ikheli lakho le-imeyili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "Ukuxhumana okuphuthumayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "Igama lokuxhumana",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "Igama lomuntu oxhumana naye esimweni esiphuthumayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "Ubudlelwano",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "Isibonelo, umlingani womshado, umzali",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "Ucingo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "Inombolo yocingo yoxhumana naye",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "Ulimi olukhethwayo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "Ushintsha ulimi lwesikrini ngasinye ngokushesha.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "UMTHETHO WAKHO Wokukhathalela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "Ikhophi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "Ikhophi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "Ayikwazanga ukukopisha - khetha bese ukopisha ngesandla",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "Gcina izinguquko",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "Iphrofayili egciniwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "Owesilisa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "Owesifazane",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "Idatha yakho & ubumfihlo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "Lokho esikuvikelayo, nalokho okulawulayo.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "I-DE-IDENTIFICATION",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "Njalo uvuliwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "Igama lakho, imininingwane yakho yokuxhumana nezimpendulo zakho zetheksthi yamahhala ziyanyamalala ngaphambi kokuba noma yini iphume esibhedlela sakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "Ikhiyiwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "I-LOG Yokufinyelela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "IMISUMA YAKHO",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "Ukusetshenziswa kocwaningo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "Vumela idatha engaziwa ukuba ithuthukise ukunakekelwa kwawo wonke umuntu. Ungakushintsha lokhu nganoma yisiphi isikhathi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "Imilayezo yokunakekela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "Izikhumbuzo zesikhathi sokuqokwa nokuhlola okuqhubekayo ngokushayela ucingo noma ngokucindezela.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "I-DELET I-akhawunti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "Susa i-akhawunti yakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "Khipha unomphela i-akhawunti yakho nemininingwane yakho yokuxhumana. Umlando wakho wokunakekelwa ugcinwa esibhedlela sakho njengoba kudingeka ngokomthetho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "Susa i-akhawunti yami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "Landa amarekhodi akho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "Landa amarekhodi ami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "Cela ikhophi yezifinyezo zakho zokuvakasha, imithi yakho, nomlando wakho wokubhekana nokunakekelwa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "Cela amarekhodi ami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "Ukususa i-akhawunti yakho?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "Lokhu kususa unomphela i-akhawunti yakho nemininingwane yakho yokuxhumana. Isibhedlela sakho sigcina umlando wakho womugqa wokunakekelwa njengoba kudingeka ngokomthetho. Lokhu akunakwenziwa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "Susa i-akhawunti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "Gcina i-akhawunti yami",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "Faka i- DELETE ukuze uqinisekise",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "Uhlobo lwe-DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "Isicelo sokususwa esifakiwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "Ithimba lakho lokunakekelwa lizokuqinisekisa nge-imeyili kungakapheli amahora angu-72.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "Landa amarekhodi akho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "Khetha ifomethi bese ucela ukuthekelisa, sizoyilungisa bese sithumela isixhumanisi esiphephile ku-imeyili yakho ebhalisiwe.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "Ifomethi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "Isifinyezo se-JSON",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "I-PDF (izofika maduze)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "Isicelo sokuthekelisa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "Ukukhansela",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "Isicelo sokuthekelisa esingenisiwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "Sizokuthumela i-imeyili isixhumanisi esiphephile ekhelini lakho elibhalisiwe kungakapheli amahora angu-24.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "Ayikho ifayela elilayishiwe lapha - amarekhodi akho athunyelwa ngokuphepha ku-imeyili yakho ebhalisiwe.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "Ulimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "Inqubekela phambili yokuhlolwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "Izinyathelo zokungena",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaGoToStep": {
+    "en": "Go to step {n}",
+    "translation": "Hamba uye esinyathelweni {n}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "Ukuhamba kweziguli",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "Shintsha isikhulumi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "Isampula lokuphumula",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "Ubucayi kusuka ku-1 kuya ku-10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "Thumela isixhumanisi noma ikhodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "Buyela ukuze umeme isixhumanisi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "Shintshela ku- light theme",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "Shintsha ku- dark theme",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "Ingqikithi yokukhanya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "Ingqikithi emnyama",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "okungakhethwa kukho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "scaleRangeAriaLabel": {
+    "en": "{min} to {max}",
+    "translation": "{min} kuya ku {max}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "Ayikho impendulo egciniwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "izwi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "Ukuxhumana kwenqatshelwe?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "Ukuxhumana sekuphelile?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLevelLabel": {
+    "en": "Level {n} ? {label}",
+    "translation": "Izinga {n}? {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "Kugcinwe ku-akhawunti yakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusRoutedTo": {
+    "en": "Routed to {hospital}",
+    "translation": "Ukuqondiswa ku-{hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "Xhuma emtholampilo wakho",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "Unamathisele isixhumanisi sesimemo esivela esibhedlela sakho, noma uhlole ikhodi yabo ye-QR.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "Thumela isixhumanisi noma ikhodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "Lokho akubukeki njengesixhumanisi noma ikhodi yesimemo seTriavi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "Qhubeka",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "noma",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "Hlola ikhodi ye-QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "Umtholampilo wokuhlolwa kwe-QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "Khombisa ikhamera yakho ikhodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "Ukufinyelela kwekhamera kwenqatshelwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "Ayikho ikhamera etholakale",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "Ikhamera ayitholakali",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "Ufuna ikhodi ye-Triavi?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "Faka isixhumanisi sokumema ngesandla",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "Linganisa ikhodi etholakele",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "Ikhodi yomtholampilo evumelekile ikuholela ngqo emininingwaneni yakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "Ikhodi yomtholampilo evumelekile ikuyisa ngqo emininingwaneni yakho.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "Nikeza imvume yekhamera kuzilungiselelo zesiphequluli sakho, noma ufake isixhumanisi sokumema ngesandla.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "Ayikho ikhamera etholakalayo, esikhundleni salokho faka isixhumanisi sesimemo esivela esibhedlela.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "Ikhamera ayitholakali njengamanje. Faka isixhumanisi sememo ngesandla.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "Ungaxhunyiwe ku-inthanethi? ukubonisa iskripthi sokuxoxisana esisindisiwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "Ikhodi yesikhathi esisodwa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "Ikhodi yesikhathi esisodwa, enamadijithi ayisithupha",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpDigitAriaLabel": {
+    "en": "Digit {n} of 6",
+    "translation": "Isibalo {n} 6",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "Ukufuna izwe?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "Amazwe okucinga",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "Uhlu lwamazwe",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "Ikhodi yezwe {dial} {name}. Shintsha izwe.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T15:43:43.935317+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

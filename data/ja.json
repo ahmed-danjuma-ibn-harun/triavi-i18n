@@ -1,0 +1,3322 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "あなたの訪問のために準備しましょう.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "準備しよう",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "あなたの訪問のために",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "症状についての質問に答えます 医師は 会う前にすべてを見直します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ 2分",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "医師の診察を受けた",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "訪問前のチェックインを開始する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "招待コードがある",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "サインインする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "HIPAAに準拠する · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "あなたから始めましょう",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "これはあなたの訪問とあなたの記録を結びつける.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "全名",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "あなたの完全な名前",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "出生日",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "セックス",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "今日はどうした?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "主な症状を説明する...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "頭痛",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "熱",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "胸痛",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "咳",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "継続する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "トリアヴィアシスタント",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "症状について尋ねる",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "オフライン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "インタビューを 読み込み...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "インタビューは載せられなかった",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "もう一度やってみよう",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "どうも 素早く質問してみよう 何で入ったの?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "答えを入力するか,上記の提案をタップする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "答えを入力する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "答えを入力して...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "答えを入力する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "返信を送信する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "私の答えを振り返る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "タップ&ドラッグ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "確認する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "軽量",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "適度に",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "史上最悪の",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "これは私が注記したものです",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "送信する前に,任意のアイテムをタップして修理してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "主要の苦情",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "開始",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "重度",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "性格",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "放射線",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "関連",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "完成した",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "偽物",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewEdit": {
+    "en": "Edit {label}",
+    "translation": "編集 {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "医者に送る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "症状が深刻で 悪化している場合は 待たないでください 緊急サービスに電話してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBadge": {
+    "en": "{level} · {label}",
+    "translation": "{level} · {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "1~2時間以内にご介護をお願いします",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "について",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "あなたの症状はすぐに見られるものだと示しています 臨床チームにとって緊急だと 報告しました",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "次に何が起こるか",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "簡章が送られてきた",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "クリニカルチームは あなたの構造的な履歴を すぐに受け取ります",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "1~2時間以内に見た",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "悪化したら 早く行動する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "重症または突然の悪化 緊急サービスに即座に電話してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "これは自動緊急診断ではなく 臨床医が最終的な決定を下します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "診断ではない",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "継続する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "戻ってきたようこそ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "この病院で見られたことある 報告を直接送ったか?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "最後の訪問 · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "遠くへ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "待って",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "医者は",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "彼らはすでにあなたの記録を持っているので あなたのケアチームはすぐにあなたの完全な履歴を見る.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRouteTo": {
+    "en": "Route me to {hospital}",
+    "translation": "私を {hospital}へ導いて",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "別の病院を選ぶ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "どこに見られたい?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "あなたの近くのトリアヴィ病院をスキャンして...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHospitalsNear": {
+    "en": "{count} hospitals near you",
+    "translation": "{count} あなたの近くにある病院",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "·距離によって分類",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "再スキャン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "近く",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count}オンライン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "レベル {level} 準備",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "レベル {min} +のみ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "病院を選択する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "位置が分からないので 再びスキャンしてみてください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "列に並んでいる",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "診察室に報告したので 診察室に報告します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "提出した {time}前",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "列に",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "待って",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "提出された回答",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "たった今",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "医者はあなたの説明書を見直しています",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "進行中",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "クリニックがあなたの説明書を開けた",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "協議",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "未来",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "訪問を省略する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "症状が悪化する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "デモを再起動",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "ダッシュボードに戻る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "戻る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "悪化するなら 今すぐ行動する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "排隊を待たないでください. 症状が急に悪化する場合は 緊急サービスに電話してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "緊急サービスに電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "私は大丈夫 近く",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "診断ではない",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "あなたの事件を優先順位として 確認したので 介護チームに知らせて下さい",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · あなたの説明書は開いています",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "臨床医が報告をチェックしてる 報告を更新する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "画面 {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "お待たせしました",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "あなたについて",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "インタビュー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "レビュー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "緊急性",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "病院を探す",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "ステータス",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "どうなってるの?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "あなたの訪問以来,どうだったかについてのいくつかの質問に答えます.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinComplaintContext": {
+    "en": "Your visit: {complaint}",
+    "translation": "あなたの訪問: {complaint}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "もっといい",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "同じくらい",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "さらに悪いこと",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "あなた の 状態 は 前 の と どの よう に 比較 さ れ て い ます か.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "もう何かお伝えしたいですか?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "タイプして...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "私の答えを提出してください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "気分が良くてよかった",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "臨床医は今日これを調べる",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "あなたの回答は 介護チームに送られ 臨床医が検討し 必要に応じて連絡します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "お世話になってください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "症状は 迅速な注意が必要だと 示唆します. 待ってはいけません 介護チームに連絡してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "緊急サービスに電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "このチェックインリンクは終了しました",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "このフォローアップはもはや利用できません. 現在のチェックインを見るためにサインインしてください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "継続するためにサインインする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "お待たせしました",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "質問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "結果",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "訪問を省略する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "チェックインが確認されました 無料アカウントを作成して この訪問を追跡し 次回はコードをスキップします",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "あなたの訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "私のアカウントを作成する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "今のところは逃げる",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "確かめてみよう",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "単発コードを送信します 覚えられないパスワードです",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "コードを送信する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "送信する...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Triaviによって保証された · HIPAA に準拠する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "メール",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "経由でコードを送信する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "電話番号",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "メールアドレス",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "代わりに {channel} を使用する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "戻る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "コードを入力する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "送信する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "確認する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "確認する...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "救われた!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "戻ってきたようこそ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "電話やメールを入力してサインインコードを送信します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "サインインコードを送信する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "あなたの口座は病院の記録と結びついています",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "有効な電話番号 (714桁) を入力する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "コードを送れなかった もう一度やってみよう",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "ネットワークエラー 接続を確認して また試してみてください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "送信できませんでした もう一度やってみてください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "そのコードは一致しなかった もう一度やってみよう",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "会議終了",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "安全のため 患者のデータを保護するため 休憩期間を経て 退院しました",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "またサインインする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "戻ってきたようこそ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "活発な訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "過去の訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "新しいチェックインを開始する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "活動的な訪問はありません",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "新しい訪問を開始するためにチェックインを開始します.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "過去の訪問はまだありません",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "署名する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "メニュー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "言語",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "列に",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "列に",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "待って",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "提出された回答",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "たった今",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "医師の診察",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "進行中",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "協議",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "未来",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "フォローアップチェックイン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "負債 {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "チェックイン開始",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "あなた の 介護 の 線",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "連絡を準備する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "あなたの電話番号は決して共有されません.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "新しいチェックインを開始する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "次のケア電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "声を変更する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "あなたの薬",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsFrom": {
+    "en": "from {hospital}",
+    "translation": "{hospital}から",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "呼び出し · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "押すだけ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "最近の介護電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "すべてを見る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "到着する介護電話をシミュレートする · デモ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "家庭",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "音声",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "設定",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "音声と電話のケア",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "誰が呼んでるか 聞いてくれ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "声",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "アバ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "女性の声",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "サム",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "男性の声",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "トーン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "温かい やさしい",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "慰め と 慌てて ない",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "クリア & プロフェッショナル",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "直接的で正確で 軽い話はない",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "鮮明で充実した",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "フレンドリーで励ますエネルギー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "こんにちは ジョーダン 夕方用薬の時間だ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "取れないサンプル",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "呼び出しの優先順位",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "薬を思い出させる電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "予定された投与ごとにリング",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "訪問後のチェックイン電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"退院後 どう感じますか?\"",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "静かな時間",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "9時30分 午前7時30分 連絡なし",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "あなたの介護担当者",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "音声設定を保存する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "設定",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "優先順位,言語,アカウント",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "優先順位",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "言語",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "暗いテーマ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "暗闇",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "ライト",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "押す通知",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "介護電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "声と電話の選択",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRowDesc": {
+    "en": "{agent} · {tone}",
+    "translation": "{agent} · {tone}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "プライバシー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "あなたのデータとプライバシー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "私のレコードをダウンロードする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "すぐ届きます",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "編集する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "介護ライン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Triavi 患者 · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "あなたはサインアウトされています",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "呼び出しと提醒を管理するために 再びログインします.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "再びサインイン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "{name} と署名した",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "私のダッシュボード",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "デモビルド",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "デモ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "到着する介護電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "{hospital}について",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "介護担当者",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingReminder": {
+    "en": "{subject} · {med}",
+    "translation": "{subject} · {med}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "あなたのケアラインで確認されました {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "減少",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "受け入れ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "暗号化された音声通話 · WebRTC · 番号は共有されません",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "ライブキャピュレット",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "介護担当者",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "沈黙する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "黙ってない",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "終結電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "この電話を終わらせる?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "終結電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "待機して",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "介護チーム に 報告 さ れ た",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "雪が降った1時間",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "答案は定かではありません",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "次のケア電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "ダッシュボードに戻る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "トリガーケアコールリング (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "沈黙を切り替える",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "終結電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "過去の訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "完成した",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "訪問詳細",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "完成した",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "外へ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "フォローアップ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "処方された薬剤",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "この 訪問 に 対する 配慮 の 呼びかけ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "まだこの訪問は 心配ない",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "これはあなたと共有された概要です 診断ではありません.症状が戻り,または悪化した場合,すぐに緊急治療を要請してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "訪問は見つかりませんでした",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "この訪問は削除されたり,リンクは有効でないかもしれません.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "過去の訪問へ戻る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "訪問を充電する...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "介護チームから解放された",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "SAFETY-NET ADVICE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "プロフィール編集",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "詳細を更新します 医者は最新情報を確認します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "パーソナル",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "電話番号",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "あなたの電話番号",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "メールアドレス",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "あなたのメールアドレス",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "緊急連絡",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "連絡先名",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "緊急連絡先の名前",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "人間関係",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "配偶者,親",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "連絡先の電話番号",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "好きな言語",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "すべての画面の言語を瞬時に変更します.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "あなた の 介護 の 線",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "コピー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "複製",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "コピーできない - 選択して手動でコピする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "変更を保存する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "保存されたプロフィール",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "男性",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "女性",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "あなたのデータとプライバシー",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "私たちが守っていることと あなたがコントロールしていること",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "識別解除",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "いつでも",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "病院を出る前に,あなたの名前,連絡先の詳細,無料テキストの回答が削除されます. 介護チームだけが識別情報をご覧いただけます. 研究と分析では,識別されていないデータをみることができます.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "閉じ込められた",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "アクセス ログ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "あなた の 意見",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "研究用",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "医療の改善を目的として データを無効化させてください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "介護メッセージ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "予約通知や連絡先でチェックインはいつでも変更できます",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "口座 DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "アカウントを削除する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "アカウントと連絡先を永久に削除します 医療経歴は法律で要求されているように病院で保存されます",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "私のアカウントを削除する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "記録をダウンロードする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "私のレコードをダウンロードする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "診察の概要 薬剤 介護の履歴 を 取得してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "私の記録を頼む",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "アカウントを削除する?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "これはあなたのアカウントと連絡先を永久に削除します.あなたの病院は法律によって要求されるようにあなたのケアライン履歴を保持します.これは取り消すことはできません.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "アカウントを削除する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "私の口座を保管する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "確認するには DELETE タイプする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "DELETE タイプ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "削除要請が提出された",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "介護チームは 72時間以内にメールで確認します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "記録をダウンロードする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "格式を選択して 輸出を要請します 準備して 登録されたメールへの安全なリンクを送信します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "フォーマット",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "JSON概要",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "PDF (まもなく登場する)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "輸出要請",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "キャンセル",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "輸出要請提出",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "24時間以内に 登録された住所への安全なリンクをメールします",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "ファイルはダウンロードされません 記録は登録されたメールに安全に送信されます",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "言語",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "チェックインの進捗",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "チェックインの手順",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "患者のナビゲーション",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "スピーカーを切り替える",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "休憩サンプル",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "1から10までの重度",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "リンクまたはコードを招待する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "招待リンクに戻る",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "ライトテーマに切り替える",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "ダークテーマに切り替える",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "ライトテーマ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "暗いテーマ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "オプション",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "scaleRangeAriaLabel": {
+    "en": "{min} to {max}",
+    "translation": "{min}から {max}まで",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "回答は記録されていません",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "音声",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "連絡が取れていないとログイン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "連絡が終了? 連絡がないとログイン",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLevelLabel": {
+    "en": "Level {n} ? {label}",
+    "translation": "レベル {n}? {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "あなたのアカウントに保存",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusRoutedTo": {
+    "en": "Routed to {hospital}",
+    "translation": "{hospital} に転送される",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "診療所へ連絡する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "病院から送られた招待状のリンクを貼り付けて,QRコードをスキャンしてください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "リンクまたはコードを招待する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "トリアヴィの誘いリンクやコードじゃない",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "継続する",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "または",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "QRコードをスキャンする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "スキャンクリニック QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "カメラをコードに向け",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "カメラアクセス拒否",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "カメラが見つかりませんでした",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "カメラは利用できません",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "トリアヴィコードを探してる?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "手動で招待リンクを入力",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "検出コードをシミュレートする",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "クリニックのコードは 詳細に案内します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "クリニックコードが有効で 詳細を直接説明します",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "ブラウザの設定でカメラの許可を許可するか 手動で招待リンクを入力してください.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "病院が送った招待状のリンクを入力してください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "カメラは現時点では利用できません 誘いリンクを手動で入力してください",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "オフライン? 保存されたインタビュースクリプトを表示",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "単発コード",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "単発コード 6桁",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "捜索国?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "検索国",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "国のリスト",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "国のコード {dial} {name} 国の変更",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T09:31:26.627505+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

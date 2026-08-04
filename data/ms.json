@@ -1,0 +1,3370 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "Mari kita siapkan anda untuk lawatan anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "Mari kita bersiap-siap.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "untuk lawatan anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "Jawab beberapa soalan mengenai gejala anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ 2 minit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "Diperiksa oleh doktor",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "Mulakan check-in sebelum lawatan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "Saya ada kod undangan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "Mendaftarkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "Sesuai dengan HIPAA · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "Mari kita mulakan dengan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "Ini menghubungkan lawatan anda dengan rekod anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "Nama penuh",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "Nama penuh anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "Tarikh kelahiran",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "Seks",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "Apa yang membawa anda ke sini hari ini?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "Jelaskan gejala utama anda...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "Sakit kepala",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "Demam",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "Kesakitan dada",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "Batuk",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "Lanjutkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "Pembantu Triavi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "Menanyakan tentang gejala anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "Di luar talian",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "memuat turun temu bual anda...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "Kami tidak boleh memuat naik temu bual awak.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "Cuba lagi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "Terima kasih Saya akan bertanya beberapa soalan ringkas tentang apa yang membawa anda masuk.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "Ketik jawapan, atau ketik cadangan di atas",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "Ketik jawapan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "Ketik jawapan anda...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "Ketik jawapan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "Kirim jawapan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "Periksa jawapan saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "Ketuk & seret",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "Memaklumkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "Lembut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "Bermoderasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "Terburuk yang pernah ada.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "Inilah yang saya perhatikan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "Ketuk mana-mana item untuk memperbaikinya sebelum menghantar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "Peraduan utama",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "Bermula",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "Ketegangan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "Karakter",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "Radiasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "Berkaitan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "Selesai",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "kebohongan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewEdit": {
+    "en": "Edit {label}",
+    "translation": "Edit {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "Rupanya betul hantar ke doktor",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "Jika gejala anda terasa teruk atau semakin teruk sekarang, jangan tunggu hubungi perkhidmatan kecemasan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBadge": {
+    "en": "{level} · {label}",
+    "translation": "{level} · {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "Sila cari penjagaan dalam masa 1-2 jam",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "Perkataan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "Gejala awak menunjukkan sesuatu yang perlu dilihat dalam masa terdekat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "Apa yang berlaku seterusnya?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "Kertas anda dihantar sekarang.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "Pasukan klinikal menerima sejarah struktur anda dengan serta-merta.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "Dilihat dalam masa 12 jam",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "Jika ia menjadi lebih teruk, bertindak cepat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "Kemerosotan teruk atau tiba-tiba hubungi perkhidmatan kecemasan segera.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "Ini adalah anggaran kecemasan automatik, bukan diagnosis. Seorang doktor membuat keputusan akhir.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "bukan diagnosis",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "Lanjutkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "Selamat datang kembali.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "Awak pernah dilihat di hospital ini sebelum ini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "lawatan terakhir · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "Pergi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "Est. tunggu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "Doktor di",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "Mereka sudah menyimpan rekod anda, jadi pasukan penjagaan anda melihat sejarah lengkap anda segera.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRouteTo": {
+    "en": "Route me to {hospital}",
+    "translation": "Arahkan saya ke {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "Pilih hospital yang berbeza",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "Di mana kau mahu dilihat?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchSubtitle": {
+    "en": "Pick a Triavi hospital near you — your {level} brief is sent the moment you choose.",
+    "translation": "Pilih hospital Triavi berdekatan dengan anda brief {level} anda akan dihantar pada masa yang anda pilih.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "Mengimbas hospital Triavi berdekatan dengan anda...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHospitalsNear": {
+    "en": "{count} hospitals near you",
+    "translation": "{count} hospital berdekatan dengan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "· diurutkan mengikut jarak",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "Rescan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "SEKARANG",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count} dalam talian",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "Tingkat {level} siap",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "Tingkat {min} + sahaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "Pilih hospital",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "Kita tak dapat tahu lokasi awak.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "Awak dalam barisan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "Awak akan diberitahu sebaik sahaja doktor membukanya.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "Difailkan {time} ago",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "Dalam barisan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. tunggu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Jawapan yang dikemukakan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "Baru-baru ini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "Doktor mengkaji laporan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "Dalam proses",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "Seorang doktor membukanya.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "Konsultasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "Yang akan datang",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "Simpan lawatan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "Gejala lebih teruk",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "Memulakan semula demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "Kembali ke papan pemandu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "Kembali",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "Jika ia menjadi lebih teruk, bertindak sekarang",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "Jangan tunggu kedudukan barisan anda. Jika gejala anda teruk atau memburuk secara tiba-tiba hubungi perkhidmatan kecemasan sekarang atau pergi ke jabatan kecemasan terdekat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "Hubungi perkhidmatan kecemasan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "Saya baik-baik sahaja dekat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "bukan diagnosis",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "Kami telah menandakan kes anda sebagai keutamaan yang lebih tinggi supaya pasukan penjagaan mengetahui.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · Brief anda terbuka",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "Seorang doktor sedang mengkaji laporan awak.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "Skrin {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "Selamat datang.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "Tentang kamu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "Wawancara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "Ulasan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "Urgensi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "Cari hospital",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "Status",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "Bagaimana perasaan awak?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "Jawab beberapa soalan tentang bagaimana anda sejak lawatan anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinComplaintContext": {
+    "en": "Your visit: {complaint}",
+    "translation": "lawatan anda: {complaint}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "Lebih baik.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "Kira-kira sama.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "Lebih teruk",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "Bagaimana keadaan anda berbanding dengan sebelum ini?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "Ada apa-apa lagi yang ingin awak ceritakan kepada kami?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "Tulis di sini...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "Masukkan jawapan saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "Kami gembira awak berasa lebih baik.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "Seorang doktor akan melihat ini hari ini",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "Jawapan anda telah dihantar kepada pasukan penjagaan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "Tolong cari penjagaan sekarang.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "Gejala anda menunjukkan sesuatu yang memerlukan perhatian segera. Jangan tunggu hubungi pasukan penjagaan anda atau pergi ke jabatan kecemasan terdekat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "Hubungi perkhidmatan kecemasan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "Link check-in ini telah tamat tempoh",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "Perkhidmatan ini tidak lagi tersedia, masuk untuk melihat pendaftaran semasa anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "Sign in untuk meneruskan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "Selamat datang.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "Soalan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "Hasil",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "Simpan lawatan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "Buat akaun percuma untuk melacak lawatan ini dan lepaskan kod lain kali.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "lawatan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "Buat akaun saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "Skip untuk sekarang",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "Mari kita mengesahkan itu anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "Kami akan menghantar kod sekali tiada kata laluan untuk diingat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "Kirimkan kod",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "Mengirim...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Dijamin oleh Triavi · mematuhi HIPAA",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "Telefon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "Email",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "Kirim kod melalui",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "Nombor telefon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "Alamat e-mel",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "Gunakan {channel} sebagai gantinya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "Kembali",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "Masukkan kod",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "Kirim semula",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResendIn": {
+    "en": "Resend in 0:{sec}",
+    "translation": "Mengirim semula dalam 0: {sec}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "Periksa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "Memperiksa...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "Ditebus!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "Selamat datang kembali.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "Masukkan telefon atau e-mel anda dan kami akan menghantar kod masuk.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "Kirim kod sign-in",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "Akaun anda dikaitkan dengan rekod hospital anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "Masukkan nombor telefon yang sah (714 digit)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "Tidak dapat menghantar kod, cuba lagi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "Periksa sambungan anda dan cuba lagi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "Tak boleh hantar semula, cuba lagi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "Kod itu tidak sesuai, cuba lagi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "Sidang tamat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "Untuk keselamatan anda dan untuk melindungi data pesakit, anda telah ditandatangani keluar selepas tempoh tidak aktif.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "Masuk lagi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "Selamat datang kembali.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "Kunjungan aktif",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "lawatan terdahulu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Mulakan check-in baru",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "Tiada lawatan aktif",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "Mulakan check-in untuk memulakan lawatan baru.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "Belum ada lawatan masa lalu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "Tandatangani keluar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "Menu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "Bahasa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "Di dalam barisan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "Dalam barisan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. tunggu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Jawapan yang dikemukakan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "Baru-baru ini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "Doktor mengkaji semula",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "Dalam proses",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "Konsultasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "Yang akan datang",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "Pendaftaran tindak lanjut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "Berlangsung {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "Mulakan check-in",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "Garis Perhatian Anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "Bersedia untuk panggilan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "Panggilan penjagaan berbunyi dalam aplikasi ini · nombor telefon anda tidak pernah dikongsi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Mulakan check-in baru",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "Panggilan rawatan seterusnya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "Bertukar suara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "Ubat anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsFrom": {
+    "en": "from {hospital}",
+    "translation": "daripada {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "Panggilan · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "Tekan sahaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "Hubungan penjagaan baru-baru ini",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "Lihat semua",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "Simulasi panggilan penjagaan yang masuk · demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "Rumah",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "Suara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "Tetapan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "Penjagaan suara & panggilan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "Pilih siapa yang memanggil anda, dan bagaimana bunyi mereka.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "Suara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "Ava",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "Suara wanita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "Sam",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "Suara lelaki",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "TONE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "Panas & lembut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "Menjamin dan tidak tergesa-gesa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "Jelas & profesional",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "Langsung, tepat, tidak berbual-bual",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "Bercahaya & optimis",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "Tenaga yang ramah dan menggalakkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hearAgent": {
+    "en": "Hear {agent}",
+    "translation": "Dengarlah {agent}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "Hai Jordan, sudah tiba masanya untuk dos petang awak...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "Sampel tidak tersedia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "CALL PREFERENCES",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "Panggilan peringatan ubat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "Ring pada setiap dos yang dijadualkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "Panggilan check-in selepas lawatan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"Bagaimana perasaan anda?\" selepas dikeluarkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "Jam yang tenang",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "Tiada panggilan 9:30 PM 7:30 AM · jatuh kembali ke pemberitahuan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "Ejen penjagaan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "Simpan tetapan suara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "Tetapan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "Keutamaan, bahasa dan akaun",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "PREFERENSI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "Bahasa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "Tema gelap",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "Kegelapan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "Cahaya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "Push pemberitahuan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "CALS CARE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "Keutamaan panggilan & suara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRowDesc": {
+    "en": "{agent} · {tone}",
+    "translation": "{agent} · {tone}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "PRIVACY",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "Data anda & privasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "Muat turun rekod saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "Datang tak lama lagi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "Edit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "Barisan penjagaan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Triavi Patient · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "Awak dah keluar.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "Talian penjagaan anda kekal aktif masuk semula untuk menguruskan panggilan dan peringatan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "Masuk semula.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "Ditandatangani sebagai {name}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "Dashboard saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "Pembinaan demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "Demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "Panggilan penjagaan yang datang",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "untuk {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "Agen penjagaan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingReminder": {
+    "en": "{subject} · {med}",
+    "translation": "{subject} · {med}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "Diperiksa · melalui talian penjagaan anda {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "Penurunan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "Menerima",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "Panggilan suara disulitkan · WebRTC · nombor anda tidak pernah dikongsi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "BAB-BAB hidup",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "Agen penjagaan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "Bisu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "Unmute",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "Panggilan akhir",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "Menamatkan panggilan ini?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "Panggilan akhir",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "Tinggal di panggilan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "Dilaporkan kepada pasukan penjagaan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "MEMEMBUAT 1 jam bersalju.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "TIDAK PERTAMBAAN TIDAK PERTAMBAAN",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "Panggilan rawatan seterusnya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "Kembali ke papan pemandu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "Ring panggilan penjagaan pemicu (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "Tukar bisu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "Panggilan akhir",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "lawatan terdahulu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsSubtitle": {
+    "en": "Your history with {hospital}",
+    "translation": "Sejarah anda dengan {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "Selesai",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "Butiran lawatan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "Selesai",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "Keluar",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "Tindaklanjuti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "Ubat yang Diresepkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "Permintaan untuk lawatan ini",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "Tiada perhatian diperlukan untuk lawatan ini belum.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "Ini adalah ringkasan yang dikongsi dengan anda bukan diagnosis. Jika gejala anda kembali atau bertambah teruk, cari rawatan kecemasan segera.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "Kami tidak dapat mencari lawatan itu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "Kunjungan ini mungkin telah dikeluarkan, atau pautan tidak lagi sah. Kembali untuk melihat sejarah lengkap anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "Kembali ke lawatan terdahulu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "memuatkan lawatan anda...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "Dibebaskan oleh pasukan penjagaan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "SAFETY-NET ADVICE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "Mengedit profil",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "Pemasarkan maklumat anda, doktor anda akan melihat terkini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "PERSONAL",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "Nombor telefon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "Nombor telefon anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "Alamat e-mel",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "Alamat e-mel anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "Hubungan kecemasan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "Nama kenalan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "Nama kenalan kecemasan anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "Hubungan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "Sebagai contoh, pasangan, ibu bapa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "Telefon",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "Nombor telefon kenalan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "Bahasa pilihan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "Mengubah bahasa setiap skrin dengan serta-merta.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "Garis Perhatian Anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "Copy",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "Diterjemahkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "Tidak dapat menyalin - pilih dan menyalin secara manual",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "Simpan perubahan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "Profil yang disimpan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "Lelaki",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "Wanita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "Data anda & privasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "Apa yang kita lindungi, dan apa yang anda mengawal.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "DE-IDENTIFIKASI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "Sentiasa dihidupkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "Nama anda, butiran kenalan, dan jawapan teks bebas dikeluarkan sebelum apa-apa meninggalkan hospital anda. Hanya pasukan penjagaan anda yang melihat butiran pengenalan; penyelidikan dan analisis hanya melihat data yang tidak dikenali.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "Terkunci",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "Log Akses",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "SENYAKAN anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "Penggunaan penyelidikan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "Membolehkan data yang tidak dikenali untuk meningkatkan penjagaan untuk semua orang. Anda boleh mengubah ini pada bila-bila masa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "Mesej penjagaan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "Peringatan temu janji dan pemeriksaan tindak lanjut melalui panggilan atau push.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "DELET account",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "Hapus akaun anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "Hapus secara kekal akaun anda dan maklumat kenalan anda. Sejarah garis penjagaan anda disimpan oleh hospital anda seperti yang dikehendaki oleh undang-undang.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "Hapus akaun saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "Muat turun rekod anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "Muat turun rekod saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "Minta salinan riwayat kunjungan anda, ubat-ubatan anda, dan sejarah panggilan penjagaan anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "Meminta rekod saya.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "Menghapuskan akaun anda?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "Ini akan memadamkan akaun dan maklumat kenalan anda secara kekal. Hospital anda menyimpan sejarah garis penjagaan anda seperti yang dikehendaki oleh undang-undang. Ini tidak boleh dibatalkan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "Hapus akaun",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "Simpan akaun saya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "Ketik DELETE untuk mengesahkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "Jenis DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "Permohonan penghapusan dikemukakan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "Pasukan penjagaan anda akan mengesahkan melalui e-mel dalam masa 72 jam.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "Muat turun rekod anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "Pilih format dan meminta eksport anda. Kami akan menyiapkannya dan menghantar pautan selamat ke e-mel anda yang didaftarkan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "Format",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "Ringkasan JSON",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "PDF (datang tidak lama lagi)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "Permintaan eksport",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "Batalkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "Permintaan eksport yang dikemukakan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "Kami akan menghantar e-mel pautan selamat ke alamat anda dalam masa 24 jam.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "Tiada fail yang dimuat turun di sini - rekod anda dihantar dengan selamat ke e-mel anda yang didaftarkan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "Bahasa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "Kemajuan pendaftaran",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "Langkah check-in",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaGoToStep": {
+    "en": "Go to step {n}",
+    "translation": "Pergi ke langkah {n}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "Navigasi pesakit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "Speaker toggle",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "Sampel rehat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "Ketegangan dari 1 hingga 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "Mengundang pautan atau kod",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "Kembali untuk mengundang pautan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "Bertukar kepada tema cahaya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "Bertukar ke tema gelap",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "Tema cahaya",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "Tema gelap",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "pilihan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "scaleRangeAriaLabel": {
+    "en": "{min} to {max}",
+    "translation": "{min} hingga {max}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "Tiada jawapan log",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "suara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "Panggilan ditolak? log sebagai tiada kenalan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "Panggilan berakhir? log sebagai tiada kenalan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLevelLabel": {
+    "en": "Level {n} ? {label}",
+    "translation": "Tingkat {n}? {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "Disimpan ke akaun anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusRoutedTo": {
+    "en": "Routed to {hospital}",
+    "translation": "Diarahkan ke {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "Hubungi klinik anda",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "Paskan pautan jemputan yang dihantar ke hospital anda, atau scan kod QR mereka.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "Mengundang pautan atau kod",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "Itu tidak kelihatan seperti pautan undangan Triavi atau kod.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "Lanjutkan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "atau",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "Mengimbas kod QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "Klinik Scan QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "Tunjuk kamera anda ke kod",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "Akses kamera ditolak",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "Tiada kamera ditemui.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "Kamera tidak tersedia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "Mencari kod Triavi?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "Masukkan pautan jemputan secara manual",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "Simulasi kod yang dikesan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "Kod klinik yang sah membawa anda ke butiran anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "Kode klinik yang sah membawa anda ke butiran anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "Berikan kebenaran kamera dalam tetapan penyemak imbas anda, atau masukkan pautan jemputan secara manual.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "Tidak ada kamera yang terdeteksi, masukkan pautan undangan yang dihantar hospital anda.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "Kamera tidak tersedia sekarang. Masukkan pautan undangan secara manual.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "Offline? menunjukkan skrip temu bual yang disimpan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "Kod sekali",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "Kod sekali, 6 digit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpDigitAriaLabel": {
+    "en": "Digit {n} of 6",
+    "translation": "Angka {n} 6",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "Negara mencari?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "Negara-negara Pencarian",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "Senarai negara",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "Kod negara {dial} {name}. Perubahan negara.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T05:10:35.394092+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

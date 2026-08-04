@@ -1,0 +1,3178 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "Laitetaan sinut valmiiksi vierailullesi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "Laitetaan sinut valmiiksi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "vierailullesi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "Lääkärisi tarkistaa kaiken ennen tapaamista.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "- Kaksi minuuttia.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "Lääkärin tarkistaminen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "Aloita tarkastus ennen vierailua",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "Minulla on kutsukkoodi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "Sisääntykää.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "HIPAA: n mukaiset · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "Aloitetaan sinulta.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "Tämä yhdistää vierailusi arkistoosi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "Täysi nimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "Täysi nimesi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "Syntymäpäivä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "Seksi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "Mikä tuo sinut tänne tänään?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "Kuvaile tärkein oireesi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "Päänsärky",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "Kuume",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "Rinta kipu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "Häkkyys",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "Jatkakaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "Triavin avustaja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "Kysyn oireistasi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "Työtilaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "Laadun haastatteluasi...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "Emme voineet ladata haastatteluasi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "Yritä uudestaan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "Kysyn pari nopeaa kysymystä siitä, mistä pääsit tänne.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "Kirjoita vastaus tai napsauta edellä olevaa ehdotusta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "Kirjoita vastauksesi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "Kirjoita vastauksesi...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "Kirjoita vastauksesi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "Lähetä vastaus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "Tarkista vastaukseni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "Nappi ja vedä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "Vahvistus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "Hämmästyttävä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "Keskityt",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "Pahin koskaan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "Tässä on se, mitä mainitsin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "Napsauta minkä tahansa tuotteen korjaamiseen ennen lähettämistä.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "Pää valitus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "Alussa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "Raskeus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "Henkilön luonne",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "Säteilyt",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "Yhteenliittynyt",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "Se on tehty.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "kiusaus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "Näyttää hyvältä. Lähetä lääkäriin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "Jos oireesi ovat vakavia tai pahenevat juuri nyt, älä odota soita hätäpalvelulle.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "Pyydän, etsikää huolta 1 - 2 tunnin kuluessa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "Tilanne",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "Teidän oireenne viittaavat siihen, että tapauksenne on kiireellinen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "Mitä seuraavaksi tapahtuu?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "Raporttisi on lähetetty.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "Kliininen tiimi saa rakenteellisen historiaasi välittömästi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "Nähtävyys 12 tunnin kuluessa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "Jos se pahenee, toimi nopeasti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "Vakava tai äkillinen pahentuminen soita hätäpalvelulle välittömästi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "Lääkärit tekevät lopullisen päätöksen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "ei diagnosoitu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "Jatkakaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "Tervetuloa takaisin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "Sinut on ennenkin nähty sairaalassa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "Lähdetään",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "Est. Odottakaa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "Lääkärit",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "Heillä on jo rekisterinne, joten huoltajat näkevät koko historiasi heti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "Valitse toinen sairaala.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "Missä haluaisit tulla nähdyksi?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "Skannaamme lähelläsi olevia sairaaloita.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "· erotettu etäisyydellä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "Skannaus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "Lähes",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count} verkossa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "Vain tason {min} +",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "Valitse sairaala",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "Emme löytäneet sijaintisi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "Olet jonossa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "Ilmoitamme heti, kun lääkäri avaa sen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "Seuraavassa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. Odottakaa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Esitetyt vastaukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "Juuri nyt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "Lääkäri tarkistaa raporttinne.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "Työskentely",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "Lääkärit avasivat raporttinne.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "Neuvottelu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "Tulevaisuus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "Säästä vierailusi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "Oireet pahensivat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "Aloita uudelleen demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "Palaa ohjauslaatikkoon.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "Takaisin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "Jos tilanne pahenee, toimi nyt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "Älkää odottako jonossa. Jos oireenne ovat vakavia tai pahenevat yhtäkkiä, soittakaa nyt hätäpalvelulle tai mene lähimmälle hätäavustolle.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "Soita hätäpalveluille",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "Olen kunnossa lähellä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "ei diagnosoitu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "Olemme asettaneet tapauksesi ensisijaiseksi, jotta huoltajat tietävät.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · Raporttisi on auki.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "Lääkärit tarkistavat raporttinne.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "Näyttö {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "Tervetuloa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "Sinusta.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "Haastattelu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "Tarkastelu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "Vauhtia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "Etsi sairaala.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "Tilanne",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "-Miten sinä tunnet itsesi?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "Vastaa kysymyksiin, miten olet ollut vierailusi jälkeen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "Parempaa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "Noin sama.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "Pahempaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "Miten tilasi on verrattuna aiempaan?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "Haluaisitko kertoa jotain muuta?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "Kirjoita tässä...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "Lähetä vastaukseni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "Olemme iloisia, että voit paremmin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "Lääkäri tutkii tämän tänään.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "Vastauksesi on lähetetty hoitotyhmään, ja lääkäri tarkistaa ne ja ottaa tarvittaessa yhteyttä.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "Etsikää huolta nyt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "Sinun oireesi viittaavat johonkin, joka vaatii pikaista huomiota.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "Soita hätäpalveluille",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "Tämä kirjautumislinkki on vanhentunut.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "Tämä seuranta ei ole enää käytettävissä.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "Sisääntykää jatkamaan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "Tervetuloa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "Kysymyksiä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "Tulos",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "Säästä vierailusi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "Kirjoita ilmainen tili, jotta voit seurata vierailua ja jättää koodin väliin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "Sinun vierailusi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "Luo tilini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "Pysähdy toistaiseksi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "Selvitetään, että se olet sinä.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "Lähetämme kertakäyttöisen koodin. Ei salasanaa muistettavaksi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "Lähetä koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "Lähetän...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Triavin vakuutus · HIPAA:n mukainen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "Puhelin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "Lähetysviesti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "Lähetä koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "Puhelinnumero",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "Sähköpostiosoite",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "Takaisin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "Kirjoita koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "Lähetä uudelleen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "Tarkista",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "Tarkistan...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "Pelastettu!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "Tervetuloa takaisin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "Kirjoita puhelimesi tai sähköpostisi ja lähetämme kirjautumiskodin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "Lähetä kirjauskoodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "Tilisi on sidottu sairaalasi tilastoihin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "Kirjoita voimassa oleva puhelinnumero (714 numeroa)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "- En voinut lähettää koodia.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "Tarkista yhteys ja yritä uudelleen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "En voinut lähettää sitä.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "Se koodi ei sopinut.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "Kokous päättyi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "Turvallisuutesi vuoksi ja potilaiden tietojen suojelemiseksi sinut on poistettu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "Sisääntykää uudestaan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "Tervetuloa takaisin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "Aktiivinen vierailu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "Aiemmat vierailut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Aloita uusi kirjautuminen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "Ei aktiivista vierailua",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "Aloita kirjautuminen uuden vierailun aloittamiseksi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "En ole vielä käynyt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "Allekirjoittakaa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "Menuja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "Kieli",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "Seuraavassa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "Seuraavassa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. Odottakaa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "Esitetyt vastaukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "Juuri nyt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "Lääkärin tarkistaminen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "Työskentely",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "Neuvottelu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "Tulevaisuus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "Seuraava tarkastus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "Täytäntöönpano {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "Aloita kirjautuminen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "Sinun huolenpidonlinjasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "Valmistautukaa puheluihin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "Huoltokutsut soittavat tässä sovelluksessa · puhelinnumerosi ei ole koskaan jaettu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "Aloita uusi kirjautuminen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "Seuraava hoito",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "Vaihda ääni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "Lääkkeesi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "Puhelu · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "Vain työntää",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "Äskettäiset huoltajien puhelut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "Näytä kaikki",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "Simuloi tulossa olevaa huoltajuutta · demo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "Kotona",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "Ääni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "Asetukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "Huolellinen ääni & puhelut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "Valitse, kuka soittaa ja miten ne kuulostavat.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "ÄÄSÄ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "Ava",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "Naisen ääni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "Sam, minä...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "Miehen ääni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "TONE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "Kylmä ja lempeä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "Rauhoittavaa ja kiireettömää",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "Selkeä ja ammattimainen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "Suoraan, tarkkaan.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "Vihreä ja optimistinen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "Ystävällinen ja rohkaiseva energia",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "Hei Jordan, on aika iltaannoksellesi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "Näyte ei ole käytettävissä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "Puheluehdotukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "Lääkkeiden muistutus soittaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "Ringi jokaisella suunnitellulla annoksella",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "Vierailun jälkeiset sisäänkirjaukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"Miten voit?\" vapautuksen jälkeen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "Hiljaisia tunteja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "Ilmoitusta ei ole tullut.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "Huoltajaasi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "Säilytä ääniasetukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "Asetukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "Ehdotukset, kieli ja tili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "Ehdotukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "Kieli",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "Pimeä teema",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "Pimeä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "Valot",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "Push-ilmoitukset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "HELPYTYVÄSKÄLÄ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "Äänestä ja puheluista",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "Yksityisyyttä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "Tietojasi ja yksityisyytesi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "Laita laatikot alas.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "Lähdetään pian.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "Muokkaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "Huoltajan linja",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Triavi Patient · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "Olet ilmoittunut ulos.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "Huolto- linjasi pysyy aktiivisena kirjaudu takaisin hallinnoimaan puheluja ja muistutuksia.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "Sisääntykää takaisin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "Käyttölautaani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "Demo rakentaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "Näyttely",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "Lähdössä olevaa huoltajuutta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "Huoltaja-agentti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "Tarkistettu · huolenpidon kautta {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "Heikentyminen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "Hyväksy",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "Salaistettu puhelu · WebRTC · numerosi ei ole koskaan jaettu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "Elävät kappaleet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "Huoltaja-agentti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "Älkää puhuko",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "Älkää puhuko",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "Lopullinen puhelu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "Lopettako tämä puhelu?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "Lopullinen puhelu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "Pysykää paikalla.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "Kertokaa huoltajuusryhmälleen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "Muistakaa, että lumi on hukkunut 1 tuntia.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "Ei vastausta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "Seuraava hoito",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "Palaa ohjauslaatikkoon.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "Trigger care call ring (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "Vaihda äänettömyys",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "Lopullinen puhelu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "Aiemmat vierailut",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "Valmistettu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "Käynnin yksityiskohdat",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "Valmistettu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "Ulkona",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "Seuraava seuranta",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "Lääkkeet, jotka on määrätty",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "Huolelliset kutsut tälle vierailulle",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "Tämä vierailu ei ole vielä huolellista.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "Jos oireet palaavat tai pahenevat, etsi hätähoitoa välittömästi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "Emme löytäneet sitä vierailua.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "Tämä vierailu on ehkä poistettu tai linkki ei ole enää voimassa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "Takaisin aiempiin vierailuihin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "Lähetän vierailusi...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "Huoltajat vapauttivat hänet.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "SAFETY-NET ADVICE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "Muokkaa profiili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "Lääkärisi näkee viimeisimmät tiedot.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "Henkilökohtainen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "Puhelinnumero",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "Puhelinnumerosi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "Sähköpostiosoite",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "Sinun sähköpostiosoitteesi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "Hätäyhteys",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "Kontaktinimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "Hätätilanne nimi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "Suhteet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "Esimerkiksi puoliso, vanhempi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "Puhelin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "Yhteydenoton puhelinnumero",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "Mieluin kieli",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "Se muuttaa jokaisen näytön kieltä välittömästi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "Sinun huolenpidonlinjasi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "Kopioitu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "Kopioitu",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "En voinut kopioida. Valitse ja kopioida manuaalisesti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "Säilytä muutokset",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "Säilytetty profiili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "Mies",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "Nainen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "Tietojasi ja yksityisyytesi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "Mitä suojelemme ja mitä sinä kontrolloit.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "NÄVÄTÄ-IDENTIFIKATUS",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "Aina päällä.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "Sinun nimesi, yhteystietosi ja ilmaiset vastauksesi poistetaan ennen kuin mikään lähtee sairaalastasi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "Suljettu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "Pääsyluettelo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "SYTYTYTYTYT",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "Tutkimuksen käyttö",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "Sallikaa tunnistamattomat tiedot parantaakseen terveydenhuollon.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "Huoltoviestejä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "Muistutukset ja tarkistukset soittamalla tai työntäen.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "PÄHÄRÄLÄ SÄLKÄ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "Poista tili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "Lääketieteesi säilytetään sairaalassa lakisääteisesti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "Poista tiliäni.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "Laittakaa laatikot",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "Laita laatikot alas.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "Pyydä kopioita vierailupäätöksistäsi, lääkkeistäsi ja huolenpidon historiastasi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "Pyydä asiakirjani.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "Poistaa tili?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "Tämä poistaa tilisi ja yhteystietosi pysyvästi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "Poistaa tili",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "Pidä tilini.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "Kirjoittakaa DELETE vahvistamaan",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "Tyyppi DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "Siirretty poistamista koskeva pyyntö",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "Hoitajat vahvistavat sähköpostitse 72 tunnin kuluessa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "Ladata tiedot",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "Valitse muoto ja pyydä vientiä ja lähetämme turvallisen linkin rekisteröidylle sähköpostille.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "Muodostus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "JSON:n yhteenveto",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "PDF (tulos pian)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "Vientiä koskeva pyyntö",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "peruuttaminen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "Edellyt vientipyyntö",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "Lähetämme sähköpostitse turvallisen linkin rekisteröidylle osoitteellesi 24 tunnin kuluessa.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "Täällä ei ole ladattu tiedostoa - tiedot lähetetään turvallisesti rekisteröidyn sähköpostiosoitteeseesi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "Kieli",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "Tarkastuksen edistyminen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "Rekisteröintivaiheet",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "Potilaan navigointi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "Vaihda puhelinpuhelin",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "Pysähdysnäyte",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "Raskeus 1 - 10",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "Kutsua linkki tai koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "Palaa kutsumaan linkki",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "Siirtykää valokysymykselle.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "Siirtykää pimeään teemoon.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "Valon teema",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "Pimeä teema",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "Valinnainen",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "Vastauksia ei ole kirjattu.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "ääni",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "Soittelu kieltäytyi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "Puhelu päättyi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "Säilytetty tiliisi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "Liittykää klinikalleenne",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "Liittäkää sairaalan lähettämäsi kutsuyhteys tai skannaa QR-koodi.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "Kutsua linkki tai koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "Se ei näytä Triavien kutsuyhteydeltä tai koodilta.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "Jatkakaa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "tai",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "Skannaus QR-koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "Skannausklinikka QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "Osoita kameraa koodiin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "Kameran pääsy kielletty",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "Kameraa ei löytynyt.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "Kamera ei ole käytettävissä",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "Etsitkö Triavi-koodia?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "Kirjoita kutsuyhteys manuaalisesti",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "Simuloida havaittu koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "Käytännössä voimassa oleva klinikan koodi vie sinut suoraan yksityiskohtiin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "Käytännössä voimassa oleva klinikan koodi vie sinut suoraan yksityiskohtiin.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "Antaa kameravaltuudet selaimen asetuksissasi tai kirjoita kutsuyhteys manuaalisesti.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "Kirjoita sairaalan lähettämäsi kutsuyhteys.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "Kamera ei ole käytettävissä tällä hetkellä.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "Näyttämällä tallennettu haastattelu käsikirjoitus",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "Yksinkertainen koodi",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "Yksinkertainen koodi, 6 numeroa",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "Etsijämaa?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "Etsijämaita",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "Maiden luettelo",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-03T21:31:08.612463+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

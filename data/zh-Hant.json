@@ -1,0 +1,3250 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "讓我們為您的訪問做好準備.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "讓你準備好",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "因為您的訪問.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "您的醫生會在會見之前檢查一切.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ 2 分鐘",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "醫師檢查",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "開始預覽登記",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "我有一份邀請代碼.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "登入",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "符合 HIPAA · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "讓我們從你開始.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "這將您的訪問連結到您的紀錄.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "完整名稱",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "您的完整姓名",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "年 月 日",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "關於性行為",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "這是什麼原因?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "描述您的主要症狀.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "疼痛的頭痛",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "發燒",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "胸部疼痛",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "咳",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "繼續閱讀",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "沒有任何樓盤符合您的搜尋",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "詢問您的症狀",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "在網路上",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "我正在加載你的面試.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "我們無法加載你的面試.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "請再試一次",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewComplete": {
+    "en": "Thanks, {name}. I have what I need. Let's review your answers before sending them to the doctor.",
+    "translation": "謝謝, {name}. 我有我需要的, 讓我們檢查您的答案,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "謝謝 我會問你一些問題.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "輸入一個答案,或點擊上面的建議",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "輸入您的答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "輸入您的答案...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "輸入您的答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "發送回覆",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "檢查我的答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "打擊 & 拖拉",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "確認",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "溫柔的",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "適度使用",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "這是最糟糕的.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "這是我注意到的.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "在發送之前,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "主要的投訴",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "開始",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "嚴重性",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "他們的性格",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "辐射",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "聯絡方式",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "完成",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "假冒行為",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewEdit": {
+    "en": "Edit {label}",
+    "translation": "編輯 {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "這樣看起來很好.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "如果您的症状很嚴重或正在惡化,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "請在1~2小時內尋求治療",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "這樣的東西",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "我們已將您的案例標示為緊急的.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "接下來會發生什麼事?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "您的簡章現在已發送",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "醫療團隊會立即收到您的結構化歷史.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "在1~2小時內看到",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "如果情況惡化,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "嚴重或突然惡化 請立即打電話給急救服務.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "這是一種自動的急症估算, 而不是診斷.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "沒有診斷",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "繼續閱讀",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "歡迎您回來.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "你之前在這個醫院見過,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "最后一次訪問 · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "遠離我們",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "請等待.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "醫師在",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "他們已經保存了您的紀錄, 所以您的護理團隊立即看到您的完整歷史.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "選擇其他醫院",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "你希望被看見在哪裡?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "掃描您附近的Triavi醫院...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "·按距離排序",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "檢查檢查",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "靠近的",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "準備的級別 {level}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "只有級別 {min} +",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "選擇醫院",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "我們無法找到您的位置.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "你在排隊裡",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "我們會在診所開診時通知你.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "已提交 {time}之前",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "在行列中",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "請等待.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "提出的答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "只是現在",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "醫生正在檢查你的報告.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "在進行中",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "醫師打開你的簡章",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "詢問問題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "接下來",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "保存您的訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "病情愈來愈嚴重",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "重新啟動演示",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "返回儀表板",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "我們回來了.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "如果事情越來越糟糕,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "請不要等待排隊. 如果您的症状嚴重或突然惡化,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "呼籲緊急服務",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "我很好 接近",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "沒有診斷",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "我們將您的案例標記為更高的優先順位,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "您的簡報已開放.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "醫師正在審查您的報告.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "屏幕 {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "歡迎您來",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "關於你",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "面試活動",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "審核",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "緊急性",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "尋找醫院",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "狀態",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "你有什麼感受?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "回答一些關於你訪問後的問題.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "這樣更好.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "差不多是一樣的.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "這是最糟糕的情況.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "你的狀況與以前相比是怎樣的?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "還有一些你想告訴我們的事?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "這邊輸入...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "提交我的答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "我們很高興你變得更好.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "醫師今天會檢查這個問題.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "您的答案已被送給護理團隊.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "請立即尋求治療.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "請不要等待 聯絡您的護理團隊或前往最近的急症室.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "呼籲緊急服務",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "這項登記連結已過期.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "登入查看您目前的登入.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "註冊繼續使用",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "歡迎您來",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "詢問問題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "這樣的結果",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "保存您的訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "建立一個免費帳戶, 追蹤這次訪問,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "您的訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "建立我的帳戶",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "在此之前,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "讓我們確認是你",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "我們會發送一次代碼,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "發送代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "發送的是...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "由 Triavi保證 · 符合HIPAA要求",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "網路電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "電子郵件",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "透過發送代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "電話號碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "電子郵件地址",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "相反使用 {channel}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "我們回來了.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "輸入代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "轉發",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "檢查",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "檢查了這個問題.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "我們救了!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "歡迎您回來.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "請輸入您的電話或電子郵件,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "發送登入代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "您的帳戶與您的醫院紀錄有關",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "輸入有效電話號碼 (714位數)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "我無法發送代碼, 再試一次.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "檢查您的連接, 再試一次.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "我無法再發送, 再試一次.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "這代碼不匹配, 再試一次.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "該會議已結束",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "為您的安全和保護患者數據,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "請重新登錄",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "歡迎您回來.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "活動訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "過去的訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "開始新的登記",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "沒有活動訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "開始登記, 開始新的訪問.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "沒有過去的訪問.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "註冊下載",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "菜單",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "語言",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "在排隊裡",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "在行列中",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "請等待.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "提出的答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "只是現在",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "醫生正在檢查",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "在進行中",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "詢問問題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "接下來",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "接下來檢查",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "開始登記",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "你的關心線",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "準備接收電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "您的電話號碼從來沒有被分享.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "開始新的登記",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "接下來的護理電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "改變自己的聲音",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "您的藥物",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "呼叫 · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "只有按下",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "最近的護理通話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "查看所有",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "模擬接到的照護電話 · 演示",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "在家裡",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "聲音",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "設定",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "關心的聲音 & 呼叫",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "選擇誰打電話給你,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "聲音",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "艾瓦",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "女人的聲音",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "這是一件好事.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "男人的聲音",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "調子",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "溫暖和溫柔",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "很安慰,沒有急忙.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "清晰的 & 專業的",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "直接,精確,沒有小說",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "充滿陽光和樂觀感",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "具有友好的,鼓勵性的能量",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "這是你的晚上劑量時間.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "沒有提供樣本",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "呼叫的偏好",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "提醒您使用藥物",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "在每個預定劑量上,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "訪問後的登記電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"你如何感覺?\" 在退院後",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "靜靜的時間",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "沒有電話 9:30 PM 7:30 AM · 回到通知",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "您的護理人員",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "保存聲音設定",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "設定",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "選擇,語言和帳戶",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "首頁 > 頁 > 列表",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "語言",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "黑暗的主題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "黑暗的時間",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "燈光",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "推出通知",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "關心的電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "聲音與呼叫的偏好",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "隱私權",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "您的資料與隱私",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "請下載我的檔案.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "很快就來了",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "編輯",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "護理線",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Triavi 患者 · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "你已經簽署了.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "您的護理線保持活跃 登入以管理呼叫和提醒.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "請重新登錄",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "簽名為 {name}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "我的儀表板",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "演示建構",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "演示活動",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "接到的護理電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "對於 {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "護理人員",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "通過您的護理線檢查 {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "減少的情況",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "接受",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "密碼的語音通話 · WebRTC · 您的數字從來沒有被分享",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "標籤:",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "護理人員",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "沒有使用",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "沒有聲明",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "終結電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "終結這個電話?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "終結電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "留在電話上",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "報告給您的照顧團隊",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "提醒一小時的雪",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "沒有答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "接下來的護理電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "返回儀表板",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "引發器保養呼叫環 (dev)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "關閉無聲",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "終結電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "過去的訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsSubtitle": {
+    "en": "Your history with {hospital}",
+    "translation": "您的歷史與 {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsPrivacyNote": {
+    "en": "Only you and {hospital} can see these. Tap a visit to read the summary shared with you.",
+    "translation": "只有你和 {hospital}才能看到這些.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "完成",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "訪問細節",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "完成",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "在外面",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "接下來的情況",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "預訂的藥物",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "歡迎您參觀此次活動",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "沒有任何關心的要求.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "如果您的症状復發或惡化,請立即尋求急症治療.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "我們找不到那個訪客",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "這次訪問可能已被移除, 或是連結不再有效.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "返回過去的訪問",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "收納您的訪問...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "您的護理團隊釋放",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "安全網的建議",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "編輯個人資料",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "您的醫生會查看最新資訊.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "工作人員",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "電話號碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "您的電話號碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "電子郵件地址",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "您的電子郵件地址",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "緊急聯繫",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "聯絡人名稱",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "您的緊急聯絡人姓名",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "關係",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "例如配偶,父母",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "網路電話",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "聯絡人的電話號碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "首選語言",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "立即改變每個屏幕的語言.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "你的關心線",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "複製",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "複製",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "不能複製 - 選擇並手動複製",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "保存變更",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "存储的配置文件",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "男人",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "女人",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "您的資料與隱私",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "我們所保護的東西, 你所控制的東西.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "沒有任何證據",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "總是開著",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "在任何東西出院之前,您的姓名,聯繫資料和免費文字答案都會被取消.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "封鎖起來",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "接入標籤",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "你的同意",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "研究使用",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "您可以在任何時候更改.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "關心的訊息",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "您可以隨時更改此項目的通知.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "取消帳戶",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "删除您的帳戶",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "根據法律要求,您的醫院會保留您的護理線史.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "删除我的帳號",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "下載您的紀錄",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "請下載我的檔案.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "請提供您的診察總結,藥物及診療歷程.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "請要求我的紀錄",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "取消您的帳戶?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "您的醫院保留您的護理線歷程,",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "删除帳號",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "保持我的帳戶",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "輸入 DELETE 來確認",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "删除型號",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "提交的删除要求",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "您的護理團隊會在72小時內通過電子郵件確認.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "下載您的檔案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "我們將它準備並將安全連結送到您註冊的電子郵件.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "格式化",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "JSON 總結",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "PDF (即將到來)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "要求出口",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "取消",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "提交出口要求",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "我們會在24小時內發送您的註冊地址的安全連結.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "這裡沒有下載檔案 - - 您的檔案被安全地送到您註冊的電子郵件.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "語言",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "檢查進步",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "登入的步骤",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "患者的導航",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "轉換音箱",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "暫停的樣本",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "從 1 到 10 的嚴重性",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "邀請連結或代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "返回邀請連結",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "切換到燈光主題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "切換到黑暗主題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "燈光主題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "黑暗的主題",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "選擇性",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "沒有記錄的答案",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "這個聲音",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "已被拒絕,已被登記為無聯繫.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "已結束,已註冊無聯繫.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "保存到您的帳戶上",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "聯繫您的診所",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "或掃描他們的QR代碼.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "邀請連結或代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "這並不像Triavi的邀請連結或代碼.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "繼續閱讀",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "或是",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "掃描QR圖碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "掃描診所QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "請將相機指向這個代碼.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "拒絕攝影機使用",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "沒有找到相機.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "攝影機無法使用",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "在尋找一個Triavi代碼?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "手動輸入邀請連結",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "模擬發現的代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "醫院的有效代碼將你直接帶到你的細節.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "請按一下模擬檢測的代碼來測試流量.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "在您的浏覽器設定中授權攝影機, 或手動輸入邀請連結.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "請輸入您的醫院發送的邀請連結.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "現在沒有相機, 請手動輸入邀請連結.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "顯示保存的面試脚本",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "單次代碼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "單次代碼, 6 位數",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "搜尋國家?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "搜尋國家",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "國家列表",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "國家代碼 {dial} {name}. 改變國家.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T07:51:53.227759+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

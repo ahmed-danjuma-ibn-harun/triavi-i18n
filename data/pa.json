@@ -1,0 +1,3378 @@
+{
+  "welcomeTitle": {
+    "en": "Let's get you ready for your visit.",
+    "translation": "ਆਓ ਤੁਹਾਨੂੰ ਆਪਣੇ ਦੌਰੇ ਲਈ ਤਿਆਰ ਕਰੀਏ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine1": {
+    "en": "Let's get you ready",
+    "translation": "ਆਓ ਤੁਹਾਨੂੰ ਤਿਆਰ ਕਰੀਏ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeTitleLine2": {
+    "en": "for your visit.",
+    "translation": "ਤੁਹਾਡੀ ਮੁਲਾਕਾਤ ਲਈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSubtitle": {
+    "en": "Answer a few questions about your symptoms. Your doctor reviews everything before you meet.",
+    "translation": "ਆਪਣੇ ਲੱਛਣਾਂ ਬਾਰੇ ਕੁਝ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਜਵਾਬ ਦਿਓ। ਤੁਹਾਡਾ ਡਾਕਟਰ ਤੁਹਾਨੂੰ ਮਿਲਣ ਤੋਂ ਪਹਿਲਾਂ ਹਰ ਚੀਜ਼ ਦੀ ਸਮੀਖਿਆ ਕਰਦਾ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustTime": {
+    "en": "~2 minutes",
+    "translation": "~ 2 ਮਿੰਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "trustReviewed": {
+    "en": "Doctor-reviewed",
+    "translation": "ਡਾਕਟਰ ਦੁਆਰਾ ਸਮੀਖਿਆ ਕੀਤੀ ਗਈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnStart": {
+    "en": "Start pre-visit check-in",
+    "translation": "ਮੁਲਾਕਾਤ ਤੋਂ ਪਹਿਲਾਂ ਚੈੱਕ-ਇਨ ਸ਼ੁਰੂ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnInviteCode": {
+    "en": "I have an invite code",
+    "translation": "ਮੇਰੇ ਕੋਲ ਇੱਕ ਸੱਦਾ ਕੋਡ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSignIn": {
+    "en": "Sign in",
+    "translation": "ਸਾਈਨ ਇਨ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hipaaFooter": {
+    "en": "HIPAA-compliant · NeuronbytesAI",
+    "translation": "HIPAA ਅਨੁਕੂਲ · NeuronbytesAI",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identityTitle": {
+    "en": "Let's start with you",
+    "translation": "ਆਓ ਤੁਹਾਡੇ ਨਾਲ ਸ਼ੁਰੂ ਕਰੀਏ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "identitySubtitle": {
+    "en": "This connects your visit to your record.",
+    "translation": "ਇਹ ਤੁਹਾਡੀ ਫੇਰੀ ਨੂੰ ਤੁਹਾਡੇ ਰਿਕਾਰਡ ਨਾਲ ਜੋੜਦਾ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelFullName": {
+    "en": "Full name",
+    "translation": "ਪੂਰਾ ਨਾਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderFullName": {
+    "en": "Your full name",
+    "translation": "ਤੁਹਾਡਾ ਪੂਰਾ ਨਾਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelDob": {
+    "en": "Date of birth",
+    "translation": "ਜਨਮ ਤਾਰੀਖ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSex": {
+    "en": "Sex",
+    "translation": "ਸੈਕਸ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelComplaint": {
+    "en": "What brings you in today?",
+    "translation": "ਅੱਜ ਤੁਹਾਨੂੰ ਇੱਥੇ ਕੀ ਲਿਆਉਂਦਾ ਹੈ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderComplaint": {
+    "en": "Describe your main symptom…",
+    "translation": "ਆਪਣੇ ਮੁੱਖ ਲੱਛਣ ਦਾ ਵਰਣਨ ਕਰੋ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipHeadache": {
+    "en": "Headache",
+    "translation": "ਸਿਰ ਦਰਦ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipFever": {
+    "en": "Fever",
+    "translation": "ਬੁਖਾਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipChestPain": {
+    "en": "Chest pain",
+    "translation": "ਛਾਤੀ ਦਾ ਦਰਦ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "chipCough": {
+    "en": "Cough",
+    "translation": "ਖੰਘ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinue": {
+    "en": "Continue",
+    "translation": "ਜਾਰੀ ਰੱਖੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAssistant": {
+    "en": "Triavi Assistant",
+    "translation": "ਟ੍ਰੀਆਵੀ ਸਹਾਇਕ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewAsking": {
+    "en": "Asking about your symptoms",
+    "translation": "ਤੁਹਾਡੇ ਲੱਛਣਾਂ ਬਾਰੇ ਪੁੱਛਣਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOffline": {
+    "en": "Offline",
+    "translation": "ਔਫਲਾਈਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoading": {
+    "en": "Loading your interview…",
+    "translation": "ਤੁਹਾਡੀ ਇੰਟਰਵਿਊ ਨੂੰ ਲੋਡ ਕਰਨਾ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewLoadError": {
+    "en": "We couldn't load your interview.",
+    "translation": "ਅਸੀਂ ਤੁਹਾਡੀ ਇੰਟਰਵਿਊ ਨੂੰ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕੇ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewRetry": {
+    "en": "Try again",
+    "translation": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewComplete": {
+    "en": "Thanks, {name}. I have what I need. Let's review your answers before sending them to the doctor.",
+    "translation": "ਤੁਹਾਡਾ ਧੰਨਵਾਦ, {name}. ਮੈਨੂੰ ਕੀ ਮੈਨੂੰ ਲੋੜ ਹੈ. ਆਓ ਆਪਣੇ ਜਵਾਬ ਦੀ ਸਮੀਖਿਆ ਅੱਗੇ ਭੇਜਣ ਨੂੰ ਡਾਕਟਰ ਨੂੰ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpener": {
+    "en": "Thanks — I'll ask a few quick questions about your {complaint}. When did it start?",
+    "translation": "ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਮੈਂ ਤੁਹਾਡੇ {complaint} ਬਾਰੇ ਕੁਝ ਪ੍ਰਸ਼ਨ ਪੁੱਛਾਂਗਾ. ਇਹ ਕਦੋਂ ਸ਼ੁਰੂ ਹੋਇਆ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOpenerFallback": {
+    "en": "Thanks — I'll ask a few quick questions about what brought you in. When did it start?",
+    "translation": "ਧੰਨਵਾਦ ਮੈਂ ਤੁਹਾਨੂੰ ਕੁਝ ਪ੍ਰਸ਼ਨ ਪੁੱਛਾਂਗਾ ਕਿ ਤੁਹਾਨੂੰ ਕਿਸ ਨੇ ਇੱਥੇ ਲਿਆਇਆ. ਇਹ ਕਦੋਂ ਸ਼ੁਰੂ ਹੋਇਆ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintChips": {
+    "en": "Type a reply, or tap a suggestion above",
+    "translation": "ਇੱਕ ਜਵਾਬ ਟਾਈਪ ਕਰੋ, ਜਾਂ ਉਪਰੋਕਤ ਸੁਝਾਅ ਤੇ ਟੈਪ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerHintFree": {
+    "en": "Type your reply",
+    "translation": "ਆਪਣਾ ਜਵਾਬ ਦਰਜ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerPlaceholder": {
+    "en": "Type your reply…",
+    "translation": "ਆਪਣਾ ਜਵਾਬ ਲਿਖੋ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "composerAriaLabel": {
+    "en": "Type your reply",
+    "translation": "ਆਪਣਾ ਜਵਾਬ ਦਰਜ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sendAriaLabel": {
+    "en": "Send reply",
+    "translation": "ਜਵਾਬ ਭੇਜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnReviewAnswers": {
+    "en": "Review my answers",
+    "translation": "ਮੇਰੇ ਜਵਾਬਾਂ ਦੀ ਸਮੀਖਿਆ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityDrag": {
+    "en": "Tap & drag",
+    "translation": "ਟੈਪ & ਡਰੈਗ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityConfirm": {
+    "en": "Confirm",
+    "translation": "ਪੁਸ਼ਟੀ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityMild": {
+    "en": "Mild",
+    "translation": "ਹਲਕੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityModerate": {
+    "en": "Moderate",
+    "translation": "ਮੱਧਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityWorst": {
+    "en": "Worst ever",
+    "translation": "ਸਭ ਤੋਂ ਭੈੜਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "severityTemplate": {
+    "en": "Around {n} out of 10",
+    "translation": "10 ਵਿੱਚੋਂ ਲਗਭਗ {n}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewTitle": {
+    "en": "Here's what I noted",
+    "translation": "ਇੱਥੇ ਜੋ ਮੈਂ ਨੋਟ ਕੀਤਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewSubtitle": {
+    "en": "Tap any item to fix it before sending.",
+    "translation": "ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਕਿਸੇ ਵੀ ਚੀਜ਼ ਨੂੰ ਠੀਕ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelChiefComplaint": {
+    "en": "Chief complaint",
+    "translation": "ਮੁੱਖ ਸ਼ਿਕਾਇਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelOnset": {
+    "en": "Onset",
+    "translation": "ਸ਼ੁਰੂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelSeverity": {
+    "en": "Severity",
+    "translation": "ਗੰਭੀਰਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelCharacter": {
+    "en": "Character",
+    "translation": "ਚਰਿੱਤਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelRadiation": {
+    "en": "Radiation",
+    "translation": "ਰੇਡੀਏਸ਼ਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelAssociated": {
+    "en": "Associated",
+    "translation": "ਸਬੰਧਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewDone": {
+    "en": "Done",
+    "translation": "ਮੁਕੰਮਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewMock": {
+    "en": "mock",
+    "translation": "ਮੂਰਖਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "reviewEdit": {
+    "en": "Edit {label}",
+    "translation": "ਸੋਧੋ {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSendToDoctor": {
+    "en": "Looks right — send to doctor",
+    "translation": "ਠੀਕ ਲੱਗਦਾ ਹੈ ਡਾਕਟਰ ਨੂੰ ਭੇਜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "emergencyNotice": {
+    "en": "If your symptoms feel severe or are getting worse right now, don't wait — call emergency services.",
+    "translation": "ਜੇ ਤੁਹਾਡੇ ਲੱਛਣ ਗੰਭੀਰ ਮਹਿਸੂਸ ਹੋ ਰਹੇ ਹਨ ਜਾਂ ਇਸ ਸਮੇਂ ਵਿਗੜ ਰਹੇ ਹਨ, ਤਾਂ ਇੰਤਜ਼ਾਰ ਨਾ ਕਰੋ ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ ਨੂੰ ਕਾਲ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBadge": {
+    "en": "{level} · {label}",
+    "translation": "{level} · {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCare": {
+    "en": "Please seek care within 1–2 hours",
+    "translation": "ਕਿਰਪਾ ਕਰਕੇ 12 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ-ਅੰਦਰ ਦੇਖਭਾਲ ਦੀ ਮੰਗ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencySeekCareLine2": {
+    "en": "",
+    "translation": "(ਸੋਧੋ)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyBody": {
+    "en": "Your symptoms suggest something that should be seen soon. We've flagged your case as urgent for the clinical team.",
+    "translation": "ਤੁਹਾਡੇ ਲੱਛਣ ਕੁਝ ਅਜਿਹਾ ਸੁਝਾਅ ਦਿੰਦੇ ਹਨ ਜੋ ਛੇਤੀ ਹੀ ਦੇਖਿਆ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ. ਅਸੀਂ ਤੁਹਾਡੇ ਕੇਸ ਨੂੰ ਕਲੀਨਿਕਲ ਟੀਮ ਲਈ ਜ਼ਰੂਰੀ ਦੱਸਿਆ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyNextSteps": {
+    "en": "What happens next",
+    "translation": "ਅਗਲਾ ਕੀ ਹੋਵੇਗਾ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Title": {
+    "en": "Your brief is sent now",
+    "translation": "ਤੁਹਾਡਾ ਸੰਖੇਪ ਹੁਣ ਭੇਜਿਆ ਗਿਆ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep1Desc": {
+    "en": "The clinical team receives your structured history immediately.",
+    "translation": "ਕਲੀਨਿਕਲ ਟੀਮ ਨੂੰ ਤੁਰੰਤ ਤੁਹਾਡਾ ਢਾਂਚਾਗਤ ਇਤਿਹਾਸ ਮਿਲਦਾ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep2Title": {
+    "en": "Seen within 1–2 hours",
+    "translation": "12 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਦੇਖਿਆ ਗਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Title": {
+    "en": "If it worsens, act fast",
+    "translation": "ਜੇ ਇਹ ਵਿਗੜਦਾ ਹੈ, ਤਾਂ ਤੁਰੰਤ ਕਾਰਵਾਈ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "urgencyStep3Desc": {
+    "en": "Severe or sudden worsening — call emergency services right away.",
+    "translation": "ਗੰਭੀਰ ਜਾਂ ਅਚਾਨਕ ਵਿਗੜਨਾ ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ ਨੂੰ ਤੁਰੰਤ ਕਾਲ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosis": {
+    "en": "This is an automated urgency estimate, not a diagnosis. A clinician makes the final decision.",
+    "translation": "ਇਹ ਇੱਕ ਆਟੋਮੈਟਿਕ ਐਮਰਜੈਂਸੀ ਅਨੁਮਾਨ ਹੈ, ਕੋਈ ਨਿਦਾਨ ਨਹੀਂ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notADiagnosisBold": {
+    "en": "not a diagnosis",
+    "translation": "ਕੋਈ ਤਸ਼ਖੀਸ ਨਹੀਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnContinueNav": {
+    "en": "Continue",
+    "translation": "ਜਾਰੀ ਰੱਖੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroWelcome": {
+    "en": "Welcome back",
+    "translation": "ਵਾਪਸ ਸੁਆਗਤ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroSubtitle": {
+    "en": "You've been seen at this hospital before. Send your brief straight there?",
+    "translation": "ਤੁਹਾਨੂੰ ਇਸ ਹਸਪਤਾਲ ਵਿਚ ਪਹਿਲਾਂ ਵੀ ਦੇਖਿਆ ਗਿਆ ਹੈ. ਆਪਣੇ ਸੰਖੇਪ ਨੂੰ ਸਿੱਧਾ ਉੱਥੇ ਭੇਜੋ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroLastVisit": {
+    "en": "Last visit · {date}",
+    "translation": "ਆਖਰੀ ਦੌਰਾ · {date}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDistance": {
+    "en": "Away",
+    "translation": "ਦੂਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroEta": {
+    "en": "Est. wait",
+    "translation": "Est. ਇੰਤਜ਼ਾਰ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroDoctors": {
+    "en": "Doctors on",
+    "translation": "ਡਾਕਟਰਾਂ ' ਤੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHeroRecordsNote": {
+    "en": "They already hold your records, so your care team sees your full history right away.",
+    "translation": "ਉਨ੍ਹਾਂ ਕੋਲ ਪਹਿਲਾਂ ਹੀ ਤੁਹਾਡੇ ਰਿਕਾਰਡ ਹਨ, ਇਸ ਲਈ ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਟੀਮ ਤੁਹਾਡੇ ਪੂਰੇ ਇਤਿਹਾਸ ਨੂੰ ਤੁਰੰਤ ਵੇਖਦੀ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnChooseDifferent": {
+    "en": "Choose a different hospital",
+    "translation": "ਇੱਕ ਵੱਖਰਾ ਹਸਪਤਾਲ ਚੁਣੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchTitle": {
+    "en": "Where would you like to be seen?",
+    "translation": "ਤੁਸੀਂ ਕਿੱਥੇ ਦੇਖਿਆ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSearchSubtitle": {
+    "en": "Pick a Triavi hospital near you — your {level} brief is sent the moment you choose.",
+    "translation": "ਤੁਹਾਡੇ ਨੇੜੇ ਇੱਕ ਟ੍ਰੀਆਵੀ ਹਸਪਤਾਲ ਚੁਣੋ ਤੁਹਾਡਾ {level} ਸੰਖੇਪ ਤੁਹਾਡੇ ਦੁਆਰਾ ਚੁਣੇ ਗਏ ਸਮੇਂ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findScanning": {
+    "en": "Scanning Triavi hospitals near you…",
+    "translation": "ਤੁਹਾਡੇ ਨੇੜੇ ਦੇ ਟ੍ਰੀਆਵੀ ਹਸਪਤਾਲਾਂ ਦੀ ਸਕੈਨਿੰਗ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findHospitalsNear": {
+    "en": "{count} hospitals near you",
+    "translation": "{count} ਤੁਹਾਡੇ ਨੇੜੇ ਦੇ ਹਸਪਤਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findSortedByDistance": {
+    "en": "· sorted by distance",
+    "translation": "· ਦੂਰੀ ਅਨੁਸਾਰ ਕ੍ਰਮਬੱਧ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnRescan": {
+    "en": "Rescan",
+    "translation": "ਰੀਸਕੈਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findNearestBadge": {
+    "en": "NEAREST",
+    "translation": "ਨੇੜੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findDoctorsOnline": {
+    "en": "{count} online",
+    "translation": "{count} ਆਨਲਾਈਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelReady": {
+    "en": "Level {level} ready",
+    "translation": "ਪੱਧਰ {level} ਤਿਆਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findLevelOnly": {
+    "en": "Level {min}+ only",
+    "translation": "ਸਿਰਫ ਪੱਧਰ {min} +",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findBtnSelect": {
+    "en": "Select a hospital",
+    "translation": "ਇੱਕ ਹਸਪਤਾਲ ਚੁਣੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "findErrLocation": {
+    "en": "We couldn't get your location. Tap rescan to try again.",
+    "translation": "ਅਸੀਂ ਤੁਹਾਡਾ ਸਥਾਨ ਨਹੀਂ ਲੱਭ ਸਕੇ. ਦੁਬਾਰਾ ਸਕੈਨ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusInQueue": {
+    "en": "You're in the queue",
+    "translation": "ਤੁਸੀਂ ਕਤਾਰ ਵਿੱਚ ਹੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusBody": {
+    "en": "Your brief is with the care team. We'll notify you the moment a clinician opens it.",
+    "translation": "ਤੁਹਾਡੀ ਸੰਖੇਪ ਜਾਣਕਾਰੀ ਦੇਖਭਾਲ ਟੀਮ ਦੇ ਨਾਲ ਹੈ ਅਸੀਂ ਤੁਹਾਨੂੰ ਉਦੋਂ ਹੀ ਸੂਚਿਤ ਕਰਾਂਗੇ ਜਦੋਂ ਕੋਈ ਕਲੀਨਿਕਲ ਇਸ ਨੂੰ ਖੋਲ੍ਹ ਦੇਵੇਗਾ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSubmitted": {
+    "en": "Submitted {time} ago",
+    "translation": "{time} ago",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statInLine": {
+    "en": "In line",
+    "translation": "ਲਾਈਨ ਵਿੱਚ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. ਇੰਤਜ਼ਾਰ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineSubmitted": {
+    "en": "Answers submitted",
+    "translation": "ਪੇਸ਼ ਕੀਤੇ ਗਏ ਜਵਾਬ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineJustNow": {
+    "en": "Just now",
+    "translation": "ਹੁਣੇ-ਹੁਣੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineReviewing": {
+    "en": "Doctor reviewing your brief",
+    "translation": "ਡਾਕਟਰ ਤੁਹਾਡੀ ਸੰਖੇਪ ਜਾਣਕਾਰੀ ਦੀ ਸਮੀਖਿਆ ਕਰ ਰਿਹਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineInProg": {
+    "en": "In progress",
+    "translation": "ਚੱਲ ਰਿਹਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineOpened": {
+    "en": "A clinician opened your brief",
+    "translation": "ਇੱਕ ਕਲੀਨਿਕਰ ਨੇ ਤੁਹਾਡਾ ਬਰੀਫ ਖੋਲ੍ਹਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineConsult": {
+    "en": "Consultation",
+    "translation": "ਸਲਾਹ-ਮਸ਼ਵਰਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "timelineUpcoming": {
+    "en": "Upcoming",
+    "translation": "ਆਗਾਮੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSaveVisit": {
+    "en": "Save your visit",
+    "translation": "ਆਪਣੀ ਮੁਲਾਕਾਤ ਨੂੰ ਬਚਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnSymptomsWorse": {
+    "en": "Symptoms worse",
+    "translation": "ਲੱਛਣ ਬਦਤਰ ਹੁੰਦੇ ਹਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnRestartDemo": {
+    "en": "Restart demo",
+    "translation": "ਡੈਮੋ ਮੁੜ ਚਾਲੂ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "btnBackToDashboard": {
+    "en": "Back to dashboard",
+    "translation": "ਡੈਸ਼ਬੋਰਡ ' ਤੇ ਵਾਪਸ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBack": {
+    "en": "Back",
+    "translation": "ਵਾਪਸ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateTitle": {
+    "en": "If it's getting worse, act now",
+    "translation": "ਜੇ ਇਹ ਬਦਤਰ ਹੋ ਰਿਹਾ ਹੈ, ਹੁਣੇ ਕੰਮ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateBody": {
+    "en": "Don't wait for your queue position. If your symptoms are severe or worsening suddenly — call emergency services now or go to the nearest emergency department.",
+    "translation": "ਆਪਣੀ ਕਤਾਰ ਦੀ ਸਥਿਤੀ ਦੀ ਉਡੀਕ ਨਾ ਕਰੋ. ਜੇ ਤੁਹਾਡੇ ਲੱਛਣ ਗੰਭੀਰ ਹਨ ਜਾਂ ਅਚਾਨਕ ਵਿਗੜ ਰਹੇ ਹਨ ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ ਨੂੰ ਹੁਣੇ ਕਾਲ ਕਰੋ ਜਾਂ ਨਜ਼ਦੀਕੀ ਐਮਰਜੈਂਸੀ ਵਿਭਾਗ ਵਿੱਚ ਜਾਓ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateCallEmergency": {
+    "en": "Call emergency services",
+    "translation": "ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ ਨੂੰ ਕਾਲ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateClose": {
+    "en": "I'm okay — close",
+    "translation": "ਮੈਂ ਠੀਕ ਹਾਂ ਨੇੜੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateNotDiagnosis": {
+    "en": "not a diagnosis",
+    "translation": "ਕੋਈ ਤਸ਼ਖੀਸ ਨਹੀਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "escalateFlagged": {
+    "en": "We've flagged your case as higher priority so the care team is aware.",
+    "translation": "ਅਸੀਂ ਤੁਹਾਡੇ ਕੇਸ ਨੂੰ ਉੱਚ ਤਰਜੀਹ ਦੇ ਤੌਰ ਤੇ ਨਿਸ਼ਾਨਬੱਧ ਕੀਤਾ ਹੈ ਤਾਂ ਜੋ ਦੇਖਭਾਲ ਟੀਮ ਨੂੰ ਪਤਾ ਹੋਵੇ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyTitle": {
+    "en": "Triavi · Your brief is open",
+    "translation": "Triavi · ਤੁਹਾਡਾ ਸੰਖੇਪ ਖੁੱਲ੍ਹਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "notifyBody": {
+    "en": "A clinician is reviewing your brief. We'll update you as it progresses.",
+    "translation": "ਇੱਕ ਕਲੀਨਿਕਰ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਦੀ ਸਮੀਖਿਆ ਕਰ ਰਿਹਾ ਹੈ. ਅਸੀਂ ਤੁਹਾਨੂੰ ਅੱਗੇ ਵਧਦੇ ਹੋਏ ਅਪਡੇਟ ਕਰਾਂਗੇ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "screenCounter": {
+    "en": "Screen {n} / {total} · {title}",
+    "translation": "ਸਕ੍ਰੀਨ {n} / {total} · {title}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepWelcome": {
+    "en": "Welcome",
+    "translation": "ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepAboutYou": {
+    "en": "About you",
+    "translation": "ਤੁਹਾਡੇ ਬਾਰੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepInterview": {
+    "en": "Interview",
+    "translation": "ਇੰਟਰਵਿਊ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepReview": {
+    "en": "Review",
+    "translation": "ਸਮੀਖਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepUrgency": {
+    "en": "Urgency",
+    "translation": "ਜਲਦਬਾਜ਼ੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepFindHospital": {
+    "en": "Find hospital",
+    "translation": "ਹਸਪਤਾਲ ਲੱਭੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "stepStatus": {
+    "en": "Status",
+    "translation": "ਸਥਿਤੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcome": {
+    "en": "How are you feeling?",
+    "translation": "ਤੁਸੀਂ ਕਿਵੇਂ ਮਹਿਸੂਸ ਕਰ ਰਹੇ ਹੋ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinWelcomeSubtitle": {
+    "en": "Answer a few questions about how you've been since your visit.",
+    "translation": "ਆਪਣੀ ਮੁਲਾਕਾਤ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਕਿਵੇਂ ਹੋ, ਇਸ ਬਾਰੇ ਕੁਝ ਪ੍ਰਸ਼ਨਾਂ ਦੇ ਜਵਾਬ ਦਿਓ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinComplaintContext": {
+    "en": "Your visit: {complaint}",
+    "translation": "ਤੁਹਾਡੀ ਮੁਲਾਕਾਤ: {complaint}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendBetter": {
+    "en": "Better",
+    "translation": "ਬਿਹਤਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendSame": {
+    "en": "About the same",
+    "translation": "ਲਗਭਗ ਉਸੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendWorse": {
+    "en": "Worse",
+    "translation": "ਹੋਰ ਵੀ ਭੈੜਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinTrendAriaLabel": {
+    "en": "How is your condition compared to before?",
+    "translation": "ਤੁਹਾਡੀ ਹਾਲਤ ਪਹਿਲਾਂ ਦੀ ਤੁਲਨਾ ਵਿਚ ਕਿਵੇਂ ਹੈ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElse": {
+    "en": "Anything else you'd like to tell us?",
+    "translation": "ਕੀ ਤੁਸੀਂ ਸਾਨੂੰ ਹੋਰ ਕੁਝ ਦੱਸਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinAnythingElsePlaceholder": {
+    "en": "Type here…",
+    "translation": "ਇੱਥੇ ਟਾਈਪ ਕਰੋ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinSubmit": {
+    "en": "Submit my answers",
+    "translation": "ਮੇਰੇ ਜਵਾਬ ਭੇਜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultResolved": {
+    "en": "We're glad you're feeling better",
+    "translation": "ਸਾਨੂੰ ਖੁਸ਼ੀ ਹੈ ਕਿ ਤੁਸੀਂ ਬਿਹਤਰ ਮਹਿਸੂਸ ਕਰ ਰਹੇ ਹੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReview": {
+    "en": "A clinician will look at this today",
+    "translation": "ਇੱਕ ਕਲੀਨਿਕਰ ਅੱਜ ਇਸ ' ਤੇ ਨਜ਼ਰ ਮਾਰੇਗਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultReviewBody": {
+    "en": "Your answers have been sent to the care team. A clinician will review them and reach out if needed.",
+    "translation": "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਨੂੰ ਦੇਖਭਾਲ ਟੀਮ ਨੂੰ ਭੇਜਿਆ ਗਿਆ ਹੈ। ਇੱਕ ਕਲੀਨਿਕਰ ਉਨ੍ਹਾਂ ਦੀ ਸਮੀਖਿਆ ਕਰੇਗਾ ਅਤੇ ਲੋੜ ਪੈਣ 'ਤੇ ਸੰਪਰਕ ਕਰੇਗਾ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalate": {
+    "en": "Please seek care now",
+    "translation": "ਕਿਰਪਾ ਕਰਕੇ ਤੁਰੰਤ ਦੇਖਭਾਲ ਦੀ ਮੰਗ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateBody": {
+    "en": "Your symptoms suggest something that needs prompt attention. Don't wait — contact your care team or go to the nearest emergency department.",
+    "translation": "ਆਪਣੀ ਦੇਖਭਾਲ ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ ਜਾਂ ਨਜ਼ਦੀਕੀ ਐਮਰਜੈਂਸੀ ਵਿਭਾਗ ਵਿੱਚ ਜਾਓ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinResultEscalateCall": {
+    "en": "Call emergency services",
+    "translation": "ਐਮਰਜੈਂਸੀ ਸੇਵਾਵਾਂ ਨੂੰ ਕਾਲ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpired": {
+    "en": "This check-in link has expired",
+    "translation": "ਇਹ ਚੈੱਕ-ਇਨ ਲਿੰਕ ਖਤਮ ਹੋ ਗਿਆ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredBody": {
+    "en": "This follow-up is no longer available. Sign in to see your current check-ins.",
+    "translation": "ਇਹ ਫਾਲੋ-ਅਪ ਹੁਣ ਉਪਲਬਧ ਨਹੀਂ ਹੈ. ਆਪਣੇ ਮੌਜੂਦਾ ਚੈੱਕ-ਇਨ ਵੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinExpiredSignIn": {
+    "en": "Sign in to continue",
+    "translation": "ਜਾਰੀ ਰੱਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepWelcome": {
+    "en": "Welcome",
+    "translation": "ਤੁਹਾਡਾ ਸਵਾਗਤ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepQuestions": {
+    "en": "Questions",
+    "translation": "ਪ੍ਰਸ਼ਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "checkinStepResult": {
+    "en": "Result",
+    "translation": "ਨਤੀਜਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimTitle": {
+    "en": "Save your visit",
+    "translation": "ਆਪਣੀ ਮੁਲਾਕਾਤ ਨੂੰ ਬਚਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimBody": {
+    "en": "Your check-in is verified. Create a free account to track this visit and skip the code next time.",
+    "translation": "ਤੁਹਾਡੇ ਚੈੱਕ-ਇਨ ਦੀ ਪੁਸ਼ਟੀ ਹੋ ਗਈ ਹੈ. ਇਸ ਮੁਲਾਕਾਤ ਨੂੰ ਟਰੈਕ ਕਰਨ ਲਈ ਇੱਕ ਮੁਫ਼ਤ ਖਾਤਾ ਬਣਾਓ ਅਤੇ ਅਗਲੀ ਵਾਰ ਕੋਡ ਨੂੰ ਛੱਡੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimYourVisit": {
+    "en": "Your visit",
+    "translation": "ਤੁਹਾਡੀ ਮੁਲਾਕਾਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimCreateAccount": {
+    "en": "Create my account",
+    "translation": "ਮੇਰਾ ਖਾਤਾ ਬਣਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "claimSkip": {
+    "en": "Skip for now",
+    "translation": "ਹੁਣ ਲਈ ਛੱਡੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyTitle": {
+    "en": "Let's verify it's you",
+    "translation": "ਚਲੋ ਪੁਸ਼ਟੀ ਕਰੀਏ ਕਿ ਇਹ ਤੁਸੀਂ ਹੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authVerifyBody": {
+    "en": "We'll send a one-time code — no password to remember.",
+    "translation": "ਅਸੀਂ ਇੱਕ ਵਾਰ ਦਾ ਕੋਡ ਭੇਜਾਂਗੇ ਯਾਦ ਰੱਖਣ ਲਈ ਕੋਈ ਪਾਸਵਰਡ ਨਹੀਂ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendCode": {
+    "en": "Send code",
+    "translation": "ਕੋਡ ਭੇਜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSending": {
+    "en": "Sending…",
+    "translation": "ਭੇਜ ਰਿਹਾ ਹੈ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSecuredBy": {
+    "en": "Secured by Triavi · HIPAA-compliant",
+    "translation": "Triavi ਦੁਆਰਾ ਸੁਰੱਖਿਅਤ · HIPAA ਦੇ ਅਨੁਕੂਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelPhone": {
+    "en": "Phone",
+    "translation": "ਫੋਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authChannelEmail": {
+    "en": "Email",
+    "translation": "ਈਮੇਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authSendVia": {
+    "en": "Send code via",
+    "translation": "ਦੁਆਰਾ ਕੋਡ ਭੇਜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authPhoneLabel": {
+    "en": "Phone number",
+    "translation": "ਫੋਨ ਨੰਬਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authEmailLabel": {
+    "en": "Email address",
+    "translation": "ਈਮੇਲ ਪਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authUseInstead": {
+    "en": "Use {channel} instead",
+    "translation": "ਇਸ ਦੀ ਬਜਾਏ {channel} ਦੀ ਵਰਤੋਂ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "authBack": {
+    "en": "Back",
+    "translation": "ਵਾਪਸ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpTitle": {
+    "en": "Enter the code",
+    "translation": "ਕੋਡ ਦਰਜ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResend": {
+    "en": "Resend",
+    "translation": "ਮੁੜ ਭੇਜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpResendIn": {
+    "en": "Resend in 0:{sec}",
+    "translation": "0 ਵਿੱਚ ਮੁੜ ਭੇਜੋਃ {sec}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerify": {
+    "en": "Verify",
+    "translation": "ਤਸਦੀਕ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpVerifying": {
+    "en": "Verifying…",
+    "translation": "ਤਸਦੀਕ ਕਰਨਾ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpSaved": {
+    "en": "Saved!",
+    "translation": "ਬਚਾਇਆ!",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinWelcomeBack": {
+    "en": "Welcome back",
+    "translation": "ਵਾਪਸ ਸੁਆਗਤ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinBody": {
+    "en": "Enter your phone or email and we'll send a sign-in code.",
+    "translation": "ਆਪਣਾ ਫੋਨ ਜਾਂ ਈਮੇਲ ਦਰਜ ਕਰੋ ਅਤੇ ਅਸੀਂ ਇੱਕ ਸਾਈਨ-ਇਨ ਕੋਡ ਭੇਜਾਂਗੇ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinSendCode": {
+    "en": "Send sign-in code",
+    "translation": "ਸਾਈਨ-ਇਨ ਕੋਡ ਭੇਜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signinAccountTied": {
+    "en": "Your account is tied to your hospital's records",
+    "translation": "ਤੁਹਾਡਾ ਖਾਤਾ ਤੁਹਾਡੇ ਹਸਪਤਾਲ ਦੇ ਰਿਕਾਰਡ ਨਾਲ ਜੁੜਿਆ ਹੋਇਆ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errInvalidPhone": {
+    "en": "Enter a valid phone number (7–14 digits)",
+    "translation": "ਇੱਕ ਵੈਧ ਫੋਨ ਨੰਬਰ (714 ਅੰਕ) ਦਰਜ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errSendFailed": {
+    "en": "Couldn't send the code. Try again.",
+    "translation": "ਕੋਡ ਨਹੀਂ ਭੇਜ ਸਕਿਆ. ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errNetwork": {
+    "en": "Network error. Check your connection and try again.",
+    "translation": "ਨੈੱਟਵਰਕ ਗਲਤੀ. ਆਪਣੇ ਕੁਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errResendFailed": {
+    "en": "Couldn't resend. Try again.",
+    "translation": "ਮੈਂ ਮੁੜ ਨਹੀਂ ਭੇਜ ਸਕਿਆ. ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "errCodeMismatch": {
+    "en": "That code didn't match. Try again.",
+    "translation": "ਇਹ ਕੋਡ ਮੇਲ ਨਹੀਂ ਖਾਂਦਾ. ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredTitle": {
+    "en": "Session expired",
+    "translation": "ਸੈਸ਼ਨ ਸਮਾਪਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredBody": {
+    "en": "For your security and to protect patient data, you've been signed out after a period of inactivity.",
+    "translation": "ਤੁਹਾਡੀ ਸੁਰੱਖਿਆ ਲਈ ਅਤੇ ਮਰੀਜ਼ਾਂ ਦੇ ਡੇਟਾ ਦੀ ਰੱਖਿਆ ਲਈ, ਤੁਹਾਨੂੰ ਇੱਕ ਅਯੋਗਤਾ ਦੀ ਮਿਆਦ ਦੇ ਬਾਅਦ ਬਾਹਰ ਕੀਤਾ ਗਿਆ ਹੈ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sessionExpiredSignIn": {
+    "en": "Sign in again",
+    "translation": "ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashGreeting": {
+    "en": "Welcome back",
+    "translation": "ਵਾਪਸ ਸੁਆਗਤ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSectionActive": {
+    "en": "Active visit",
+    "translation": "ਸਰਗਰਮ ਮੁਲਾਕਾਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashPastVisits": {
+    "en": "Past visits",
+    "translation": "ਪਿਛਲੀਆਂ ਮੁਲਾਕਾਤਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "ਨਵਾਂ ਚੈੱਕ-ਇਨ ਸ਼ੁਰੂ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActive": {
+    "en": "No active visit",
+    "translation": "ਕੋਈ ਸਰਗਰਮ ਮੁਲਾਕਾਤ ਨਹੀਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoActiveHint": {
+    "en": "Start a check-in to begin a new visit.",
+    "translation": "ਨਵੇਂ ਦੌਰੇ ਦੀ ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਚੈੱਕ-ਇਨ ਸ਼ੁਰੂ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNoPastVisits": {
+    "en": "No past visits yet.",
+    "translation": "ਹਾਲੇ ਤੱਕ ਕੋਈ ਪਿਛਲੀ ਮੁਲਾਕਾਤ ਨਹੀਂ ਹੋਈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSignOut": {
+    "en": "Sign out",
+    "translation": "ਹਸਤਾਖਰ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMenu": {
+    "en": "Menu",
+    "translation": "ਮੇਨੂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashLanguage": {
+    "en": "Language",
+    "translation": "ਭਾਸ਼ਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInQueue": {
+    "en": "In the queue",
+    "translation": "ਕਤਾਰ ਵਿੱਚ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInLine": {
+    "en": "In line",
+    "translation": "ਲਾਈਨ ਵਿੱਚ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashEstWait": {
+    "en": "Est. wait",
+    "translation": "Est. ਇੰਤਜ਼ਾਰ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashAnswersSubmitted": {
+    "en": "Answers submitted",
+    "translation": "ਪੇਸ਼ ਕੀਤੇ ਗਏ ਜਵਾਬ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashJustNow": {
+    "en": "Just now",
+    "translation": "ਹੁਣੇ-ਹੁਣੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDoctorReviewing": {
+    "en": "Doctor reviewing",
+    "translation": "ਡਾਕਟਰ ਦੀ ਸਮੀਖਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashInProgress": {
+    "en": "In progress",
+    "translation": "ਚੱਲ ਰਿਹਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashConsultation": {
+    "en": "Consultation",
+    "translation": "ਸਲਾਹ-ਮਸ਼ਵਰਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashUpcoming": {
+    "en": "Upcoming",
+    "translation": "ਆਗਾਮੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashFollowUp": {
+    "en": "Follow-up check-in",
+    "translation": "ਫਾਲੋ-ਅਪ ਚੈੱਕ-ਇਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashDueLabel": {
+    "en": "Due {label}",
+    "translation": "ਡਿਊਟੀ {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartCheckin": {
+    "en": "Start check-in",
+    "translation": "ਚੈੱਕ-ਇਨ ਸ਼ੁਰੂ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLine": {
+    "en": "YOUR CARE LINE",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਲਾਈਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLineReady": {
+    "en": "Ready for calls",
+    "translation": "ਕਾਲਾਂ ਲਈ ਤਿਆਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashCareLinePrivacy": {
+    "en": "Care calls ring in this app · your phone number is never shared.",
+    "translation": "ਇਸ ਐਪ ਵਿੱਚ ਦੇਖਭਾਲ ਕਾਲਾਂ ਆਉਂਦੀਆਂ ਹਨ · ਤੁਹਾਡਾ ਫੋਨ ਨੰਬਰ ਕਦੇ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashStartNewCheckin": {
+    "en": "Start a new check-in",
+    "translation": "ਨਵਾਂ ਚੈੱਕ-ਇਨ ਸ਼ੁਰੂ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashNextCareCall": {
+    "en": "Next care call",
+    "translation": "ਅਗਲੀ ਦੇਖਭਾਲ ਕਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashChangeVoice": {
+    "en": "Change voice",
+    "translation": "ਆਵਾਜ਼ ਬਦਲੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsTitle": {
+    "en": "Your medications",
+    "translation": "ਤੁਹਾਡੀਆਂ ਦਵਾਈਆਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedsFrom": {
+    "en": "from {hospital}",
+    "translation": "{hospital} ਤੋਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedCallChip": {
+    "en": "Call · {time}",
+    "translation": "ਕਾਲ · {time}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashMedPushChip": {
+    "en": "Push only",
+    "translation": "ਸਿਰਫ ਧੱਕੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashRecentCalls": {
+    "en": "Recent care calls",
+    "translation": "ਹਾਲੀਆ ਦੇਖਭਾਲ ਦੀਆਂ ਕਾਲਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashViewAll": {
+    "en": "View all",
+    "translation": "ਸਭ ਵੇਖੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dashSimulateCall": {
+    "en": "Simulate incoming care call · demo",
+    "translation": "ਇਨਕਮਿੰਗ ਕੇਅਰ ਕਾਲ ਦੀ ਸਿਮੂਲੇਸ਼ਨ · ਡੈਮੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabHome": {
+    "en": "Home",
+    "translation": "ਘਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabVoice": {
+    "en": "Voice",
+    "translation": "ਆਵਾਜ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "tabSettings": {
+    "en": "Settings",
+    "translation": "ਸੈਟਿੰਗਜ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceTitle": {
+    "en": "Care voice & calls",
+    "translation": "ਦੇਖਭਾਲ ਦੀ ਆਵਾਜ਼ ਅਤੇ ਕਾਲਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSubtitle": {
+    "en": "Choose who calls you, and how they sound.",
+    "translation": "ਚੁਣੋ ਕਿ ਤੁਹਾਨੂੰ ਕੌਣ ਬੁਲਾਉਂਦਾ ਹੈ, ਅਤੇ ਇਹ ਕਿਵੇਂ ਆਵਾਜ਼ ਆਉਂਦੀ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSection": {
+    "en": "VOICE",
+    "translation": "ਵੌਇਸ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemale": {
+    "en": "Ava",
+    "translation": "ਐਵਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceFemaleSub": {
+    "en": "Female voice",
+    "translation": "ਔਰਤ ਆਵਾਜ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMale": {
+    "en": "Sam",
+    "translation": "ਸੈਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceMaleSub": {
+    "en": "Male voice",
+    "translation": "ਮਰਦਾਂ ਦੀ ਆਵਾਜ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneSection": {
+    "en": "TONE",
+    "translation": "ਟੋਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarm": {
+    "en": "Warm & gentle",
+    "translation": "ਗਰਮ ਅਤੇ ਕੋਮਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneWarmDesc": {
+    "en": "Reassuring and unhurried",
+    "translation": "ਦਿਲਾਸਾ ਦੇਣ ਵਾਲਾ ਅਤੇ ਬੇਝਿਜਕ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessional": {
+    "en": "Clear & professional",
+    "translation": "ਸਪੱਸ਼ਟ ਅਤੇ ਪੇਸ਼ੇਵਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneProfessionalDesc": {
+    "en": "Direct, precise, no small talk",
+    "translation": "ਸਿੱਧੀ, ਸਪੱਸ਼ਟ, ਕੋਈ ਛੋਟੀ ਜਿਹੀ ਗੱਲ ਨਹੀਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeat": {
+    "en": "Bright & upbeat",
+    "translation": "ਚਮਕਦਾਰ ਅਤੇ ਉਤਸ਼ਾਹੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "toneUpbeatDesc": {
+    "en": "Friendly, encouraging energy",
+    "translation": "ਦੋਸਤਾਨਾ, ਉਤਸ਼ਾਹਜਨਕ ਊਰਜਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "hearAgent": {
+    "en": "Hear {agent}",
+    "translation": "ਸੁਣੋ {agent}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "voiceSampleQuote": {
+    "en": "Hi Jordan, it's time for your evening dose…",
+    "translation": "ਹੈਲੋ ਜੌਰਡਨ, ਤੁਹਾਡੀ ਸ਼ਾਮ ਦੀ ਖੁਰਾਕ ਦਾ ਸਮਾਂ ਆ ਗਿਆ ਹੈ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sampleUnavailable": {
+    "en": "Sample unavailable",
+    "translation": "ਨਮੂਨਾ ਉਪਲਬਧ ਨਹੀਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callPrefsSection": {
+    "en": "CALL PREFERENCES",
+    "translation": "ਕਾਲ ਤਰਜੀਹਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCalls": {
+    "en": "Medication reminder calls",
+    "translation": "ਦਵਾਈਆਂ ਦੀ ਯਾਦ ਦਿਵਾਉਣ ਵਾਲੀਆਂ ਕਾਲਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "medReminderCallsDesc": {
+    "en": "Ring at each scheduled dose",
+    "translation": "ਹਰ ਯੋਜਨਾਬੱਧ ਖੁਰਾਕ 'ਤੇ ਰਿੰਗ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCalls": {
+    "en": "Post-visit check-in calls",
+    "translation": "ਮੁਲਾਕਾਤ ਤੋਂ ਬਾਅਦ ਚੈੱਕ-ਇਨ ਕਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "postVisitCallsDesc": {
+    "en": "\"How are you feeling?\" after discharge",
+    "translation": "\"ਤੁਸੀਂ ਕਿਵੇਂ ਮਹਿਸੂਸ ਕਰ ਰਹੇ ਹੋ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHours": {
+    "en": "Quiet hours",
+    "translation": "ਸ਼ਾਂਤ ਘੰਟੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "quietHoursDesc": {
+    "en": "No calls 9:30 PM – 7:30 AM · falls back to a notification",
+    "translation": "ਰਾਤ 9:30 ਵਜੇ ਕੋਈ ਕਾਲ ਨਹੀਂ ਸਵੇਰੇ 7:30 ਵਜੇ · ਇੱਕ ਨੋਟੀਫਿਕੇਸ਼ਨ ਤੇ ਵਾਪਸ ਆ ਜਾਂਦਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "yourCareAgent": {
+    "en": "Your care agent",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਏਜੰਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveVoiceSettings": {
+    "en": "Save voice settings",
+    "translation": "ਵੌਇਸ ਸੈਟਿੰਗਜ਼ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsTitle": {
+    "en": "Settings",
+    "translation": "ਸੈਟਿੰਗਜ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsSubtitle": {
+    "en": "Preferences, language and account",
+    "translation": "ਤਰਜੀਹਾਂ, ਭਾਸ਼ਾ ਅਤੇ ਖਾਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "prefsSection": {
+    "en": "PREFERENCES",
+    "translation": "ਤਰਜੀਹ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "settingsLanguage": {
+    "en": "Language",
+    "translation": "ਭਾਸ਼ਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "darkTheme": {
+    "en": "Dark theme",
+    "translation": "ਡਾਰਕ ਥੀਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeDark": {
+    "en": "Dark",
+    "translation": "ਹਨੇਰਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeLight": {
+    "en": "Light",
+    "translation": "ਚਾਨਣ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "pushNotifs": {
+    "en": "Push notifications",
+    "translation": "ਪੁਸ਼ ਸੂਚਨਾਵਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsSection": {
+    "en": "CARE CALLS",
+    "translation": "ਦੇਖਭਾਲ ਦੀਆਂ ਕਾਲਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRow": {
+    "en": "Voice & call preferences",
+    "translation": "ਵੌਇਸ ਅਤੇ ਕਾਲ ਤਰਜੀਹਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careCallsRowDesc": {
+    "en": "{agent} · {tone}",
+    "translation": "{agent} · {tone}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySection": {
+    "en": "PRIVACY",
+    "translation": "ਪ੍ਰਾਈਵੇਸੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "dataPrivacy": {
+    "en": "Your data & privacy",
+    "translation": "ਤੁਹਾਡੇ ਡੇਟਾ ਅਤੇ ਗੋਪਨੀਯਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRecords": {
+    "en": "Download my records",
+    "translation": "ਮੇਰੇ ਰਿਕਾਰਡ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "comingSoon": {
+    "en": "Coming soon",
+    "translation": "ਛੇਤੀ ਹੀ ਆ ਰਿਹਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "edit": {
+    "en": "Edit",
+    "translation": "ਸੰਪਾਦਿਤ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "careLineLabel": {
+    "en": "Care line",
+    "translation": "ਦੇਖਭਾਲ ਲਾਈਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "appVersionFooter": {
+    "en": "Triavi Patient · v1.0.0",
+    "translation": "Triavi ਮਰੀਜ਼ · v1.0.0",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutTitle": {
+    "en": "You're signed out",
+    "translation": "ਤੁਹਾਨੂੰ ਬਾਹਰ ਦਸਤਖਤ ਕੀਤਾ ਗਿਆ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signedOutBody": {
+    "en": "Your care line stays active — sign back in to manage calls and reminders.",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਲਾਈਨ ਕਿਰਿਆਸ਼ੀਲ ਰਹਿੰਦੀ ਹੈ ਕਾਲਾਂ ਅਤੇ ਯਾਦਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਦੁਬਾਰਾ ਸਾਈਨ ਇਨ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "signBackIn": {
+    "en": "Sign back in",
+    "translation": "ਵਾਪਸ ਸਾਈਨ ਇਨ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeSignedInAs": {
+    "en": "Signed in as {name}",
+    "translation": "{name} ਦੇ ਤੌਰ ਤੇ ਦਸਤਖਤ ਕੀਤੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeMyDashboard": {
+    "en": "My dashboard",
+    "translation": "ਮੇਰੀ ਡੈਸ਼ਬੋਰਡ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "welcomeDemo": {
+    "en": "Demo build",
+    "translation": "ਡੈਮੋ ਬਿਲਡ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDemoChip": {
+    "en": "Demo",
+    "translation": "ਡੈਮੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingIncoming": {
+    "en": "Incoming care call",
+    "translation": "ਆਉਣ ਵਾਲੀ ਦੇਖਭਾਲ ਕਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingFor": {
+    "en": "for {hospital}",
+    "translation": "ਲਈ {hospital}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAgentRole": {
+    "en": "Care agent",
+    "translation": "ਦੇਖਭਾਲ ਏਜੰਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingReminder": {
+    "en": "{subject} · {med}",
+    "translation": "{subject} · {med}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingVerified": {
+    "en": "Verified · via your care line {code}",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਲਾਈਨ ਦੁਆਰਾ ਤਸਦੀਕ · {code}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingDecline": {
+    "en": "Decline",
+    "translation": "ਗਿਰਾਵਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingAccept": {
+    "en": "Accept",
+    "translation": "ਸਵੀਕਾਰ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callRingWebRtcFootnote": {
+    "en": "Encrypted voice call · WebRTC · your number is never shared",
+    "translation": "ਏਨਕ੍ਰਿਪਟਡ ਵੌਇਸ ਕਾਲ · ਵੈਬਆਰਟੀਸੀ · ਤੁਹਾਡਾ ਨੰਬਰ ਕਦੇ ਸਾਂਝਾ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveLive": {
+    "en": "LIVE CAPTIONS",
+    "translation": "ਲਾਈਵ ਕੈਪਸ਼ਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveAgentRole": {
+    "en": "Care agent",
+    "translation": "ਦੇਖਭਾਲ ਏਜੰਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveMute": {
+    "en": "Mute",
+    "translation": "ਮੂਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveUnmute": {
+    "en": "Unmute",
+    "translation": "ਬੇਵਕੂਫ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEnd": {
+    "en": "End call",
+    "translation": "ਅੰਤ ਕਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndConfirm": {
+    "en": "End this call?",
+    "translation": "ਇਸ ਕਾਲ ਨੂੰ ਖ਼ਤਮ ਕਰਨਾ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndYes": {
+    "en": "End call",
+    "translation": "ਅੰਤ ਕਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callActiveEndNo": {
+    "en": "Stay on call",
+    "translation": "ਕਾਲ ' ਤੇ ਰਹੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryReported": {
+    "en": "REPORTED TO YOUR CARE TEAM",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਟੀਮ ਨੂੰ ਰਿਪੋਰਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummarySnoozed": {
+    "en": "REMINDER SNOOZED 1 HOUR",
+    "translation": "ਯਾਦ ਦਿਵਾਓ 1 ਘੰਟਾ ਬਰਫਬਾਰੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoContact": {
+    "en": "NO ANSWER LOGGED",
+    "translation": "ਕੋਈ ਜਵਾਬ ਨਹੀਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNextCareCall": {
+    "en": "Next care call",
+    "translation": "ਅਗਲੀ ਦੇਖਭਾਲ ਕਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryBack": {
+    "en": "Back to dashboard",
+    "translation": "ਡੈਸ਼ਬੋਰਡ ' ਤੇ ਵਾਪਸ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callDevTrigger": {
+    "en": "Trigger care call ring (dev)",
+    "translation": "ਟਰਿੱਗਰ ਦੇਖਭਾਲ ਕਾਲ ਰਿੰਗ (ਡੈਵ)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaMute": {
+    "en": "Toggle mute",
+    "translation": "ਮੂਟ ਨੂੰ ਟੌਗਲ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callAriaEnd": {
+    "en": "End call",
+    "translation": "ਅੰਤ ਕਾਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsTitle": {
+    "en": "Past visits",
+    "translation": "ਪਿਛਲੀਆਂ ਮੁਲਾਕਾਤਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsPrivacyNote": {
+    "en": "Only you and {hospital} can see these. Tap a visit to read the summary shared with you.",
+    "translation": "ਸਿਰਫ ਤੁਸੀਂ ਅਤੇ {hospital} ਇਨ੍ਹਾਂ ਨੂੰ ਦੇਖ ਸਕਦੇ ਹੋ. ਤੁਹਾਡੇ ਨਾਲ ਸਾਂਝੇ ਕੀਤੇ ਸੰਖੇਪ ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਇੱਕ ਮੁਲਾਕਾਤ 'ਤੇ ਟੈਪ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitsRowCompleted": {
+    "en": "Completed",
+    "translation": "ਮੁਕੰਮਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailTitle": {
+    "en": "Visit detail",
+    "translation": "ਮੁਲਾਕਾਤ ਦੇ ਵੇਰਵੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCompleted": {
+    "en": "Completed",
+    "translation": "ਮੁਕੰਮਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailOutcome": {
+    "en": "OUTCOME",
+    "translation": "ਬਾਹਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailFollowUp": {
+    "en": "Follow-up",
+    "translation": "ਨਿਗਰਾਨੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailMeds": {
+    "en": "MEDICATIONS PRESCRIBED",
+    "translation": "ਦਵਾਈਆਂ ਲਿਖੀਆਂ ਜਾਂਦੀਆਂ ਹਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailCalls": {
+    "en": "CARE CALLS FOR THIS VISIT",
+    "translation": "ਇਸ ਮੁਲਾਕਾਤ ਲਈ ਸੁਚੇਤ ਸੱਦੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNoCalls": {
+    "en": "No care calls for this visit yet.",
+    "translation": "ਇਸ ਮੁਲਾਕਾਤ ਲਈ ਅਜੇ ਕੋਈ ਦੇਖਭਾਲ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotDiagnosis": {
+    "en": "This is a summary shared with you — not a diagnosis. If your symptoms return or get worse, seek emergency care right away.",
+    "translation": "ਇਹ ਤੁਹਾਡੇ ਨਾਲ ਸਾਂਝਾ ਕੀਤਾ ਗਿਆ ਸੰਖੇਪ ਹੈ ਕੋਈ ਨਿਦਾਨ ਨਹੀਂ. ਜੇ ਤੁਹਾਡੇ ਲੱਛਣ ਵਾਪਸ ਆਉਂਦੇ ਹਨ ਜਾਂ ਵਿਗੜਦੇ ਹਨ, ਤਾਂ ਤੁਰੰਤ ਐਮਰਜੈਂਸੀ ਦੇਖਭਾਲ ਦੀ ਮੰਗ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFound": {
+    "en": "We couldn't find that visit",
+    "translation": "ਅਸੀਂ ਉਸ ਮੁਲਾਕਾਤ ਨੂੰ ਨਹੀਂ ਲੱਭ ਸਕੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailNotFoundBody": {
+    "en": "This visit may have been removed, or the link is no longer valid. Go back to see your full history.",
+    "translation": "ਇਹ ਮੁਲਾਕਾਤ ਹਟਾ ਦਿੱਤੀ ਗਈ ਹੋ ਸਕਦੀ ਹੈ, ਜਾਂ ਲਿੰਕ ਹੁਣ ਵੈਧ ਨਹੀਂ ਹੈ। ਆਪਣਾ ਪੂਰਾ ਇਤਿਹਾਸ ਦੇਖਣ ਲਈ ਵਾਪਸ ਜਾਓ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailBackToVisits": {
+    "en": "Back to past visits",
+    "translation": "ਪਿਛਲੀਆਂ ਮੁਲਾਕਾਤਾਂ 'ਤੇ ਵਾਪਸ ਜਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLoading": {
+    "en": "Loading your visit…",
+    "translation": "ਤੁਹਾਡੀ ਮੁਲਾਕਾਤ ਨੂੰ ਲੋਡ ਕਰਨਾ...",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailDischargeBadge": {
+    "en": "Released by your care team",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਟੀਮ ਦੁਆਰਾ ਜਾਰੀ ਕੀਤਾ ਗਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailSafetyNet": {
+    "en": "SAFETY-NET ADVICE",
+    "translation": "ਸੇਫਟੀ-ਨੈਟ ਸਲਾਹ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileTitle": {
+    "en": "Edit profile",
+    "translation": "ਪ੍ਰੋਫਾਈਲ ਸੰਪਾਦਿਤ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "editProfileSubtitle": {
+    "en": "Update your details. Your doctor sees the latest.",
+    "translation": "ਆਪਣੇ ਵੇਰਵਿਆਂ ਨੂੰ ਅਪਡੇਟ ਕਰੋ. ਤੁਹਾਡਾ ਡਾਕਟਰ ਨਵੀਨਤਮ ਵੇਖਦਾ ਹੈ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePersonalSection": {
+    "en": "PERSONAL",
+    "translation": "ਵਿਅਕਤੀਗਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelPhone": {
+    "en": "Phone number",
+    "translation": "ਫੋਨ ਨੰਬਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderPhone": {
+    "en": "Your phone number",
+    "translation": "ਤੁਹਾਡਾ ਫੋਨ ਨੰਬਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmail": {
+    "en": "Email address",
+    "translation": "ਈਮੇਲ ਪਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmail": {
+    "en": "Your email address",
+    "translation": "ਤੁਹਾਡਾ ਈਮੇਲ ਪਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyContact": {
+    "en": "Emergency contact",
+    "translation": "ਐਮਰਜੈਂਸੀ ਸੰਪਰਕ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyName": {
+    "en": "Contact name",
+    "translation": "ਸੰਪਰਕ ਨਾਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyName": {
+    "en": "Name of your emergency contact",
+    "translation": "ਤੁਹਾਡੇ ਐਮਰਜੈਂਸੀ ਸੰਪਰਕ ਦਾ ਨਾਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyRelation": {
+    "en": "Relationship",
+    "translation": "ਰਿਸ਼ਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyRelation": {
+    "en": "e.g. Spouse, Parent",
+    "translation": "ਉਦਾਹਰਨ ਲਈ ਪਤੀ/ਪਤਨੀ, ਮਾਪੇ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "labelEmergencyPhone": {
+    "en": "Phone",
+    "translation": "ਫੋਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "placeholderEmergencyPhone": {
+    "en": "Contact's phone number",
+    "translation": "ਸੰਪਰਕ ਦਾ ਫੋਨ ਨੰਬਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguage": {
+    "en": "Preferred language",
+    "translation": "ਤਰਜੀਹੀ ਭਾਸ਼ਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profilePreferredLanguageDesc": {
+    "en": "Changes the language of every screen instantly.",
+    "translation": "ਹਰ ਸਕ੍ਰੀਨ ਦੀ ਭਾਸ਼ਾ ਨੂੰ ਤੁਰੰਤ ਬਦਲਦਾ ਹੈ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineSection": {
+    "en": "YOUR CARE LINE",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਲਾਈਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopy": {
+    "en": "Copy",
+    "translation": "ਕਾਪੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopied": {
+    "en": "Copied",
+    "translation": "ਕਾਪੀ ਕੀਤੀ ਗਈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileCareLineCopyFailed": {
+    "en": "Couldn't copy - select and copy manually",
+    "translation": "ਕਾਪੀ ਨਹੀਂ ਕਰ ਸਕਿਆ - ਹੱਥੀਂ ਚੁਣੋ ਅਤੇ ਕਾਪੀ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "saveProfile": {
+    "en": "Save changes",
+    "translation": "ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "profileSaved": {
+    "en": "Profile saved",
+    "translation": "ਸੁਰੱਖਿਅਤ ਪ੍ਰੋਫਾਈਲ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexMale": {
+    "en": "Male",
+    "translation": "ਮਰਦ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "sexFemale": {
+    "en": "Female",
+    "translation": "ਔਰਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyTitle": {
+    "en": "Your data & privacy",
+    "translation": "ਤੁਹਾਡੇ ਡੇਟਾ ਅਤੇ ਗੋਪਨੀਯਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacySubtitle": {
+    "en": "What we protect, and what you control.",
+    "translation": "ਜੋ ਅਸੀਂ ਸੁਰੱਖਿਅਤ ਕਰਦੇ ਹਾਂ, ਅਤੇ ਜੋ ਤੁਸੀਂ ਨਿਯੰਤਰਿਤ ਕਰਦੇ ਹੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidSection": {
+    "en": "DE-IDENTIFICATION",
+    "translation": "ਡੀ-ਆਈਡੈਂਟਿਫਿਕੇਸ਼ਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidTitle": {
+    "en": "Always on",
+    "translation": "ਹਮੇਸ਼ਾ ਚਾਲੂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidBody": {
+    "en": "Your name, contact details, and free-text answers are stripped before anything leaves your hospital. Only your care team sees identifying details; research and analytics see de-identified data only.",
+    "translation": "ਤੁਹਾਡਾ ਨਾਮ, ਸੰਪਰਕ ਵੇਰਵੇ ਅਤੇ ਮੁਫ਼ਤ ਟੈਕਸਟ ਦੇ ਜਵਾਬ ਤੁਹਾਡੇ ਹਸਪਤਾਲ ਤੋਂ ਬਾਹਰ ਜਾਣ ਤੋਂ ਪਹਿਲਾਂ ਹਟਾ ਦਿੱਤੇ ਜਾਂਦੇ ਹਨ। ਸਿਰਫ ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਟੀਮ ਪਛਾਣ ਦੇ ਵੇਰਵੇ ਵੇਖਦੀ ਹੈ; ਖੋਜ ਅਤੇ ਵਿਸ਼ਲੇਸ਼ਣ ਸਿਰਫ ਅਣਜਾਣ ਅੰਕੜੇ ਵੇਖਦੇ ਹਨ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeidLockLabel": {
+    "en": "Locked on",
+    "translation": "ਤਾਲਾਬੰਦ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyAccessLogSection": {
+    "en": "ACCESS LOG",
+    "translation": "ਐਕਸੈਸ ਲੋਗ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyConsentsSection": {
+    "en": "YOUR CONSENTS",
+    "translation": "ਤੁਹਾਡੀ ਸਹਿਮਤੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsent": {
+    "en": "Research use",
+    "translation": "ਖੋਜ ਵਰਤੋਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyResearchConsentDesc": {
+    "en": "Allow de-identified data to improve care for everyone. You can change this anytime.",
+    "translation": "ਕਿਸੇ ਵੀ ਵਿਅਕਤੀ ਲਈ ਦੇਖਭਾਲ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਅਣਜਾਣ ਡੇਟਾ ਦੀ ਆਗਿਆ ਦਿਓ. ਤੁਸੀਂ ਇਸ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਬਦਲ ਸਕਦੇ ਹੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsent": {
+    "en": "Care messages",
+    "translation": "ਦੇਖਭਾਲ ਸੰਦੇਸ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyCommsConsentDesc": {
+    "en": "Appointment reminders and follow-up check-ins by call or push. You can change this anytime.",
+    "translation": "ਮੁਲਾਕਾਤ ਦੀਆਂ ਯਾਦਾਂ ਅਤੇ ਫਾਲੋ-ਅਪ ਚੈੱਕ-ਇਨ ਦੁਆਰਾ ਕਾਲ ਜਾਂ ਦਬਾਓ. ਤੁਸੀਂ ਇਸ ਨੂੰ ਕਿਸੇ ਵੀ ਸਮੇਂ ਬਦਲ ਸਕਦੇ ਹੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteSection": {
+    "en": "DELETE ACCOUNT",
+    "translation": "ਖਾਤਾ ਹਟਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteTitle": {
+    "en": "Delete your account",
+    "translation": "ਆਪਣਾ ਖਾਤਾ ਮਿਟਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteDesc": {
+    "en": "Permanently remove your account and contact details. Your care-line history is retained by your hospital as required by law.",
+    "translation": "ਆਪਣੇ ਖਾਤੇ ਅਤੇ ਸੰਪਰਕ ਵੇਰਵਿਆਂ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਹਟਾਓ. ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਲਾਈਨ ਦਾ ਇਤਿਹਾਸ ਤੁਹਾਡੇ ਹਸਪਤਾਲ ਦੁਆਰਾ ਕਾਨੂੰਨ ਦੁਆਰਾ ਲੋੜੀਂਦੇ ਅਨੁਸਾਰ ਰੱਖਿਆ ਜਾਂਦਾ ਹੈ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDeleteCta": {
+    "en": "Delete my account",
+    "translation": "ਮੇਰਾ ਖਾਤਾ ਮਿਟਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadSection": {
+    "en": "DOWNLOAD YOUR RECORDS",
+    "translation": "ਆਪਣੇ ਰਿਕਾਰਡ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadTitle": {
+    "en": "Download my records",
+    "translation": "ਮੇਰੇ ਰਿਕਾਰਡ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadDesc": {
+    "en": "Request a copy of your visit summaries, medications, and care-call history.",
+    "translation": "ਆਪਣੀ ਮੁਲਾਕਾਤ ਦੇ ਸੰਖੇਪ, ਦਵਾਈਆਂ ਅਤੇ ਦੇਖਭਾਲ ਦੇ ਇਤਿਹਾਸ ਦੀ ਇੱਕ ਕਾਪੀ ਮੰਗੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "privacyDownloadCta": {
+    "en": "Request my records",
+    "translation": "ਮੇਰੇ ਦਸਤਾਵੇਜ਼ਾਂ ਦੀ ਮੰਗ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetTitle": {
+    "en": "Delete your account?",
+    "translation": "ਆਪਣਾ ਖਾਤਾ ਮਿਟਾਉਣਾ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetBody": {
+    "en": "This permanently removes your account and contact details. Your hospital retains your care-line history as required by law. This cannot be undone.",
+    "translation": "ਇਹ ਤੁਹਾਡੇ ਖਾਤੇ ਅਤੇ ਸੰਪਰਕ ਵੇਰਵਿਆਂ ਨੂੰ ਸਥਾਈ ਤੌਰ 'ਤੇ ਹਟਾ ਦਿੰਦਾ ਹੈ. ਤੁਹਾਡਾ ਹਸਪਤਾਲ ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਲਾਈਨ ਦੇ ਇਤਿਹਾਸ ਨੂੰ ਕਾਨੂੰਨ ਦੁਆਰਾ ਲੋੜੀਂਦੇ ਅਨੁਸਾਰ ਬਰਕਰਾਰ ਰੱਖਦਾ ਹੈ. ਇਹ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirm": {
+    "en": "Delete account",
+    "translation": "ਖਾਤਾ ਹਟਾਓ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetCancel": {
+    "en": "Keep my account",
+    "translation": "ਮੇਰਾ ਖਾਤਾ ਰੱਖੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmStepLabel": {
+    "en": "Type DELETE to confirm",
+    "translation": "ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ DELETE ਟਾਈਪ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteSheetConfirmPlaceholder": {
+    "en": "Type DELETE",
+    "translation": "ਕਿਸਮ DELETE",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestSubmitted": {
+    "en": "Deletion request submitted",
+    "translation": "ਹਟਾਉਣ ਦੀ ਬੇਨਤੀ ਭੇਜੀ ਗਈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "deleteRequestNextStep": {
+    "en": "Your care team will confirm by email within 72 hours. Your care line stays active until then.",
+    "translation": "ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਟੀਮ 72 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ ਈਮੇਲ ਰਾਹੀਂ ਪੁਸ਼ਟੀ ਕਰੇਗੀ। ਤੁਹਾਡੀ ਦੇਖਭਾਲ ਲਾਈਨ ਉਦੋਂ ਤੱਕ ਕਿਰਿਆਸ਼ੀਲ ਰਹਿੰਦੀ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetTitle": {
+    "en": "Download your records",
+    "translation": "ਆਪਣੇ ਰਿਕਾਰਡ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetBody": {
+    "en": "Choose a format and request your export. We'll prepare it and send a secure link to your registered email.",
+    "translation": "ਇੱਕ ਫਾਰਮੈਟ ਚੁਣੋ ਅਤੇ ਤੁਹਾਡੇ ਨਿਰਯਾਤ ਦੀ ਬੇਨਤੀ ਕਰੋ. ਅਸੀਂ ਇਸਨੂੰ ਤਿਆਰ ਕਰਾਂਗੇ ਅਤੇ ਤੁਹਾਡੇ ਰਜਿਸਟਰਡ ਈਮੇਲ ਤੇ ਇੱਕ ਸੁਰੱਖਿਅਤ ਲਿੰਕ ਭੇਜਾਂਗੇ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatLabel": {
+    "en": "Format",
+    "translation": "ਫਾਰਮੈਟ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatJson": {
+    "en": "JSON summary",
+    "translation": "JSON ਸੰਖੇਪ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetFormatPdf": {
+    "en": "PDF (coming soon)",
+    "translation": "ਪੀਡੀਐਫ (ਬਹੁਤ ਜਲਦੀ ਆ ਰਿਹਾ ਹੈ)",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetConfirm": {
+    "en": "Request export",
+    "translation": "ਨਿਰਯਾਤ ਲਈ ਬੇਨਤੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadSheetCancel": {
+    "en": "Cancel",
+    "translation": "ਰੱਦ ਕਰਨਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestSubmitted": {
+    "en": "Export request submitted",
+    "translation": "ਨਿਰਯਾਤ ਦੀ ਬੇਨਤੀ ਭੇਜੀ ਗਈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadRequestNextStep": {
+    "en": "We'll email a secure link to your registered address within 24 hours.",
+    "translation": "ਅਸੀਂ 24 ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ-ਅੰਦਰ ਤੁਹਾਡੇ ਰਜਿਸਟਰਡ ਪਤੇ ਦਾ ਸੁਰੱਖਿਅਤ ਲਿੰਕ ਈਮੇਲ ਕਰਾਂਗੇ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "downloadFileStubNote": {
+    "en": "No file is downloaded here - your records are sent securely to your registered email.",
+    "translation": "ਇੱਥੇ ਕੋਈ ਫਾਈਲ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ - ਤੁਹਾਡੇ ਰਿਕਾਰਡ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਤੁਹਾਡੇ ਰਜਿਸਟਰਡ ਈਮੇਲ ਤੇ ਭੇਜੇ ਜਾਂਦੇ ਹਨ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaLanguage": {
+    "en": "Language",
+    "translation": "ਭਾਸ਼ਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinProgress": {
+    "en": "Check-in progress",
+    "translation": "ਚੈੱਕ-ਇਨ ਦੀ ਪ੍ਰਗਤੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaCheckinSteps": {
+    "en": "Check-in steps",
+    "translation": "ਚੈੱਕ-ਇਨ ਕਦਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaGoToStep": {
+    "en": "Go to step {n}",
+    "translation": "ਕਦਮ ' ਤੇ ਜਾਓ {n}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPatientNav": {
+    "en": "Patient navigation",
+    "translation": "ਮਰੀਜ਼ ਨੇਵੀਗੇਸ਼ਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaToggleSpeaker": {
+    "en": "Toggle speaker",
+    "translation": "ਟੌਗਲ ਸਪੀਕਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaPauseSample": {
+    "en": "Pause sample",
+    "translation": "ਵਿਰਾਮ ਦਾ ਨਮੂਨਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaSeverityScale": {
+    "en": "Severity from 1 to 10",
+    "translation": "1 ਤੋਂ 10 ਤੱਕ ਦੀ ਗੰਭੀਰਤਾ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaInviteLink": {
+    "en": "Invite link or code",
+    "translation": "ਸੱਦਾ ਲਿੰਕ ਜਾਂ ਕੋਡ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "ariaBackToInviteLink": {
+    "en": "Back to invite link",
+    "translation": "ਸੱਦਾ ਦੇਣ ਲਈ ਵਾਪਸ ਲਿੰਕ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleLight": {
+    "en": "Switch to light theme",
+    "translation": "ਲਾਈਟ ਥੀਮ ' ਤੇ ਬਦਲੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeToggleDark": {
+    "en": "Switch to dark theme",
+    "translation": "ਡਾਰਕ ਥੀਮ ' ਤੇ ਬਦਲੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleLight": {
+    "en": "Light theme",
+    "translation": "ਲਾਈਟ ਥੀਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "themeTitleDark": {
+    "en": "Dark theme",
+    "translation": "ਡਾਰਕ ਥੀਮ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "optionalLabel": {
+    "en": "optional",
+    "translation": "ਵਿਕਲਪਿਕ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "scaleRangeAriaLabel": {
+    "en": "{min} to {max}",
+    "translation": "{min} ਤੋਂ {max} ਤੱਕ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryNoAnswerPlain": {
+    "en": "No answer logged",
+    "translation": "ਕੋਈ ਜਵਾਬ ਲੌਗ ਨਹੀਂ ਕੀਤਾ ਗਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryVoiceSuffix": {
+    "en": "voice",
+    "translation": "ਆਵਾਜ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryDeclinedLogged": {
+    "en": "Call declined ? logged as no contact",
+    "translation": "ਕਾਲ ਰੱਦ ਕਰ ਦਿੱਤੀ ਗਈ ਹੈ? ਕੋਈ ਸੰਪਰਕ ਨਾ ਹੋਣ ਦੇ ਰੂਪ ਵਿੱਚ ਲੌਗ ਕੀਤਾ ਗਿਆ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "callSummaryEndedLogged": {
+    "en": "Call ended ? logged as no contact",
+    "translation": "ਕਾਲ ਖਤਮ ਹੋ ਗਈ? ਕੋਈ ਸੰਪਰਕ ਨਾ ਹੋਣ ਦੇ ਰੂਪ ਵਿੱਚ ਲੌਗ ਕੀਤਾ ਗਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "visitDetailLevelLabel": {
+    "en": "Level {n} ? {label}",
+    "translation": "ਪੱਧਰ {n}? {label}",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusSavedToAccount": {
+    "en": "Saved to your account",
+    "translation": "ਤੁਹਾਡੇ ਖਾਤੇ ਵਿੱਚ ਸੁਰੱਖਿਅਤ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "statusRoutedTo": {
+    "en": "Routed to {hospital}",
+    "translation": "{hospital} ਨੂੰ ਭੇਜਿਆ ਗਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteTitle": {
+    "en": "Connect to your clinic",
+    "translation": "ਆਪਣੀ ਕਲੀਨਿਕ ਨਾਲ ਜੁੜੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteBody": {
+    "en": "Paste the invite link your hospital sent, or scan their QR code.",
+    "translation": "ਆਪਣੇ ਹਸਪਤਾਲ ਦੁਆਰਾ ਭੇਜੇ ਗਏ ਸੱਦੇ ਦੇ ਲਿੰਕ ਨੂੰ ਪੇਸਟ ਕਰੋ, ਜਾਂ ਉਹਨਾਂ ਦੇ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInputLabel": {
+    "en": "Invite link or code",
+    "translation": "ਸੱਦਾ ਲਿੰਕ ਜਾਂ ਕੋਡ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteError": {
+    "en": "That doesn't look like a Triavi invite link or code.",
+    "translation": "ਜੋ ਕਿ ਇੱਕ Triavi ਸੱਦਾ ਲਿੰਕ ਜ ਕੋਡ ਵਰਗਾ ਨਹੀ ਹੈ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteContinue": {
+    "en": "Continue",
+    "translation": "ਜਾਰੀ ਰੱਖੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteOr": {
+    "en": "or",
+    "translation": "ਜਾਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanQr": {
+    "en": "Scan QR code",
+    "translation": "QR ਕੋਡ ਸਕੈਨ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanTitle": {
+    "en": "Scan clinic QR",
+    "translation": "ਸਕੈਨ ਕਲੀਨਿਕ QR",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteScanSubtitle": {
+    "en": "Point your camera at the code",
+    "translation": "ਆਪਣੀ ਕੈਮਰਾ ਨੂੰ ਕੋਡ ਵੱਲ ਇਸ਼ਾਰਾ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraDenied": {
+    "en": "Camera access denied",
+    "translation": "ਕੈਮਰਾ ਤੱਕ ਪਹੁੰਚ ਤੋਂ ਇਨਕਾਰ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraNoDevice": {
+    "en": "No camera found",
+    "translation": "ਕੋਈ ਕੈਮਰਾ ਨਹੀਂ ਮਿਲਿਆ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraUnavailable": {
+    "en": "Camera unavailable",
+    "translation": "ਕੈਮਰਾ ਉਪਲਬਧ ਨਹੀਂ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteCameraSearching": {
+    "en": "Searching for a Triavi code?",
+    "translation": "ਇੱਕ Triavi ਕੋਡ ਦੀ ਤਲਾਸ਼ ਕਰ ਰਹੇ ਹੋ?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteEnterManually": {
+    "en": "Enter invite link manually",
+    "translation": "ਸੱਦਾ ਲਿੰਕ ਨੂੰ ਹੱਥੀਂ ਦਾਖਲ ਕਰੋ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteSimulate": {
+    "en": "Simulate detected code",
+    "translation": "ਖੋਜੀ ਗਈ ਕੋਡ ਦੀ ਸਿਮੂਲੇਸ਼ਨ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoStreaming": {
+    "en": "A valid clinic code takes you straight to your details.",
+    "translation": "ਇੱਕ ਵੈਧ ਕਲੀਨਿਕ ਕੋਡ ਤੁਹਾਨੂੰ ਸਿੱਧਾ ਤੁਹਾਡੇ ਵੇਰਵਿਆਂ ਤੱਕ ਲੈ ਜਾਂਦਾ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDev": {
+    "en": "A valid clinic code takes you straight to your details. Dev: tap Simulate detected code to test the flow.",
+    "translation": "ਇੱਕ ਵੈਧ ਕਲੀਨਿਕ ਕੋਡ ਤੁਹਾਨੂੰ ਸਿੱਧੇ ਤੌਰ 'ਤੇ ਤੁਹਾਡੇ ਵੇਰਵਿਆਂ ਵੱਲ ਲੈ ਜਾਂਦਾ ਹੈ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoDenied": {
+    "en": "Grant camera permission in your browser settings, or enter the invite link manually.",
+    "translation": "ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਸੈਟਿੰਗਜ਼ ਵਿੱਚ ਕੈਮਰੇ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ, ਜਾਂ ਸੱਦਾ ਲਿੰਕ ਨੂੰ ਹੱਥੀਂ ਦਾਖਲ ਕਰੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoNoDevice": {
+    "en": "No camera detected. Enter the invite link your hospital sent instead.",
+    "translation": "ਕੋਈ ਕੈਮਰਾ ਨਹੀਂ ਮਿਲਿਆ, ਇਸ ਦੀ ਬਜਾਏ ਤੁਹਾਡੇ ਹਸਪਤਾਲ ਦੁਆਰਾ ਭੇਜੇ ਗਏ ਸੱਦੇ ਦੇ ਲਿੰਕ ਵਿੱਚ ਦਾਖਲ ਹੋਵੋ।",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "inviteInfoUnavailable": {
+    "en": "Camera isn't available right now. Enter the invite link manually.",
+    "translation": "ਕੈਮਰਾ ਇਸ ਸਮੇਂ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ. ਸੱਦਾ ਲਿੰਕ ਨੂੰ ਹੱਥੀਂ ਦਾਖਲ ਕਰੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "interviewOfflineTitle": {
+    "en": "Offline ? showing the saved interview script",
+    "translation": "ਔਫਲਾਈਨ? ਸਟੋਰ ਕੀਤੀ ਇੰਟਰਵਿਊ ਸਕ੍ਰਿਪਟ ਦਿਖਾ ਰਿਹਾ ਹੈ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpLegendLabel": {
+    "en": "One-time code",
+    "translation": "ਇੱਕ ਵਾਰ ਦਾ ਕੋਡ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "otpGroupAriaLabel": {
+    "en": "One-time code, 6 digits",
+    "translation": "ਇੱਕ ਵਾਰ ਦਾ ਕੋਡ, 6 ਅੰਕ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchPlaceholder": {
+    "en": "Search country?",
+    "translation": "ਖੋਜ ਦੇਸ਼?",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countrySearchAriaLabel": {
+    "en": "Search countries",
+    "translation": "ਖੋਜ ਦੇਸ਼",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryListAriaLabel": {
+    "en": "Country list",
+    "translation": "ਦੇਸ਼ ਸੂਚੀ",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  },
+  "countryCodeAriaLabel": {
+    "en": "Country code {dial} {name}. Change country.",
+    "translation": "ਦੇਸ਼ ਦਾ ਕੋਡ {dial} {name}. ਦੇਸ਼ ਬਦਲੋ.",
+    "annotator": "NLLB-200 (machine draft - needs review)",
+    "updated_at": "2026-08-04T02:33:14.360352+00:00",
+    "source": "mt",
+    "reviewed": false
+  }
+}

@@ -33,6 +33,7 @@ LOGO_FULL_PATH = os.path.join(APP_DIR, "assets", "brand-logo.png")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 DEFAULT_PASSWORD = "triavi2026"  # change via st.secrets["ANNOTATOR_PASSWORD"]
+MT_ANNOTATOR_LABEL = "NLLB-200 (machine draft - needs review)"  # must match batch_translate_nllb.py
 
 st.set_page_config(
     page_title="Triavi Localization",
@@ -94,6 +95,30 @@ def check_placeholders(en_text, translated_text, placeholders):
     if not placeholders or not translated_text:
         return True
     return all(f"{{{p}}}" in translated_text for p in placeholders)
+
+
+# ────────────────────────────────────────────────────────────────────
+# AI-draft vs human-reviewed helpers
+#
+# batch_translate_nllb.py seeds translations with source="mt", reviewed=False.
+# Entries saved before this distinction existed have no "source" field at all -
+# those were typed by a real annotator through this UI, so they're treated as
+# reviewed. Only explicit source="mt" drafts can ever be "unreviewed".
+# ────────────────────────────────────────────────────────────────────
+def is_reviewed(entry):
+    if not entry.get("translation", "").strip():
+        return False
+    if entry.get("source") == "mt":
+        return bool(entry.get("reviewed", False))
+    return True
+
+
+def is_unreviewed_draft(entry):
+    return (
+        entry.get("source") == "mt"
+        and not entry.get("reviewed", False)
+        and bool(entry.get("translation", "").strip())
+    )
 
 
 # ────────────────────────────────────────────────────────────────────
@@ -166,13 +191,16 @@ def render_language_picker():
     cols = st.columns(3)
     for i, (opt, label) in enumerate(filtered):
         existing = load_translations(opt["code"])
-        done = sum(1 for v in existing.values() if v.get("translation", "").strip())
+        done = sum(1 for v in existing.values() if is_reviewed(v))
+        drafted = sum(1 for v in existing.values() if is_unreviewed_draft(v))
         pct = int(100 * done / total) if total else 0
         with cols[i % 3]:
             with st.container(border=True):
                 st.markdown(f"**{opt['name']}**")
                 st.caption(opt["region"] + (f" · {opt['native']}" if opt["native"] != opt["name"] else ""))
-                st.progress(pct / 100, text=f"{done}/{total} strings ({pct}%)")
+                st.progress(pct / 100, text=f"{done}/{total} reviewed ({pct}%)")
+                if drafted:
+                    st.caption(f"🤖 {drafted} AI draft(s) awaiting review")
                 if st.button("Select", key=f"sel_{opt['code']}", use_container_width=True):
                     st.session_state.lang_code = opt["code"]
                     st.session_state.lang_label = opt["name"]
@@ -210,15 +238,18 @@ def render_annotation():
             st.caption("💾 Cloud sync: off — saving to local disk only")
 
         total = len(entries)
-        done = sum(1 for v in existing.values() if v.get("translation", "").strip())
-        st.progress(done / total if total else 0, text=f"{done}/{total} translated overall")
+        done = sum(1 for v in existing.values() if is_reviewed(v))
+        drafted = sum(1 for v in existing.values() if is_unreviewed_draft(v))
+        st.progress(done / total if total else 0, text=f"{done}/{total} reviewed overall")
+        if drafted:
+            st.caption(f"🤖 {drafted} AI draft(s) still need review")
 
         st.markdown("---")
         section_counts = {}
         for e in entries:
             section_counts.setdefault(e["section"], {"total": 0, "done": 0})
             section_counts[e["section"]]["total"] += 1
-            if existing.get(e["key"], {}).get("translation", "").strip():
+            if is_reviewed(existing.get(e["key"], {})):
                 section_counts[e["section"]]["done"] += 1
 
         section_labels = [
@@ -260,15 +291,30 @@ def render_annotation():
         st.info("No strings found.")
         return
 
+    def status_label(entry):
+        if is_unreviewed_draft(entry):
+            return "🤖 AI draft"
+        if is_reviewed(entry):
+            return "✅ Reviewed"
+        return ""
+
     df = pd.DataFrame([
         {
             "Key": r["key"],
             "English": r["value"],
             "Placeholders": ", ".join(r["placeholders"]) if r["placeholders"] else "",
             "Translation": existing.get(r["key"], {}).get("translation", ""),
+            "Status": status_label(existing.get(r["key"], {})),
+            "Reviewed": is_reviewed(existing.get(r["key"], {})),
         }
         for r in rows
     ])
+
+    st.caption(
+        "🤖 AI draft rows were pre-filled by NLLB-200 and have NOT been checked by a person. "
+        "Edit or confirm the translation, then tick **Reviewed** before saving - unreviewed "
+        "drafts are left out of the production export by default."
+    )
 
     edited = st.data_editor(
         df,
@@ -277,6 +323,8 @@ def render_annotation():
             "English": st.column_config.TextColumn("English", disabled=True, width="large"),
             "Placeholders": st.column_config.TextColumn("Placeholders", disabled=True, width="small"),
             "Translation": st.column_config.TextColumn("Translation", width="large"),
+            "Status": st.column_config.TextColumn("Status", disabled=True, width="small"),
+            "Reviewed": st.column_config.CheckboxColumn("Reviewed", width="small"),
         },
         hide_index=True,
         use_container_width=True,
@@ -302,16 +350,35 @@ def render_annotation():
         for _, row in edited.iterrows():
             k = row["Key"]
             t = str(row["Translation"] or "").strip()
+            reviewed_checked = bool(row["Reviewed"])
             if not t:
                 continue
             if not check_placeholders(key_to_en[k], t, key_to_placeholders[k]):
                 warnings.append((k, key_to_placeholders[k]))
-            existing[k] = {
-                "en": key_to_en[k],
-                "translation": t,
-                "annotator": st.session_state.annotator_name,
-                "updated_at": now,
-            }
+
+            prior = existing.get(k, {})
+            if reviewed_checked:
+                # a person confirmed this row (whether they typed it fresh or
+                # accepted/edited an AI draft) - it's now attributed to them
+                existing[k] = {
+                    "en": key_to_en[k],
+                    "translation": t,
+                    "annotator": st.session_state.annotator_name,
+                    "updated_at": now,
+                    "source": "human",
+                    "reviewed": True,
+                }
+            else:
+                # left unchecked: keep it as an unreviewed AI draft (still save
+                # any text edits), never silently attribute it to a person
+                existing[k] = {
+                    "en": key_to_en[k],
+                    "translation": t,
+                    "annotator": prior.get("annotator", MT_ANNOTATOR_LABEL if prior.get("source") == "mt" else st.session_state.annotator_name),
+                    "updated_at": now,
+                    "source": prior.get("source", "mt"),
+                    "reviewed": False,
+                }
 
         save_translations(lang_code, existing)
 
@@ -336,17 +403,31 @@ def render_annotation():
 
 def render_export(lang_code, lang_label, entries):
     existing = load_translations(lang_code)
+    unreviewed_count = sum(1 for v in existing.values() if is_unreviewed_draft(v))
+
     with st.expander("📤 Export translations"):
         c1, c2 = st.columns(2)
 
         export_json = json.dumps(existing, ensure_ascii=False, indent=2)
         c1.download_button(
-            "Download as JSON",
+            "Download as JSON (includes everything, incl. AI draft metadata)",
             data=export_json,
             file_name=f"{lang_code}_translations.json",
             mime="application/json",
             use_container_width=True,
         )
+
+        include_drafts = True
+        if unreviewed_count:
+            include_drafts = st.checkbox(
+                f"Include {unreviewed_count} unreviewed AI draft(s) in the .ts export",
+                value=False,
+                help=(
+                    "Off by default: this .ts file is what ships to the app's i18n loader, "
+                    "and NLLB-200's own model card says it isn't meant for production or "
+                    "medical-domain text. Leave this off until a person has reviewed the draft."
+                ),
+            )
 
         ts_lines = [f'import type {{ LocaleStrings }} from "./types";', "", f"export const {lang_code} = {{"]
         last_section = None
@@ -354,7 +435,9 @@ def render_export(lang_code, lang_label, entries):
             if e["section"] != last_section:
                 ts_lines.append(f"  // ── {e['section']} " + "─" * 10)
                 last_section = e["section"]
-            val = existing.get(e["key"], {}).get("translation", "") or e["value"]
+            entry = existing.get(e["key"], {})
+            use_translation = is_reviewed(entry) or (include_drafts and is_unreviewed_draft(entry))
+            val = (entry.get("translation", "") if use_translation else "") or e["value"]
             escaped = val.replace("\\", "\\\\").replace('"', '\\"')
             ts_lines.append(f'  {e["key"]}: "{escaped}",')
         ts_lines.append("};")
@@ -368,8 +451,9 @@ def render_export(lang_code, lang_label, entries):
             use_container_width=True,
         )
         st.caption(
-            "Untranslated keys fall back to the English source string in both exports "
-            "so the file stays drop-in compatible with the app's i18n loader."
+            "Untranslated (and, by default, unreviewed AI-drafted) keys fall back to the "
+            "English source string so the file stays drop-in compatible with the app's "
+            "i18n loader without ever shipping an unchecked machine translation."
         )
 
 
