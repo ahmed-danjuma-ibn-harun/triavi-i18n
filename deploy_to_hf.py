@@ -23,11 +23,11 @@ from huggingface_hub import HfApi
 # ────────────────────────────────────────────────────────────────────
 # CONFIG — fill these in before running
 # ────────────────────────────────────────────────────────────────────
-HF_TOKEN = "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"   # your write-access token
-HF_USERNAME = "Ahmed-ibn-Harun"                       # your HF username or org
-SPACE_NAME = "triavi-localization"                     # Space slug (letters/numbers/hyphens)
-DATASET_NAME = "triavi-i18n-data"                      # dataset slug for storage
-ANNOTATOR_PASSWORD = "triavi2026"                      # shared password annotators will use
+HF_TOKEN = "..."   # your write-access token
+HF_USERNAME = "...."                       # your HF username or org
+SPACE_NAME = "..."                     # Space slug (letters/numbers/hyphens)
+DATASET_NAME = "..."                      # dataset slug for storage
+ANNOTATOR_PASSWORD = "..."                      # shared password annotators will use
 # ────────────────────────────────────────────────────────────────────
 
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
