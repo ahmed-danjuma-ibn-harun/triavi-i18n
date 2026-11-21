@@ -47,11 +47,26 @@ create table if not exists public.translation_activity (
 create index if not exists translation_activity_created_idx on public.translation_activity(created_at desc);
 create index if not exists translation_activity_email_idx on public.translation_activity(email);
 
+create table if not exists public.translation_submissions (
+  id bigint generated always as identity primary key,
+  email text not null,
+  display_name text not null,
+  language text not null,
+  entry_count integer not null,
+  reviewed_count integer not null,
+  changes jsonb not null default '[]'::jsonb,
+  created_at timestamptz not null default now()
+);
+
+create index if not exists translation_submissions_created_idx on public.translation_submissions(created_at desc);
+create index if not exists translation_submissions_language_idx on public.translation_submissions(language);
+
 alter table public.translations enable row level security;
 alter table public.annotators enable row level security;
 alter table public.annotator_login_links enable row level security;
 alter table public.annotator_sessions enable row level security;
 alter table public.translation_activity enable row level security;
+alter table public.translation_submissions enable row level security;
 
 -- The app uses its server-only service role key. Do not add public read/write
 -- policies to these tables. Assign one language per email, for example:

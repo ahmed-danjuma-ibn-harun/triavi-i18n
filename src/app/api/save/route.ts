@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { currentAnnotator } from "@/lib/auth";
+import { currentAnnotator, isSuperAdmin } from "@/lib/auth";
 import { entries as sourceEntries, validLanguage } from "@/lib/catalog";
 import { getSupabase, readLanguage, saveLanguage, type TranslationRecord } from "@/lib/store";
 
@@ -12,7 +12,7 @@ export async function POST(request: NextRequest) {
   let body: { lang?: string; rows?: Array<{ key: string; translation: string; reviewed: boolean }> };
   try { body = await request.json(); } catch { return NextResponse.json({ error: "Invalid request." }, { status: 400 }); }
   const code = body.lang ?? "";
-  if (!validLanguage(code) || code !== annotator.language) return NextResponse.json({ error: "This language is not assigned to your account." }, { status: 403 });
+  if (!validLanguage(code) || (code !== annotator.language && !isSuperAdmin(annotator.email))) return NextResponse.json({ error: "This language is not assigned to your account." }, { status: 403 });
   if (!Array.isArray(body.rows) || body.rows.length > sourceEntries.length) return NextResponse.json({ error: "Invalid save data." }, { status: 400 });
   const sourceByKey = new Map(sourceEntries.map((entry) => [entry.key, entry]));
   const existing = await readLanguage(code);
@@ -38,18 +38,18 @@ export async function POST(request: NextRequest) {
   }
   try {
     await saveLanguage(code, updates);
-    const activityRows = Object.entries(updates).map(([key, entry]) => ({
-      email: annotator.email,
-      display_name: annotator.display_name,
-      language: code,
-      key,
-      translation: entry.translation,
-      reviewed: entry.reviewed,
-      created_at: now,
-    }));
-    if (activityRows.length) {
-      const { error: activityError } = await getSupabase().from("translation_activity").insert(activityRows);
-      if (activityError) console.error("Translation activity insert failed:", activityError.message);
+    if (Object.keys(updates).length && process.env.SUPABASE_URL && (process.env.SUPABASE_SECRET_KEY || process.env.SUPABASE_SERVICE_ROLE_KEY)) {
+      const changes = Object.entries(updates).map(([key, entry]) => ({ key, translation: entry.translation, reviewed: entry.reviewed }));
+      const { error: activityError } = await getSupabase().from("translation_submissions").insert({
+        email: annotator.email,
+        display_name: annotator.display_name,
+        language: code,
+        entry_count: changes.length,
+        reviewed_count: changes.filter((entry) => entry.reviewed).length,
+        changes,
+        created_at: now,
+      });
+      if (activityError) console.error("Submission activity insert failed:", activityError.message);
     }
     return NextResponse.json({ ok: true, warnings });
   }
