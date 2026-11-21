@@ -24,18 +24,41 @@ export async function GET(request: NextRequest) {
   ]);
   if (annotatorError || activityError) return NextResponse.json({ error: annotatorError?.message ?? activityError?.message ?? "Could not load admin data." }, { status: 503 });
   const annotators = (allAnnotators ?? []).filter((person) => !isSuperAdmin(person.email));
-  const progressByLanguage = new Map<string, { translated: number; reviewed: number }>();
-  await Promise.all([...new Set(annotators.map((person) => person.language))].map(async (code) => {
-    const { data } = await db.from("translations").select("entry").eq("language", code);
-    const records = (data ?? []).map((row) => row.entry as { translation?: string; reviewed?: boolean });
-    progressByLanguage.set(code, {
-      translated: records.filter((entry) => Boolean(entry.translation?.trim())).length,
-      reviewed: records.filter((entry) => Boolean(entry.reviewed && entry.translation?.trim())).length,
-    });
+  const progressByAnnotator = await Promise.all(annotators.map(async (person) => {
+    const latestByKey = new Map<string, { translation: string; reviewed: boolean }>();
+    const batchSize = 500;
+    for (let offset = 0; ; offset += batchSize) {
+      const { data, error } = await db.from("translation_submissions")
+        .select("id,changes")
+        .eq("email", person.email)
+        .eq("language", person.language)
+        .order("created_at", { ascending: true })
+        .order("id", { ascending: true })
+        .range(offset, offset + batchSize - 1);
+      if (error) return { email: person.email, error: error.message };
+      for (const submission of data ?? []) {
+        const changes = Array.isArray(submission.changes) ? submission.changes as Array<{ key?: unknown; translation?: unknown; reviewed?: unknown }> : [];
+        for (const change of changes) {
+          if (typeof change.key !== "string" || typeof change.translation !== "string" || typeof change.reviewed !== "boolean") continue;
+          latestByKey.set(change.key, { translation: change.translation, reviewed: change.reviewed });
+        }
+      }
+      if (!data || data.length < batchSize) break;
+    }
+    const latestEntries = [...latestByKey.values()];
+    return {
+      email: person.email,
+      translated: latestEntries.filter((entry) => Boolean(entry.translation.trim())).length,
+      reviewed: latestEntries.filter((entry) => entry.reviewed && Boolean(entry.translation.trim())).length,
+    };
   }));
+  const progressError = progressByAnnotator.find((progress) => "error" in progress);
+  if (progressError && "error" in progressError) return NextResponse.json({ error: progressError.error }, { status: 503 });
+  const progressByEmail = new Map(progressByAnnotator.map((progress) => [progress.email, progress]));
   const people = annotators.map((person) => ({
     ...person,
-    ...(progressByLanguage.get(person.language) ?? { translated: 0, reviewed: 0 }),
+    translated: progressByEmail.get(person.email)?.translated ?? 0,
+    reviewed: progressByEmail.get(person.email)?.reviewed ?? 0,
     total: entries.length,
   }));
   return NextResponse.json({ annotators: people, activity, languages: languageList, page, pageSize, totalActivity: count ?? 0, totalPages: Math.max(1, Math.ceil((count ?? 0) / pageSize)) });
