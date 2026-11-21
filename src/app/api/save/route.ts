@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { currentAnnotator } from "@/lib/auth";
 import { entries as sourceEntries, validLanguage } from "@/lib/catalog";
-import { readLanguage, saveLanguage, type TranslationRecord } from "@/lib/store";
+import { getSupabase, readLanguage, saveLanguage, type TranslationRecord } from "@/lib/store";
 
 export const runtime = "nodejs";
 
@@ -36,6 +36,22 @@ export async function POST(request: NextRequest) {
       reviewed: row.reviewed,
     } satisfies TranslationRecord;
   }
-  try { await saveLanguage(code, updates); return NextResponse.json({ ok: true, warnings }); }
+  try {
+    await saveLanguage(code, updates);
+    const activityRows = Object.entries(updates).map(([key, entry]) => ({
+      email: annotator.email,
+      display_name: annotator.display_name,
+      language: code,
+      key,
+      translation: entry.translation,
+      reviewed: entry.reviewed,
+      created_at: now,
+    }));
+    if (activityRows.length) {
+      const { error: activityError } = await getSupabase().from("translation_activity").insert(activityRows);
+      if (activityError) console.error("Translation activity insert failed:", activityError.message);
+    }
+    return NextResponse.json({ ok: true, warnings });
+  }
   catch (error) { return NextResponse.json({ error: error instanceof Error ? error.message : "Could not save translations." }, { status: 503 }); }
 }

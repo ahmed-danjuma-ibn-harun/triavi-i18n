@@ -1,11 +1,14 @@
 import { NextRequest, NextResponse } from "next/server";
-import { cookieOptions, currentAnnotator, hashToken, sessionCookie } from "@/lib/auth";
+import { cookieOptions, currentAnnotator, hashToken, isSuperAdmin, sessionCookie } from "@/lib/auth";
 import { getSupabase } from "@/lib/store";
 
 export const runtime = "nodejs";
 
 export async function GET() {
-  try { return NextResponse.json({ annotator: await currentAnnotator() }); }
+  try {
+    const annotator = await currentAnnotator();
+    return NextResponse.json({ annotator, isSuperAdmin: annotator ? isSuperAdmin(annotator.email) : false });
+  }
   catch { return NextResponse.json({ annotator: null }); }
 }
 

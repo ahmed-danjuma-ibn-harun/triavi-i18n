@@ -33,10 +33,25 @@ create table if not exists public.annotator_sessions (
 
 create index if not exists annotator_sessions_email_idx on public.annotator_sessions(email);
 
+create table if not exists public.translation_activity (
+  id bigint generated always as identity primary key,
+  email text not null,
+  display_name text not null,
+  language text not null,
+  key text not null,
+  translation text not null,
+  reviewed boolean not null default false,
+  created_at timestamptz not null default now()
+);
+
+create index if not exists translation_activity_created_idx on public.translation_activity(created_at desc);
+create index if not exists translation_activity_email_idx on public.translation_activity(email);
+
 alter table public.translations enable row level security;
 alter table public.annotators enable row level security;
 alter table public.annotator_login_links enable row level security;
 alter table public.annotator_sessions enable row level security;
+alter table public.translation_activity enable row level security;
 
 -- The app uses its server-only service role key. Do not add public read/write
 -- policies to these tables. Assign one language per email, for example:

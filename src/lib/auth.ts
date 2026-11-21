@@ -10,6 +10,11 @@ export const newToken = () => randomBytes(32).toString("base64url");
 
 export type Annotator = { email: string; display_name: string; language: string };
 
+export function isSuperAdmin(email: string) {
+  const allowlist = (process.env.SUPER_ADMIN_EMAILS ?? "").split(",").map((item) => item.trim().toLowerCase()).filter(Boolean);
+  return allowlist.includes(email.toLowerCase());
+}
+
 export async function currentAnnotator(): Promise<Annotator | null> {
   const jar = await cookies();
   const raw = jar.get(sessionCookie)?.value;

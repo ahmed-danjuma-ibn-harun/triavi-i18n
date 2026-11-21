@@ -21,14 +21,15 @@ export function getSupabase() {
 }
 
 export async function readLanguage(code: string): Promise<Record<string, TranslationRecord>> {
+  const file = path.join(process.cwd(), "data", `${code}.json`);
+  let bundled: Record<string, TranslationRecord> = {};
+  try { bundled = JSON.parse(await readFile(file, "utf8")); } catch { /* language has no seed catalog */ }
   if (!process.env.SUPABASE_URL || !(process.env.SUPABASE_SECRET_KEY || process.env.SUPABASE_SERVICE_ROLE_KEY)) {
-    if (process.env.NODE_ENV === "production") throw new Error("Supabase is not configured.");
-    const file = path.join(process.cwd(), "data", `${code}.json`);
-    try { return JSON.parse(await readFile(file, "utf8")); } catch { return {}; }
+    return bundled;
   }
   const { data, error } = await getSupabase().from("translations").select("key,entry").eq("language", code);
   if (error) throw error;
-  return Object.fromEntries((data ?? []).map((row) => [row.key, row.entry as TranslationRecord]));
+  return { ...bundled, ...Object.fromEntries((data ?? []).map((row) => [row.key, row.entry as TranslationRecord])) };
 }
 
 export async function saveLanguage(code: string, entries: Record<string, TranslationRecord>) {
