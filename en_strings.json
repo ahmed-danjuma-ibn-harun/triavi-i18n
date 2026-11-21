@@ -1,5 +1,6 @@
 {
   "sections": [
+    "General",
     "Welcome screen",
     "Identity step",
     "Interview step",
@@ -34,6 +35,42 @@
     "i18n coverage gap keys (Prompt 76 extension)"
   ],
   "entries": [
+    {
+      "key": "patientStartCareCall",
+      "value": "Start care call",
+      "section": "General",
+      "placeholders": []
+    },
+    {
+      "key": "patientRequestRecorded",
+      "value": "Your request has been recorded for processing.",
+      "section": "General",
+      "placeholders": []
+    },
+    {
+      "key": "patientCheckinReceived",
+      "value": "Check-in received",
+      "section": "General",
+      "placeholders": []
+    },
+    {
+      "key": "patientAwaitingReview",
+      "value": "Your information has been saved for review by the care team.",
+      "section": "General",
+      "placeholders": []
+    },
+    {
+      "key": "patientCallEnded",
+      "value": "Call ended",
+      "section": "General",
+      "placeholders": []
+    },
+    {
+      "key": "patientNoCallSummary",
+      "value": "No clinical summary has been recorded for this call.",
+      "section": "General",
+      "placeholders": []
+    },
     {
       "key": "welcomeTitle",
       "value": "Let's get you ready for your visit.",
@@ -2691,6 +2728,544 @@
         "dial",
         "name"
       ]
+    },
+    {
+      "key": "questionOnset",
+      "value": "When did your symptoms start?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionContext",
+      "value": "Were you resting or active when it began?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionSeverity",
+      "value": "How strong is the discomfort right now?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionRadiation",
+      "value": "Does the discomfort spread anywhere?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionAssociated",
+      "value": "Are you noticing any of these as well?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceNow",
+      "value": "Just now",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceHours",
+      "value": "1–3 hours ago",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceToday",
+      "value": "Earlier today",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceYesterday",
+      "value": "Yesterday or before",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceResting",
+      "value": "Resting",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceActive",
+      "value": "Active / exertion",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceUnsure",
+      "value": "Not sure",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceLeftArm",
+      "value": "Left arm",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceJaw",
+      "value": "Jaw / neck",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceBack",
+      "value": "Back",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceChest",
+      "value": "It stays in my chest",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceSweating",
+      "value": "Sweating",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceNausea",
+      "value": "Nausea",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceBreathless",
+      "value": "Short of breath",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceNone",
+      "value": "None of these",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "followupPain",
+      "value": "How is your pain compared to when you were discharged?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "followupBreath",
+      "value": "Any new shortness of breath?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "followupMeds",
+      "value": "Have you been taking your medications as prescribed?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "followupFever",
+      "value": "Do you still have a fever?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "followupBreathing",
+      "value": "Is your breathing comfortable?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "followupEating",
+      "value": "Are you able to eat and drink normally?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceNo",
+      "value": "No",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceMildEffort",
+      "value": "Mild — only on exertion",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceYesRest",
+      "value": "Yes — at rest too",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceAllMeds",
+      "value": "Yes, all of them",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceMostMeds",
+      "value": "Most of them",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceMissedMeds",
+      "value": "No, I missed some doses",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceNoFever",
+      "value": "No fever",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceLowFever",
+      "value": "Low-grade (under 38°C)",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceHighFever",
+      "value": "Yes (38°C or above)",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceNormalBreath",
+      "value": "Yes, breathing normally",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceSlightBreath",
+      "value": "Slightly short of breath",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceHardBreath",
+      "value": "Struggling to breathe",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceYes",
+      "value": "Yes",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceLessFood",
+      "value": "Eating less than usual",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "choiceNoFluids",
+      "value": "Not keeping fluids down",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "triageImmediate",
+      "value": "Immediate",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "triageUrgent",
+      "value": "Urgent",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "triageSemiUrgent",
+      "value": "Semi-urgent",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "triageNonUrgent",
+      "value": "Non-urgent",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "triageElective",
+      "value": "Elective",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionLocation",
+      "value": "Where do you feel the symptoms?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionModifiers",
+      "value": "What makes the symptoms better or worse?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionReady",
+      "value": "Your answers are ready for review.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "errRequest",
+      "value": "We could not complete your request. Please try again.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "countryNoResults",
+      "value": "No results",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "demoChestTightness",
+      "value": "Chest tightness",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "demoPressure",
+      "value": "Pressure-like",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "demoOnset",
+      "value": "~1–3 hours ago, at rest",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "demoAssociated",
+      "value": "Sweating, mild breathlessness",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionDuration",
+      "value": "How long have you had this?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionCharacter",
+      "value": "How would you describe the quality of the discomfort?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionAggravating",
+      "value": "What makes it worse?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionRelieving",
+      "value": "What makes it better?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionPrior",
+      "value": "Have you had this before?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionMedications",
+      "value": "What medications are you currently taking?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionAllergies",
+      "value": "Do you have any allergies?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionHistory",
+      "value": "Any relevant medical history I should know about?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionRedFlags",
+      "value": "Are you experiencing any severe or alarming symptoms?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "questionSeverityScale",
+      "value": "How strong is the discomfort right now, from 0 to 10?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "timeSoon",
+      "value": "soon",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "timeToday",
+      "value": "Today",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "timeTomorrow",
+      "value": "Tomorrow",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "timeYesterday",
+      "value": "Yesterday",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "timeInDays",
+      "value": "in {count} days",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "count"
+      ]
+    },
+    {
+      "key": "timeMinutes",
+      "value": "{count} min",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "count"
+      ]
+    },
+    {
+      "key": "callMedicationReminder",
+      "value": "Medication reminder",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callFollowupType",
+      "value": "Follow-up check-in",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callTaken",
+      "value": "I've taken it",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callRemindHour",
+      "value": "Remind me in 1 hour",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callSharedTeam",
+      "value": "Shared with {hospital} care team",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "callBackHour",
+      "value": "We'll call you back in 1 hour · {hospital}",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "hospital"
+      ]
+    },
+    {
+      "key": "demoCallGreeting",
+      "value": "Hi {name}, it's {agent} calling from {hospital}.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "agent",
+        "hospital",
+        "name"
+      ]
+    },
+    {
+      "key": "demoCallEvening",
+      "value": "I'm calling to remind you about your evening dose of {med}.",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "med"
+      ]
+    },
+    {
+      "key": "demoCallDue",
+      "value": "It's 8 o'clock — time for your {med}. Have you taken it yet?",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": [
+        "med"
+      ]
+    },
+    {
+      "key": "callAnswered",
+      "value": "answered",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callDeclined",
+      "value": "declined",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callNoAnswer",
+      "value": "no answer",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callReportedTaken",
+      "value": "reported taken",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callSnoozedHour",
+      "value": "snoozed 1h",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callReminderHour",
+      "value": "reminder in 1 hour",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
+    },
+    {
+      "key": "callTypeLabel",
+      "value": "Care call",
+      "section": "i18n coverage gap keys (Prompt 76 extension)",
+      "placeholders": []
     }
   ]
 }

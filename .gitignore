@@ -5,6 +5,14 @@ build/
 dist/
 wheels/
 *.egg-info
+
+# Next.js / Node
+node_modules/
+.next/
+*.tsbuildinfo
+.env.local
+.env.example
+.env.*.local
 batch_translate_nllb.py
 nllb_langs.py
 
